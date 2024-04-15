@@ -1,0 +1,1578 @@
+GHG emissions by building type (metric ton)
+t_periods,emissions_comm,Sub,Archetype,NewOld,Emisions
+2016,CH4,Commercial,"Arts, Entertainment and Recreation",Old,1.8605063786685965
+2016,CH4,Commercial,Accommodation and Food Services,Old,2.169771932591839
+2016,CH4,Commercial,Educational Services,Old,5.409304216456905
+2016,CH4,Commercial,Health Care and Social Assistance,Old,3.3559984087661077
+2016,CH4,Commercial,Information and Cultural Industries,Old,0.2840456839005348
+2016,CH4,Commercial,Offices,Old,18.889701360225374
+2016,CH4,Commercial,Other Services,Old,2.2098551700205635
+2016,CH4,Commercial,Retail Trade,Old,6.821744826522845
+2016,CH4,Commercial,Transportation and Warehousing,Old,1.2123612553533656
+2016,CH4,Commercial,Wholesale Trade,Old,4.320909400655542
+2016,CH4,Industry,,,16.313422075788782
+2016,CH4,Public,Hospital,Old,1.687945705779701
+2016,CH4,Public,Municipality,Old,1.471170925286463
+2016,CH4,Public,Post-Secondary Institution,Old,2.7069173199279275
+2016,CH4,Public,School board,Old,2.7881330602632
+2016,CH4,Residential,Apartments,Old,79.16523709552689
+2016,CH4,Residential,Single Attached,Old,44.7288248972994
+2016,CH4,Residential,Single Detached,Old,108.0473779420147
+2016,CO2,Commercial,"Arts, Entertainment and Recreation",Old,95316.16502539803
+2016,CO2,Commercial,Accommodation and Food Services,Old,111334.79165006074
+2016,CO2,Commercial,Educational Services,Old,279352.2193839843
+2016,CO2,Commercial,Health Care and Social Assistance,Old,172945.30407356966
+2016,CO2,Commercial,Information and Cultural Industries,Old,14476.894255552694
+2016,CO2,Commercial,Offices,Old,982477.2547832443
+2016,CO2,Commercial,Other Services,Old,113317.75969471509
+2016,CO2,Commercial,Retail Trade,Old,351399.14971951244
+2016,CO2,Commercial,Transportation and Warehousing,Old,62180.16066972512
+2016,CO2,Commercial,Wholesale Trade,Old,221507.6468322712
+2016,CO2,Industry,,,822364.526175333
+2016,CO2,Public,Hospital,Old,93883.058296589
+2016,CO2,Public,Municipality,Old,74804.41713030655
+2016,CO2,Public,Post-Secondary Institution,Old,139616.79364852599
+2016,CO2,Public,School board,Old,141356.85757334327
+2016,CO2,Residential,Apartments,Old,1346296.159244333
+2016,CO2,Residential,Single Attached,Old,714518.0685690837
+2016,CO2,Residential,Single Detached,Old,1624335.637709186
+2016,CO2e,Commercial,"Arts, Entertainment and Recreation",Old,95954.7181561089
+2016,CO2e,Commercial,Accommodation and Food Services,Old,112086.35963709325
+2016,CO2e,Commercial,Educational Services,Old,281236.73929260974
+2016,CO2e,Commercial,Health Care and Social Assistance,Old,174136.70211916827
+2016,CO2e,Commercial,Information and Cultural Industries,Old,14575.340805828577
+2016,CO2e,Commercial,Offices,Old,990016.4375928111
+2016,CO2e,Commercial,Other Services,Old,114061.78685565047
+2016,CO2e,Commercial,Retail Trade,Old,353728.3546899329
+2016,CO2e,Commercial,Transportation and Warehousing,Old,62608.34695040752
+2016,CO2e,Commercial,Wholesale Trade,Old,223020.3294720804
+2016,CO2e,Industry,,,827287.0281918605
+2016,CO2e,Public,Hospital,Old,94405.8123360008
+2016,CO2e,Public,Municipality,Old,75250.03141843113
+2016,CO2e,Public,Post-Secondary Institution,Old,140442.15340550363
+2016,CO2e,Public,School board,Old,142201.37211287825
+2016,CO2e,Residential,Apartments,Old,1355478.2257525127
+2016,CO2e,Residential,Single Attached,Old,719451.6028722347
+2016,CO2e,Residential,Single Detached,Old,1635682.1886205045
+2016,N2O,Commercial,"Arts, Entertainment and Recreation",Old,2.0116862307341035
+2016,N2O,Commercial,Accommodation and Food Services,Old,2.3691368337181515
+2016,N2O,Commercial,Educational Services,Old,5.942699731811441
+2016,N2O,Commercial,Health Care and Social Assistance,Old,3.761483486625875
+2016,N2O,Commercial,Information and Cultural Industries,Old,0.31034090910729634
+2016,N2O,Commercial,Offices,Old,23.96811772148137
+2016,N2O,Commercial,Other Services,Old,2.3410073904863467
+2016,N2O,Commercial,Retail Trade,Old,7.335397077393819
+2016,N2O,Commercial,Transportation and Warehousing,Old,1.3514318601340563
+2016,N2O,Commercial,Wholesale Trade,Old,4.771622625488147
+2016,N2O,Industry,,,15.368859573607477
+2016,N2O,Public,Hospital,Old,1.635258991914045
+2016,N2O,Public,Municipality,Old,1.391676841253513
+2016,N2O,Public,Post-Secondary Institution,Old,2.578907695500567
+2016,N2O,Public,School board,Old,2.6374622324476884
+2016,N2O,Residential,Apartments,Old,25.233545399910586
+2016,N2O,Residential,Single Attached,Old,13.403452954050888
+2016,N2O,Residential,Single Detached,Old,30.461597229985788
+2017,CH4,Commercial,"Arts, Entertainment and Recreation",Old,1.8891764527032617
+2017,CH4,Commercial,Accommodation and Food Services,Old,2.2005695626176496
+2017,CH4,Commercial,Educational Services,Old,5.468090953678903
+2017,CH4,Commercial,Health Care and Social Assistance,Old,3.407832358302873
+2017,CH4,Commercial,Information and Cultural Industries,Old,0.2887557594054029
+2017,CH4,Commercial,Offices,Old,18.99389502816109
+2017,CH4,Commercial,Other Services,Old,2.2496279846942397
+2017,CH4,Commercial,Retail Trade,Old,6.891710041819944
+2017,CH4,Commercial,Transportation and Warehousing,Old,1.2323657141712372
+2017,CH4,Commercial,Wholesale Trade,Old,4.372118483418548
+2017,CH4,Industry,,,16.332350850473183
+2017,CH4,Public,Hospital,Old,1.705863809935266
+2017,CH4,Public,Municipality,Old,1.4958597901290136
+2017,CH4,Public,Post-Secondary Institution,Old,2.728843612870314
+2017,CH4,Public,School board,Old,2.8154870991196486
+2017,CH4,Residential,Apartments,Old,99.89820567521149
+2017,CH4,Residential,Single Attached,Old,46.154724667481425
+2017,CH4,Residential,Single Detached,Old,109.17590889973454
+2017,CO2,Commercial,"Arts, Entertainment and Recreation",Old,96286.85492222178
+2017,CO2,Commercial,Accommodation and Food Services,Old,112360.97216712785
+2017,CO2,Commercial,Educational Services,Old,281617.5973985841
+2017,CO2,Commercial,Health Care and Social Assistance,Old,174773.31833460668
+2017,CO2,Commercial,Information and Cultural Industries,Old,14593.089314710309
+2017,CO2,Commercial,Offices,Old,987998.8513486797
+2017,CO2,Commercial,Other Services,Old,114787.44893191107
+2017,CO2,Commercial,Retail Trade,Old,354217.6358067644
+2017,CO2,Commercial,Transportation and Warehousing,Old,62793.847435747586
+2017,CO2,Commercial,Wholesale Trade,Old,223451.54712622016
+2017,CO2,Industry,,,823318.7314151649
+2017,CO2,Public,Hospital,Old,94983.92396458056
+2017,CO2,Public,Municipality,Old,75483.8135532137
+2017,CO2,Public,Post-Secondary Institution,Old,140906.21758205362
+2017,CO2,Public,School board,Old,142020.30932259504
+2017,CO2,Residential,Apartments,Old,1353327.733454048
+2017,CO2,Residential,Single Attached,Old,713015.0091975073
+2017,CO2,Residential,Single Detached,Old,1619024.0693868508
+2017,CO2e,Commercial,"Arts, Entertainment and Recreation",Old,96927.02599251008
+2017,CO2e,Commercial,Accommodation and Food Services,Old,113113.85954731886
+2017,CO2e,Commercial,Educational Services,Old,283497.99862150213
+2017,CO2e,Commercial,Health Care and Social Assistance,Old,175969.0146855008
+2017,CO2e,Commercial,Information and Cultural Industries,Old,14691.989741572534
+2017,CO2e,Commercial,Offices,Old,995536.2676172717
+2017,CO2e,Commercial,Other Services,Old,115537.60328114241
+2017,CO2e,Commercial,Retail Trade,Old,356541.1721874885
+2017,CO2e,Commercial,Transportation and Warehousing,Old,63220.6996082511
+2017,CO2e,Commercial,Wholesale Trade,Old,224963.46886255147
+2017,CO2e,Industry,,,828246.9451046396
+2017,CO2e,Public,Hospital,Old,95512.66234567056
+2017,CO2e,Public,Municipality,Old,75936.91156236982
+2017,CO2e,Public,Post-Secondary Institution,Old,141738.82389684735
+2017,CO2e,Public,School board,Old,142873.1167376381
+2017,CO2e,Residential,Apartments,Old,1363084.5512190503
+2017,CO2e,Residential,Single Attached,Old,717981.8135725319
+2017,CO2e,Residential,Single Detached,Old,1630391.5801717285
+2017,N2O,Commercial,"Arts, Entertainment and Recreation",Old,2.0150951838305797
+2017,N2O,Commercial,Accommodation and Food Services,Old,2.3713940247518375
+2017,N2O,Commercial,Educational Services,Old,5.924735949297511
+2017,N2O,Commercial,Health Care and Social Assistance,Old,3.7722546019117544
+2017,N2O,Commercial,Information and Cultural Industries,Old,0.31153206682788015
+2017,N2O,Commercial,Offices,Old,23.954847224833816
+2017,N2O,Commercial,Other Services,Old,2.3587656427941703
+2017,N2O,Commercial,Retail Trade,Old,7.311444529683695
+2017,N2O,Commercial,Transportation and Warehousing,Old,1.3455452768654041
+2017,N2O,Commercial,Wholesale Trade,Old,4.7654605643607955
+2017,N2O,Industry,,,15.386692354410329
+2017,N2O,Public,Hospital,Old,1.6540779902057776
+2017,N2O,Public,Municipality,Old,1.415050179742932
+2017,N2O,Public,Post-Secondary Institution,Old,2.6016798621589787
+2017,N2O,Public,School board,Old,2.663363040139274
+2017,N2O,Residential,Apartments,Old,25.701192771215947
+2017,N2O,Residential,Single Attached,Old,13.414614620829655
+2017,N2O,Residential,Single Detached,Old,30.452405026789975
+2018,CH4,Commercial,"Arts, Entertainment and Recreation",Old,1.825213127573638
+2018,CH4,Commercial,Accommodation and Food Services,Old,2.1296801804319863
+2018,CH4,Commercial,Educational Services,Old,5.334507740677549
+2018,CH4,Commercial,Health Care and Social Assistance,Old,3.382470600881463
+2018,CH4,Commercial,Information and Cultural Industries,Old,0.2764067657761967
+2018,CH4,Commercial,Offices,Old,18.661532716736044
+2018,CH4,Commercial,Other Services,Old,2.212455722547044
+2018,CH4,Commercial,Retail Trade,Old,6.7878759618844935
+2018,CH4,Commercial,Transportation and Warehousing,Old,1.1946962341279392
+2018,CH4,Commercial,Wholesale Trade,Old,4.242384331489557
+2018,CH4,Industry,,,16.35127962516001
+2018,CH4,Public,Hospital,Old,1.7046222887800189
+2018,CH4,Public,Municipality,Old,1.5216463996441192
+2018,CH4,Public,Post-Secondary Institution,Old,2.753228354585119
+2018,CH4,Public,School board,Old,2.839666392942308
+2018,CH4,Residential,Apartments,Old,422.9376119241715
+2018,CH4,Residential,Single Attached,Old,183.50497886605712
+2018,CH4,Residential,Single Detached,Old,367.27484506161323
+2018,CO2,Commercial,"Arts, Entertainment and Recreation",Old,92348.47056491833
+2018,CO2,Commercial,Accommodation and Food Services,Old,108037.72735452335
+2018,CO2,Commercial,Educational Services,Old,274917.0936926098
+2018,CO2,Commercial,Health Care and Social Assistance,Old,173033.33852001608
+2018,CO2,Commercial,Information and Cultural Industries,Old,13443.828028498167
+2018,CO2,Commercial,Offices,Old,972919.8173722662
+2018,CO2,Commercial,Other Services,Old,112273.27200686542
+2018,CO2,Commercial,Retail Trade,Old,349437.0256458785
+2018,CO2,Commercial,Transportation and Warehousing,Old,60449.53682854513
+2018,CO2,Commercial,Wholesale Trade,Old,216713.83549597053
+2018,CO2,Industry,,,824272.9366551319
+2018,CO2,Public,Hospital,Old,94854.3769748444
+2018,CO2,Public,Municipality,Old,75643.97531980435
+2018,CO2,Public,Post-Secondary Institution,Old,141570.19244502977
+2018,CO2,Public,School board,Old,141768.86116612927
+2018,CO2,Residential,Apartments,Old,1427454.8435835706
+2018,CO2,Residential,Single Attached,Old,726894.429316902
+2018,CO2,Residential,Single Detached,Old,1639840.6470761618
+2018,CO2e,Commercial,"Arts, Entertainment and Recreation",Old,92977.85532764663
+2018,CO2e,Commercial,Accommodation and Food Services,Old,108778.91159174316
+2018,CO2e,Commercial,Educational Services,Old,276791.5740006571
+2018,CO2e,Commercial,Health Care and Social Assistance,Old,174239.49067550054
+2018,CO2e,Commercial,Information and Cultural Industries,Old,13540.034187868789
+2018,CO2e,Commercial,Offices,Old,980433.6888250682
+2018,CO2e,Commercial,Other Services,Old,113020.5455428916
+2018,CO2e,Commercial,Retail Trade,Old,351774.20451455534
+2018,CO2e,Commercial,Transportation and Warehousing,Old,60873.85606695687
+2018,CO2e,Commercial,Wholesale Trade,Old,218210.0429993668
+2018,CO2e,Industry,,,829206.8620175553
+2018,CO2e,Public,Hospital,Old,95383.82879375189
+2018,CO2e,Public,Municipality,Old,76104.8878160331
+2018,CO2e,Public,Post-Secondary Institution,Old,142411.0298176282
+2018,CO2e,Public,School board,Old,142628.99733304285
+2018,CO2e,Residential,Apartments,Old,1445608.1132163173
+2018,CO2e,Residential,Single Attached,Old,735352.2410059955
+2018,CO2e,Residential,Single Detached,Old,1657750.457475011
+2018,N2O,Commercial,"Arts, Entertainment and Recreation",Old,1.9834070035208977
+2018,N2O,Commercial,Accommodation and Food Services,Old,2.337117293391632
+2018,N2O,Commercial,Educational Services,Old,5.914280689573744
+2018,N2O,Commercial,Health Care and Social Assistance,Old,3.809128432436143
+2018,N2O,Commercial,Information and Cultural Industries,Old,0.30336113184334434
+2018,N2O,Commercial,Offices,Old,23.899259281040468
+2018,N2O,Commercial,Other Services,Old,2.351718006216979
+2018,N2O,Commercial,Retail Trade,Old,7.36454185730607
+2018,N2O,Commercial,Transportation and Warehousing,Old,1.339700058708216
+2018,N2O,Commercial,Wholesale Trade,Old,4.721870578640689
+2018,N2O,Industry,,,15.40452513521578
+2018,N2O,Public,Hospital,Old,1.6565595665873878
+2018,N2O,Public,Municipality,Old,1.4394561135443826
+2018,N2O,Public,Post-Secondary Institution,Old,2.6275824736647433
+2018,N2O,Public,School board,Old,2.686252257254315
+2018,N2O,Residential,Apartments,Old,31.11268383334885
+2018,N2O,Residential,Single Attached,Old,15.450359506395918
+2018,N2O,Residential,Single Detached,Old,34.21825051192818
+2019,CH4,Commercial,"Arts, Entertainment and Recreation",Old,1.8441780160933818
+2019,CH4,Commercial,Accommodation and Food Services,Old,2.14909208644463
+2019,CH4,Commercial,Educational Services,Old,5.3695192641794875
+2019,CH4,Commercial,Health Care and Social Assistance,Old,3.4177634015206855
+2019,CH4,Commercial,Information and Cultural Industries,Old,0.27911571371002125
+2019,CH4,Commercial,Offices,Old,18.7311660681049
+2019,CH4,Commercial,Other Services,Old,2.2395211599025986
+2019,CH4,Commercial,Retail Trade,Old,6.827373248971115
+2019,CH4,Commercial,Transportation and Warehousing,Old,1.2135891231251066
+2019,CH4,Commercial,Wholesale Trade,Old,4.273873047253454
+2019,CH4,Industry,,,16.37020839355588
+2019,CH4,Public,Hospital,Old,1.7140634321404948
+2019,CH4,Public,Municipality,Old,1.5463610704304598
+2019,CH4,Public,Post-Secondary Institution,Old,2.7642576865097856
+2019,CH4,Public,School board,Old,2.8644871218918655
+2019,CH4,Residential,Apartments,Old,475.69560610467244
+2019,CH4,Residential,Single Attached,Old,185.43227302386836
+2019,CH4,Residential,Single Detached,Old,368.98822976729014
+2019,CO2,Commercial,"Arts, Entertainment and Recreation",Old,93247.4063957026
+2019,CO2,Commercial,Accommodation and Food Services,Old,108978.714509687
+2019,CO2,Commercial,Educational Services,Old,276624.1224418807
+2019,CO2,Commercial,Health Care and Social Assistance,Old,174691.76748463645
+2019,CO2,Commercial,Information and Cultural Industries,Old,13573.964354040274
+2019,CO2,Commercial,Offices,Old,976241.9120935156
+2019,CO2,Commercial,Other Services,Old,113511.13929754369
+2019,CO2,Commercial,Retail Trade,Old,351373.05868239485
+2019,CO2,Commercial,Transportation and Warehousing,Old,61294.14510067728
+2019,CO2,Commercial,Wholesale Trade,Old,218222.76161810703
+2019,CO2,Industry,,,825227.141577966
+2019,CO2,Public,Hospital,Old,95259.57263187904
+2019,CO2,Public,Municipality,Old,76559.06359358614
+2019,CO2,Public,Post-Secondary Institution,Old,141954.4103418022
+2019,CO2,Public,School board,Old,142601.39381311074
+2019,CO2,Residential,Apartments,Old,1459523.7212409596
+2019,CO2,Residential,Single Attached,Old,736538.9176456115
+2019,CO2,Residential,Single Detached,Old,1660192.371288822
+2019,CO2e,Commercial,"Arts, Entertainment and Recreation",Old,93887.49738074951
+2019,CO2e,Commercial,Accommodation and Food Services,Old,109731.49327827217
+2019,CO2e,Commercial,Educational Services,Old,278518.8614184143
+2019,CO2e,Commercial,Health Care and Social Assistance,Old,175917.33288404462
+2019,CO2e,Commercial,Information and Cultural Industries,Old,13671.873496949755
+2019,CO2e,Commercial,Offices,Old,983799.3780671222
+2019,CO2e,Commercial,Other Services,Old,114271.75958214387
+2019,CO2e,Commercial,Retail Trade,Old,353733.0390094249
+2019,CO2e,Commercial,Transportation and Warehousing,Old,61728.63542357465
+2019,CO2e,Commercial,Wholesale Trade,Old,219736.99904331367
+2019,CO2e,Industry,,,830166.7786114392
+2019,CO2e,Public,Hospital,Old,95791.97833230645
+2019,CO2e,Public,Municipality,Old,77027.47453752422
+2019,CO2e,Public,Post-Secondary Institution,Old,142798.62738266354
+2019,CO2e,Public,School board,Old,143469.06317353377
+2019,CO2e,Residential,Apartments,Old,1479081.3311005388
+2019,CO2e,Residential,Single Attached,Old,745054.3508288756
+2019,CO2e,Residential,Single Detached,Old,1678159.1595625177
+2019,N2O,Commercial,"Arts, Entertainment and Recreation",Old,2.017997472177502
+2019,N2O,Commercial,Accommodation and Food Services,Old,2.3746571636569174
+2019,N2O,Commercial,Educational Services,Old,5.979795543577183
+2019,N2O,Commercial,Health Care and Social Assistance,Old,3.8717864697186313
+2019,N2O,Commercial,Information and Cultural Industries,Old,0.3088849426898083
+2019,N2O,Commercial,Offices,Old,24.0406425710607
+2019,N2O,Commercial,Other Services,Old,2.394598457188492
+2019,N2O,Commercial,Retail Trade,Old,7.438273452354589
+2019,N2O,Commercial,Transportation and Warehousing,Old,1.3724998366165664
+2019,N2O,Commercial,Wholesale Trade,Old,4.78015466850389
+2019,N2O,Industry,,,15.422357910094457
+2019,N2O,Public,Hospital,Old,1.6658066052094205
+2019,N2O,Public,Municipality,Old,1.4628770518759657
+2019,N2O,Public,Post-Secondary Institution,Old,2.6381464075322847
+2019,N2O,Public,School board,Old,2.709782318333102
+2019,N2O,Residential,Apartments,Old,32.107389702619486
+2019,N2O,Residential,Single Attached,Old,15.507904193833106
+2019,N2O,Residential,Single Detached,Old,34.28870955899721
+2020,CH4,Commercial,"Arts, Entertainment and Recreation",Old,1.8647168096630855
+2020,CH4,Commercial,Accommodation and Food Services,Old,2.168679659553145
+2020,CH4,Commercial,Educational Services,Old,5.430307982291738
+2020,CH4,Commercial,Health Care and Social Assistance,Old,3.467106452511649
+2020,CH4,Commercial,Information and Cultural Industries,Old,0.2791795296089402
+2020,CH4,Commercial,Offices,Old,18.91066936203659
+2020,CH4,Commercial,Other Services,Old,2.27357968130233
+2020,CH4,Commercial,Retail Trade,Old,6.903138585525576
+2020,CH4,Commercial,Transportation and Warehousing,Old,1.2327646847292755
+2020,CH4,Commercial,Wholesale Trade,Old,4.321305263544989
+2020,CH4,Industry,,,16.389137168244243
+2020,CH4,Public,Hospital,Old,1.754188418488826
+2020,CH4,Public,Municipality,Old,1.581290009975555
+2020,CH4,Public,Post-Secondary Institution,Old,2.7980043454552477
+2020,CH4,Public,School board,Old,3.0245670057212384
+2020,CH4,Residential,Apartments,Old,528.2806469403935
+2020,CH4,Residential,Single Attached,Old,186.99862760265927
+2020,CH4,Residential,Single Detached,Old,369.6952236926593
+2020,CO2,Commercial,"Arts, Entertainment and Recreation",Old,94323.70080989723
+2020,CO2,Commercial,Accommodation and Food Services,Old,109825.51252310713
+2020,CO2,Commercial,Educational Services,Old,279442.2005511847
+2020,CO2,Commercial,Health Care and Social Assistance,Old,176930.48328067406
+2020,CO2,Commercial,Information and Cultural Industries,Old,13643.199275065503
+2020,CO2,Commercial,Offices,Old,984746.5226883858
+2020,CO2,Commercial,Other Services,Old,115222.9341182378
+2020,CO2,Commercial,Retail Trade,Old,354993.1946666377
+2020,CO2,Commercial,Transportation and Warehousing,Old,62292.96671601202
+2020,CO2,Commercial,Wholesale Trade,Old,220338.6795426068
+2020,CO2,Industry,,,826181.3468180001
+2020,CO2,Public,Hospital,Old,96534.38442791613
+2020,CO2,Public,Municipality,Old,77990.35707470923
+2020,CO2,Public,Post-Secondary Institution,Old,143304.00940482735
+2020,CO2,Public,School board,Old,148481.46855326972
+2020,CO2,Residential,Apartments,Old,1481041.3133057815
+2020,CO2,Residential,Single Attached,Old,733664.732190174
+2020,CO2,Residential,Single Detached,Old,1649769.2225875128
+2020,CO2e,Commercial,"Arts, Entertainment and Recreation",Old,94972.54477517656
+2020,CO2e,Commercial,Accommodation and Food Services,Old,110587.10739764731
+2020,CO2e,Commercial,Educational Services,Old,281363.7531211171
+2020,CO2e,Commercial,Health Care and Social Assistance,Old,178177.87117485685
+2020,CO2e,Commercial,Information and Cultural Industries,Old,13740.76068029722
+2020,CO2e,Commercial,Offices,Old,992390.4746086311
+2020,CO2e,Commercial,Other Services,Old,115997.00747604002
+2020,CO2e,Commercial,Retail Trade,Old,357386.3966328979
+2020,CO2e,Commercial,Transportation and Warehousing,Old,62735.94728428745
+2020,CO2e,Commercial,Wholesale Trade,Old,221873.8868420478
+2020,CO2e,Industry,,,831126.695524422
+2020,CO2e,Public,Hospital,Old,97079.03548941636
+2020,CO2e,Public,Municipality,Old,78469.36349791233
+2020,CO2e,Public,Post-Secondary Institution,Old,144158.49201835843
+2020,CO2e,Public,School board,Old,149397.64484348448
+2020,CO2e,Residential,Apartments,Old,1501978.989933119
+2020,CO2e,Residential,Single Attached,Old,742190.1273543059
+2020,CO2e,Residential,Single Detached,Old,1667665.0933044278
+2020,N2O,Commercial,"Arts, Entertainment and Recreation",Old,2.0459225244173425
+2020,N2O,Commercial,Accommodation and Food Services,Old,2.4028610794951373
+2020,N2O,Commercial,Educational Services,Old,6.065490276188232
+2020,N2O,Commercial,Health Care and Social Assistance,Old,3.9415391230872596
+2020,N2O,Commercial,Information and Cultural Industries,Old,0.307713540637321
+2020,N2O,Commercial,Offices,Old,24.318214307523668
+2020,N2O,Commercial,Other Services,Old,2.4373429009895955
+2020,N2O,Commercial,Retail Trade,Old,7.54441629518109
+2020,N2O,Commercial,Transportation and Warehousing,Old,1.3996392949534182
+2020,N2O,Commercial,Wholesale Trade,Old,4.847180835256241
+2020,N2O,Industry,,,15.440190690901035
+2020,N2O,Public,Hospital,Old,1.7040708211808213
+2020,N2O,Public,Municipality,Old,1.4959709160859025
+2020,N2O,Public,Post-Secondary Institution,Old,2.6702165177064985
+2020,N2O,Public,School board,Old,2.861276453337708
+2020,N2O,Residential,Apartments,Old,33.03282899862188
+2020,N2O,Residential,Single Attached,Old,15.43095296803942
+2020,N2O,Residential,Single Detached,Old,34.00090946096908
+2021,CH4,Commercial,"Arts, Entertainment and Recreation",Old,1.8698932348544048
+2021,CH4,Commercial,Accommodation and Food Services,Old,2.174760006610365
+2021,CH4,Commercial,Educational Services,Old,5.444413482294577
+2021,CH4,Commercial,Health Care and Social Assistance,Old,3.4856697237642753
+2021,CH4,Commercial,Information and Cultural Industries,Old,0.2799326647529327
+2021,CH4,Commercial,Offices,Old,18.948838616315815
+2021,CH4,Commercial,Other Services,Old,2.2826428317034195
+2021,CH4,Commercial,Retail Trade,Old,6.921525633407346
+2021,CH4,Commercial,Transportation and Warehousing,Old,1.237252396035474
+2021,CH4,Commercial,Wholesale Trade,Old,4.3313552029719045
+2021,CH4,Industry,,,16.408065942926896
+2021,CH4,Public,Hospital,Old,1.763103009169386
+2021,CH4,Public,Municipality,Old,1.6079686654280727
+2021,CH4,Public,Post-Secondary Institution,Old,2.8079619854500817
+2021,CH4,Public,School board,Old,3.0504054597977532
+2021,CH4,Residential,Apartments,Old,569.0996500253807
+2021,CH4,Residential,Single Attached,Old,188.0352055390814
+2021,CH4,Residential,Single Detached,Old,371.1717346675316
+2021,CO2,Commercial,"Arts, Entertainment and Recreation",Old,94539.63229464134
+2021,CO2,Commercial,Accommodation and Food Services,Old,110097.28599552247
+2021,CO2,Commercial,Educational Services,Old,280132.49819521926
+2021,CO2,Commercial,Health Care and Social Assistance,Old,177758.14491549775
+2021,CO2,Commercial,Information and Cultural Industries,Old,13671.949201430105
+2021,CO2,Commercial,Offices,Old,986529.8764203569
+2021,CO2,Commercial,Other Services,Old,115574.36556139261
+2021,CO2,Commercial,Retail Trade,Old,355884.72603996354
+2021,CO2,Commercial,Transportation and Warehousing,Old,62466.88566904549
+2021,CO2,Commercial,Wholesale Trade,Old,220804.38999989678
+2021,CO2,Industry,,,827135.552057752
+2021,CO2,Public,Hospital,Old,96891.55725398105
+2021,CO2,Public,Municipality,Old,78970.53522082935
+2021,CO2,Public,Post-Secondary Institution,Old,143616.08029904784
+2021,CO2,Public,School board,Old,149351.37878225502
+2021,CO2,Residential,Apartments,Old,1490858.3167454358
+2021,CO2,Residential,Single Attached,Old,733862.125739716
+2021,CO2,Residential,Single Detached,Old,1650020.4474615378
+2021,CO2e,Commercial,"Arts, Entertainment and Recreation",Old,95191.34166421952
+2021,CO2e,Commercial,Accommodation and Food Services,Old,110862.25947640867
+2021,CO2e,Commercial,Educational Services,Old,282061.58784112823
+2021,CO2e,Commercial,Health Care and Social Assistance,Old,179014.6453311477
+2021,CO2e,Commercial,Information and Cultural Industries,Old,13769.942538497759
+2021,CO2e,Commercial,Offices,Old,994197.8668643914
+2021,CO2e,Commercial,Other Services,Old,116352.91630705522
+2021,CO2e,Commercial,Retail Trade,Old,358287.3596963797
+2021,CO2e,Commercial,Transportation and Warehousing,Old,62912.25400666926
+2021,CO2e,Commercial,Wholesale Trade,Old,222345.08252170015
+2021,CO2e,Industry,,,832086.6124371213
+2021,CO2e,Public,Hospital,Old,97438.979189326
+2021,CO2e,Public,Municipality,Old,79457.62844345586
+2021,CO2e,Public,Post-Secondary Institution,Old,144473.60056537855
+2021,CO2e,Public,School board,Old,150275.38796260435
+2021,CO2e,Residential,Apartments,Old,1512849.5097962255
+2021,CO2e,Residential,Single Attached,Old,742413.9958744
+2021,CO2e,Residential,Single Detached,Old,1667953.9601806737
+2021,N2O,Commercial,"Arts, Entertainment and Recreation",Old,2.055173193443581
+2021,N2O,Commercial,Accommodation and Food Services,Old,2.413770203850178
+2021,N2O,Commercial,Educational Services,Old,6.089788465707551
+2021,N2O,Commercial,Health Care and Social Assistance,Old,3.9708099041976164
+2021,N2O,Commercial,Information and Cultural Industries,Old,0.30910990304645597
+2021,N2O,Commercial,Offices,Old,24.39619071507298
+2021,N2O,Commercial,Other Services,Old,2.451729014083338
+2021,N2O,Commercial,Retail Trade,Old,7.574770530585851
+2021,N2O,Commercial,Transportation and Warehousing,Old,1.4073356956611607
+2021,N2O,Commercial,Wholesale Trade,Old,4.864879404499426
+2021,N2O,Industry,,,15.458023471702544
+2021,N2O,Public,Hospital,Old,1.7127408461488214
+2021,N2O,Public,Municipality,Old,1.521227787424532
+2021,N2O,Public,Post-Secondary Institution,Old,2.67970827059138
+2021,N2O,Public,School board,Old,2.885740488904313
+2021,N2O,Residential,Apartments,Old,33.69161208139423
+2021,N2O,Residential,Single Attached,Old,15.446747712627614
+2021,N2O,Residential,Single Detached,Old,34.02317547354704
+2022,CH4,Commercial,"Arts, Entertainment and Recreation",Old,1.8653528534328407
+2022,CH4,Commercial,Accommodation and Food Services,Old,2.168717844488241
+2022,CH4,Commercial,Educational Services,Old,5.42825351960963
+2022,CH4,Commercial,Health Care and Social Assistance,Old,3.4835580799916066
+2022,CH4,Commercial,Information and Cultural Industries,Old,0.2797209891229262
+2022,CH4,Commercial,Offices,Old,18.926079380329323
+2022,CH4,Commercial,Other Services,Old,2.2814465079492465
+2022,CH4,Commercial,Retail Trade,Old,6.905770043828931
+2022,CH4,Commercial,Transportation and Warehousing,Old,1.2328838707881273
+2022,CH4,Commercial,Wholesale Trade,Old,4.317034287073628
+2022,CH4,Industry,,,16.427126175036747
+2022,CH4,Public,Hospital,Old,1.7720985279419752
+2022,CH4,Public,Municipality,Old,1.6280520988970153
+2022,CH4,Public,Post-Secondary Institution,Old,2.8218772946228765
+2022,CH4,Public,School board,Old,3.0717782962066664
+2022,CH4,Residential,Apartments,Old,609.6990220398058
+2022,CH4,Residential,Single Attached,Old,189.0368968675959
+2022,CH4,Residential,Single Detached,Old,372.59776965275967
+2022,CO2,Commercial,"Arts, Entertainment and Recreation",Old,94269.22496375549
+2022,CO2,Commercial,Accommodation and Food Services,Old,109741.00322401174
+2022,CO2,Commercial,Educational Services,Old,279004.0830943335
+2022,CO2,Commercial,Health Care and Social Assistance,Old,177425.8689980807
+2022,CO2,Commercial,Information and Cultural Industries,Old,13673.01880525117
+2022,CO2,Commercial,Offices,Old,984775.017531562
+2022,CO2,Commercial,Other Services,Old,115454.7946746372
+2022,CO2,Commercial,Retail Trade,Old,354671.80229125865
+2022,CO2,Commercial,Transportation and Warehousing,Old,62197.34207373069
+2022,CO2,Commercial,Wholesale Trade,Old,219899.1116459663
+2022,CO2,Industry,,,828096.3841060473
+2022,CO2,Public,Hospital,Old,97298.32820289985
+2022,CO2,Public,Municipality,Old,79800.43116733948
+2022,CO2,Public,Post-Secondary Institution,Old,144126.52475999575
+2022,CO2,Public,School board,Old,150335.90051965206
+2022,CO2,Residential,Apartments,Old,1494251.8596555877
+2022,CO2,Residential,Single Attached,Old,731658.4781026944
+2022,CO2,Residential,Single Detached,Old,1644502.3333173476
+2022,CO2e,Commercial,"Arts, Entertainment and Recreation",Old,94911.97974380002
+2022,CO2e,Commercial,Accommodation and Food Services,Old,110495.53499309448
+2022,CO2e,Commercial,Educational Services,Old,280905.0571969681
+2022,CO2e,Commercial,Health Care and Social Assistance,Old,178670.42632813565
+2022,CO2e,Commercial,Information and Cultural Industries,Old,13769.96699781796
+2022,CO2e,Commercial,Offices,Old,992394.075021824
+2022,CO2e,Commercial,Other Services,Old,116226.81096479871
+2022,CO2e,Commercial,Retail Trade,Old,357042.0162012017
+2022,CO2e,Commercial,Transportation and Warehousing,Old,62633.464024540415
+2022,CO2e,Commercial,Wholesale Trade,Old,221417.27849409034
+2022,CO2e,Industry,,,833053.1958250536
+2022,CO2e,Public,Hospital,Old,97848.46925191376
+2022,CO2e,Public,Municipality,Old,80293.62372369958
+2022,CO2e,Public,Post-Secondary Institution,Old,144988.1765843792
+2022,CO2e,Public,School board,Old,151266.40286210258
+2022,CO2e,Residential,Apartments,Old,1517274.2428503884
+2022,CO2e,Residential,Single Attached,Old,740232.6463976047
+2022,CO2e,Residential,Single Detached,Old,1662465.4281462282
+2022,N2O,Commercial,"Arts, Entertainment and Recreation",Old,2.0254441950417266
+2022,N2O,Commercial,Accommodation and Food Services,Old,2.3791566924444294
+2022,N2O,Commercial,Educational Services,Old,5.9965797943715105
+2022,N2O,Commercial,Health Care and Social Assistance,Old,3.9308812428692876
+2022,N2O,Commercial,Information and Cultural Industries,Old,0.30561762347389426
+2022,N2O,Commercial,Offices,Old,24.233590010988465
+2022,N2O,Commercial,Other Services,Old,2.429885615753297
+2022,N2O,Commercial,Retail Trade,Old,7.467089728264163
+2022,N2O,Commercial,Transportation and Warehousing,Old,1.376615401084488
+2022,N2O,Commercial,Wholesale Trade,Old,4.790299087568436
+2022,N2O,Industry,,,15.4759800984222
+2022,N2O,Public,Hospital,Old,1.7212314762655383
+2022,N2O,Public,Municipality,Old,1.5402800747759864
+2022,N2O,Public,Post-Secondary Institution,Old,2.6925919503233398
+2022,N2O,Public,School board,Old,2.9060234839937507
+2022,N2O,Residential,Apartments,Old,34.29095212068688
+2022,N2O,Residential,Single Attached,Old,15.450984767417726
+2022,N2O,Residential,Single Detached,Old,34.0219518999055
+2023,CH4,Commercial,"Arts, Entertainment and Recreation",New,0.00337926293133901
+2023,CH4,Commercial,"Arts, Entertainment and Recreation",Old,1.8853135117795925
+2023,CH4,Commercial,Accommodation and Food Services,New,0.0020756731093193154
+2023,CH4,Commercial,Accommodation and Food Services,Old,2.1409632907550042
+2023,CH4,Commercial,Educational Services,New,0.011635573593755414
+2023,CH4,Commercial,Educational Services,Old,5.395436812520351
+2023,CH4,Commercial,Health Care and Social Assistance,New,0.014664328448815152
+2023,CH4,Commercial,Health Care and Social Assistance,Old,3.3546496387490894
+2023,CH4,Commercial,Information and Cultural Industries,Old,0.2830585556675571
+2023,CH4,Commercial,Offices,New,0.0396569526432863
+2023,CH4,Commercial,Offices,Old,17.4429751942008
+2023,CH4,Commercial,Other Services,New,0.01232365260228897
+2023,CH4,Commercial,Other Services,Old,2.2812517997804744
+2023,CH4,Commercial,Retail Trade,New,0.035577258600040684
+2023,CH4,Commercial,Retail Trade,Old,6.842682289119356
+2023,CH4,Commercial,Transportation and Warehousing,New,0.009033215366346109
+2023,CH4,Commercial,Transportation and Warehousing,Old,1.259404462763774
+2023,CH4,Commercial,Wholesale Trade,New,0.006562018687850729
+2023,CH4,Commercial,Wholesale Trade,Old,4.2831543623072665
+2023,CH4,Industry,,,15.843249800260239
+2023,CH4,Public,Hospital,Old,1.9996743427604984
+2023,CH4,Public,Municipality,Old,1.584628829066321
+2023,CH4,Public,Post-Secondary Institution,Old,3.3703179843428237
+2023,CH4,Public,School board,Old,2.797280722471439
+2023,CH4,Residential,Apartments,New,1.7627726763460774
+2023,CH4,Residential,Apartments,Old,528.9992390159888
+2023,CH4,Residential,Single Attached,New,0.4139612825556945
+2023,CH4,Residential,Single Attached,Old,168.4105220593881
+2023,CH4,Residential,Single Detached,New,0.8333383192818639
+2023,CH4,Residential,Single Detached,Old,346.29268677438677
+2023,CO2,Commercial,"Arts, Entertainment and Recreation",New,161.08161416440058
+2023,CO2,Commercial,"Arts, Entertainment and Recreation",Old,97164.14543328938
+2023,CO2,Commercial,Accommodation and Food Services,New,97.62893971470496
+2023,CO2,Commercial,Accommodation and Food Services,Old,110393.49145351295
+2023,CO2,Commercial,Educational Services,New,587.9765966988286
+2023,CO2,Commercial,Educational Services,Old,278124.71798491536
+2023,CO2,Commercial,Health Care and Social Assistance,New,758.4278868860313
+2023,CO2,Commercial,Health Care and Social Assistance,Old,173256.3988522207
+2023,CO2,Commercial,Information and Cultural Industries,Old,14540.320562530793
+2023,CO2,Commercial,Offices,New,2070.9797154538687
+2023,CO2,Commercial,Offices,Old,910078.4217642605
+2023,CO2,Commercial,Other Services,New,624.5828423848354
+2023,CO2,Commercial,Other Services,Old,117506.51238881348
+2023,CO2,Commercial,Retail Trade,New,1825.6607367641366
+2023,CO2,Commercial,Retail Trade,Old,352021.2935185899
+2023,CO2,Commercial,Transportation and Warehousing,New,460.37462592176774
+2023,CO2,Commercial,Transportation and Warehousing,Old,64896.260912932885
+2023,CO2,Commercial,Wholesale Trade,New,327.8734619949538
+2023,CO2,Commercial,Wholesale Trade,Old,220606.20884385536
+2023,CO2,Industry,,,749347.272751561
+2023,CO2,Public,Hospital,Old,109202.98561065673
+2023,CO2,Public,Municipality,Old,80472.89062889692
+2023,CO2,Public,Post-Secondary Institution,Old,176502.44896072478
+2023,CO2,Public,School board,Old,142313.99934690614
+2023,CO2,Residential,Apartments,New,5939.83863870057
+2023,CO2,Residential,Apartments,Old,1316501.2205700842
+2023,CO2,Residential,Single Attached,New,179.03407429190187
+2023,CO2,Residential,Single Attached,Old,651575.2254682247
+2023,CO2,Residential,Single Detached,New,1452.0208071436653
+2023,CO2,Residential,Single Detached,Old,1474710.6715435465
+2023,CO2e,Commercial,"Arts, Entertainment and Recreation",New,163.1849088879763
+2023,CO2e,Commercial,"Arts, Entertainment and Recreation",Old,97821.82440172015
+2023,CO2e,Commercial,Accommodation and Food Services,New,99.01467194192169
+2023,CO2e,Commercial,Accommodation and Food Services,Old,111143.97773126478
+2023,CO2e,Commercial,Educational Services,New,594.6872889479289
+2023,CO2e,Commercial,Educational Services,Old,279953.1408512972
+2023,CO2e,Commercial,Health Care and Social Assistance,New,767.4857727156823
+2023,CO2e,Commercial,Health Care and Social Assistance,Old,174443.6488266192
+2023,CO2e,Commercial,Information and Cultural Industries,Old,14647.029152431016
+2023,CO2e,Commercial,Offices,New,2090.5529726120917
+2023,CO2e,Commercial,Offices,Old,917062.0946122713
+2023,CO2e,Commercial,Other Services,New,631.0308188737196
+2023,CO2e,Commercial,Other Services,Old,118288.43111148356
+2023,CO2e,Commercial,Retail Trade,New,1840.9369807089918
+2023,CO2e,Commercial,Retail Trade,Old,354280.9659376558
+2023,CO2e,Commercial,Transportation and Warehousing,New,465.3472752150529
+2023,CO2e,Commercial,Transportation and Warehousing,Old,65343.73545480493
+2023,CO2e,Commercial,Wholesale Trade,New,331.76032331057786
+2023,CO2e,Commercial,Wholesale Trade,Old,222080.02036555897
+2023,CO2e,Industry,,,754150.9551679045
+2023,CO2e,Public,Hospital,Old,109819.64032293668
+2023,CO2e,Public,Municipality,Old,80953.86946744466
+2023,CO2e,Public,Post-Secondary Institution,Old,177531.08694047318
+2023,CO2e,Public,School board,Old,143162.49317081715
+2023,CO2e,Residential,Apartments,New,6063.021972833171
+2023,CO2e,Residential,Apartments,Old,1336654.0527007673
+2023,CO2e,Residential,Single Attached,New,191.02601154891727
+2023,CO2e,Residential,Single Attached,Old,659277.9910258665
+2023,CO2e,Residential,Single Detached,New,1491.8244491218554
+2023,CO2e,Residential,Single Detached,Old,1491248.7455577878
+2023,N2O,Commercial,"Arts, Entertainment and Recreation",New,0.006819900006770649
+2023,N2O,Commercial,"Arts, Entertainment and Recreation",Old,2.074118740548415
+2023,N2O,Commercial,Accommodation and Food Services,New,0.004503835878929566
+2023,N2O,Commercial,Accommodation and Food Services,Old,2.3675370759930146
+2023,N2O,Commercial,Educational Services,New,0.02169914497862811
+2023,N2O,Commercial,Educational Services,Old,5.75543185677413
+2023,N2O,Commercial,Health Care and Social Assistance,New,0.029362197759146155
+2023,N2O,Commercial,Health Care and Social Assistance,Old,3.747658832163428
+2023,N2O,Commercial,Information and Cultural Industries,Old,0.3381354370174416
+2023,N2O,Commercial,Offices,New,0.06288745353259292
+2023,N2O,Commercial,Offices,Old,22.205940835343885
+2023,N2O,Commercial,Other Services,New,0.020769059678644116
+2023,N2O,Commercial,Other Services,Old,2.4631289760897515
+2023,N2O,Commercial,Retail Trade,New,0.048755441322997
+2023,N2O,Commercial,Retail Trade,Old,7.100590909376457
+2023,N2O,Commercial,Transportation and Warehousing,New,0.016050173726818537
+2023,N2O,Commercial,Transportation and Warehousing,Old,1.4128424434695814
+2023,N2O,Commercial,Wholesale Trade,New,0.012580734641539968
+2023,N2O,Commercial,Wholesale Trade,Old,4.643843221795407
+2023,N2O,Industry,,,15.003269028648345
+2023,N2O,Public,Hospital,Old,1.9283944667177395
+2023,N2O,Public,Municipality,Old,1.5023544736154024
+2023,N2O,Public,Post-Secondary Institution,Old,3.2142996714000653
+2023,N2O,Public,School board,Old,2.6501709018090613
+2023,N2O,Residential,Apartments,New,0.2891446574809809
+2023,N2O,Residential,Apartments,Old,30.348483595120914
+2023,N2O,Residential,Single Attached,New,0.011069631957535936
+2023,N2O,Residential,Single Attached,Old,13.980350987899838
+2023,N2O,Residential,Single Detached,New,0.07484408480963259
+2023,N2O,Residential,Single Detached,Old,31.093716751606483
+2024,CH4,Commercial,"Arts, Entertainment and Recreation",New,0.00530234712690202
+2024,CH4,Commercial,"Arts, Entertainment and Recreation",Old,1.8235202855706802
+2024,CH4,Commercial,Accommodation and Food Services,New,0.0033875794168997087
+2024,CH4,Commercial,Accommodation and Food Services,Old,2.061470477152561
+2024,CH4,Commercial,Educational Services,New,0.01648649489004309
+2024,CH4,Commercial,Educational Services,Old,5.220670593975918
+2024,CH4,Commercial,Health Care and Social Assistance,New,0.01981426262560393
+2024,CH4,Commercial,Health Care and Social Assistance,Old,3.194997745858911
+2024,CH4,Commercial,Information and Cultural Industries,Old,0.2772177019692981
+2024,CH4,Commercial,Offices,New,0.07294920250151912
+2024,CH4,Commercial,Offices,Old,16.851791698295088
+2024,CH4,Commercial,Other Services,New,0.02261492230395913
+2024,CH4,Commercial,Other Services,Old,2.2060575326945098
+2024,CH4,Commercial,Retail Trade,New,0.06876776931303416
+2024,CH4,Commercial,Retail Trade,Old,6.643962099102794
+2024,CH4,Commercial,Transportation and Warehousing,New,0.017357333525829407
+2024,CH4,Commercial,Transportation and Warehousing,Old,1.2320003403331163
+2024,CH4,Commercial,Wholesale Trade,New,0.012216541217479953
+2024,CH4,Commercial,Wholesale Trade,Old,4.1487464535907375
+2024,CH4,Industry,,,18.985292098123473
+2024,CH4,Public,Hospital,New,0.0025842935521101684
+2024,CH4,Public,Hospital,Old,1.672313089068502
+2024,CH4,Public,Municipality,New,0.002860031520143183
+2024,CH4,Public,Municipality,Old,1.4446741003866057
+2024,CH4,Public,Post-Secondary Institution,New,0.0027862578569161165
+2024,CH4,Public,Post-Secondary Institution,Old,2.6700859244631685
+2024,CH4,Public,School board,New,0.004171271736178891
+2024,CH4,Public,School board,Old,2.3724574762819817
+2024,CH4,Residential,Apartments,New,4.416951863766146
+2024,CH4,Residential,Apartments,Old,474.99279106798
+2024,CH4,Residential,Single Attached,New,0.7433737948969976
+2024,CH4,Residential,Single Attached,Old,149.50183089803102
+2024,CH4,Residential,Single Detached,New,1.911138057379409
+2024,CH4,Residential,Single Detached,Old,319.5917298367458
+2024,CO2,Commercial,"Arts, Entertainment and Recreation",New,254.2049331155571
+2024,CO2,Commercial,"Arts, Entertainment and Recreation",Old,93907.36139485495
+2024,CO2,Commercial,Accommodation and Food Services,New,162.47518964877204
+2024,CO2,Commercial,Accommodation and Food Services,Old,106207.30635912622
+2024,CO2,Commercial,Educational Services,New,842.2033109663292
+2024,CO2,Commercial,Educational Services,Old,268645.50076371897
+2024,CO2,Commercial,Health Care and Social Assistance,New,1021.6434994914321
+2024,CO2,Commercial,Health Care and Social Assistance,Old,164857.27160036878
+2024,CO2,Commercial,Information and Cultural Industries,Old,14258.902507516661
+2024,CO2,Commercial,Offices,New,3769.818412669385
+2024,CO2,Commercial,Offices,Old,878910.488854488
+2024,CO2,Commercial,Other Services,New,1157.8533640941941
+2024,CO2,Commercial,Other Services,Old,113570.24090600417
+2024,CO2,Commercial,Retail Trade,New,3522.1791438780765
+2024,CO2,Commercial,Retail Trade,Old,341172.0386007831
+2024,CO2,Commercial,Transportation and Warehousing,New,890.4368283618113
+2024,CO2,Commercial,Transportation and Warehousing,Old,63399.482255942974
+2024,CO2,Commercial,Wholesale Trade,New,623.632312204969
+2024,CO2,Commercial,Wholesale Trade,Old,213432.24069211868
+2024,CO2,Industry,,,738194.7578775781
+2024,CO2,Public,Hospital,New,117.3783416812308
+2024,CO2,Public,Hospital,Old,92231.40962493113
+2024,CO2,Public,Municipality,New,129.29729756467978
+2024,CO2,Public,Municipality,Old,73471.14791476398
+2024,CO2,Public,Post-Secondary Institution,New,125.72522957004196
+2024,CO2,Public,Post-Secondary Institution,Old,139694.08064478292
+2024,CO2,Public,School board,New,192.30397460619807
+2024,CO2,Public,School board,Old,120827.47790113668
+2024,CO2,Residential,Apartments,New,10279.314708029886
+2024,CO2,Residential,Apartments,Old,1119442.345526799
+2024,CO2,Residential,Single Attached,New,394.38698562648557
+2024,CO2,Residential,Single Attached,Old,590888.5329037269
+2024,CO2,Residential,Single Detached,New,2960.1663332729427
+2024,CO2,Residential,Single Detached,Old,1356501.279037326
+2024,CO2e,Commercial,"Arts, Entertainment and Recreation",New,257.25251063103383
+2024,CO2e,Commercial,"Arts, Entertainment and Recreation",Old,94531.76809478634
+2024,CO2e,Commercial,Accommodation and Food Services,New,164.61601313479855
+2024,CO2e,Commercial,Accommodation and Food Services,Old,106916.73783506318
+2024,CO2e,Commercial,Educational Services,New,850.9507760187023
+2024,CO2e,Commercial,Educational Services,Old,270379.38494723075
+2024,CO2e,Commercial,Health Care and Social Assistance,New,1032.5469232852122
+2024,CO2e,Commercial,Health Care and Social Assistance,Old,165968.93247943855
+2024,CO2e,Commercial,Information and Cultural Industries,Old,14362.017479512017
+2024,CO2e,Commercial,Offices,New,3799.6206561805716
+2024,CO2e,Commercial,Offices,Old,885633.7630187864
+2024,CO2e,Commercial,Other Services,New,1168.122103253938
+2024,CO2e,Commercial,Other Services,Old,114315.56989238894
+2024,CO2e,Commercial,Retail Trade,New,3547.947320898542
+2024,CO2e,Commercial,Retail Trade,Old,343322.649225153
+2024,CO2e,Commercial,Transportation and Warehousing,New,898.6022311806388
+2024,CO2e,Commercial,Transportation and Warehousing,Old,63824.406917318076
+2024,CO2e,Commercial,Wholesale Trade,New,630.0350065858843
+2024,CO2e,Commercial,Wholesale Trade,Old,214832.1223718301
+2024,CO2e,Industry,,,743696.2071449958
+2024,CO2e,Public,Hospital,New,118.44895337772748
+2024,CO2e,Public,Hospital,Old,92748.66064417835
+2024,CO2e,Public,Municipality,New,130.4666257691225
+2024,CO2e,Public,Municipality,Old,73909.95825835214
+2024,CO2e,Public,Post-Secondary Institution,New,126.88663626822942
+2024,CO2e,Public,Post-Secondary Institution,Old,140509.2485032307
+2024,CO2e,Public,School board,New,194.00411693577692
+2024,CO2e,Public,School board,Old,121547.51560501527
+2024,CO2e,Residential,Apartments,New,10561.011775739298
+2024,CO2e,Residential,Apartments,Old,1137402.5779383462
+2024,CO2e,Residential,Single Attached,New,417.8475568861988
+2024,CO2e,Residential,Single Attached,Old,597957.2234387248
+2024,CO2e,Residential,Single Detached,New,3057.3362954624686
+2024,CO2e,Residential,Single Detached,Old,1371909.9934475773
+2024,N2O,Commercial,"Arts, Entertainment and Recreation",New,0.009853114851716869
+2024,N2O,Commercial,"Arts, Entertainment and Recreation",Old,1.9668213890415809
+2024,N2O,Commercial,Accommodation and Food Services,New,0.006945249390172879
+2024,N2O,Commercial,Accommodation and Food Services,Old,2.2353711272372374
+2024,N2O,Commercial,Educational Services,New,0.028192109596249508
+2024,N2O,Commercial,Educational Services,Old,5.4505036947580106
+2024,N2O,Commercial,Health Care and Social Assistance,New,0.0351923633511497
+2024,N2O,Commercial,Health Care and Social Assistance,Old,3.5052547865993042
+2024,N2O,Commercial,Information and Cultural Industries,Old,0.32648792031541585
+2024,N2O,Commercial,Offices,New,0.0948668129485014
+2024,N2O,Commercial,Offices,Old,21.37378033098774
+2024,N2O,Commercial,Other Services,New,0.032865187219328997
+2024,N2O,Commercial,Other Services,Old,2.345643551000875
+2024,N2O,Commercial,Retail Trade,New,0.08162434182848681
+2024,N2O,Commercial,Retail Trade,Old,6.748615504324766
+2024,N2O,Commercial,Transportation and Warehousing,New,0.02617751280129532
+2024,N2O,Commercial,Transportation and Warehousing,Old,1.3391028665372904
+2024,N2O,Commercial,Wholesale Trade,New,0.020624654413917847
+2024,N2O,Commercial,Wholesale Trade,Old,4.4052282019662865
+2024,N2O,Industry,,,17.12334944079323
+2024,N2O,Public,Hospital,New,0.003410542053363422
+2024,N2O,Public,Hospital,Old,1.6178941086469723
+2024,N2O,Public,Municipality,New,0.003722374303757502
+2024,N2O,Public,Municipality,Old,1.3707120385234144
+2024,N2O,Public,Post-Secondary Institution,New,0.00370099088319513
+2024,N2O,Public,Post-Secondary Institution,Old,2.547302194745272
+2024,N2O,Public,School board,New,0.005411226923217923
+2024,N2O,Public,School board,Old,2.249047304955233
+2024,N2O,Residential,Apartments,New,0.6340304650010681
+2024,N2O,Residential,Apartments,Old,26.796589929931425
+2024,N2O,Residential,Single Attached,New,0.02634134753985304
+2024,N2O,Residential,Single Attached,Old,13.185074114560297
+2024,N2O,Residential,Single Detached,New,0.19139618451194032
+2024,N2O,Residential,Single Detached,Old,29.185530482147545
+2025,CH4,Commercial,"Arts, Entertainment and Recreation",New,0.00687722931268491
+2025,CH4,Commercial,"Arts, Entertainment and Recreation",Old,1.8425312618336662
+2025,CH4,Commercial,Accommodation and Food Services,New,0.004577148541790351
+2025,CH4,Commercial,Accommodation and Food Services,Old,2.0689575352548317
+2025,CH4,Commercial,Educational Services,New,0.021113388612289122
+2025,CH4,Commercial,Educational Services,Old,5.264307494401136
+2025,CH4,Commercial,Health Care and Social Assistance,New,0.02600944789466754
+2025,CH4,Commercial,Health Care and Social Assistance,Old,3.2011141944331327
+2025,CH4,Commercial,Information and Cultural Industries,Old,0.28178167423967715
+2025,CH4,Commercial,Offices,New,0.1147051275069572
+2025,CH4,Commercial,Offices,Old,16.48506393438591
+2025,CH4,Commercial,Other Services,New,0.03811102601148497
+2025,CH4,Commercial,Other Services,Old,2.2311425314225692
+2025,CH4,Commercial,Retail Trade,New,0.10859877053898272
+2025,CH4,Commercial,Retail Trade,Old,6.707830129356214
+2025,CH4,Commercial,Transportation and Warehousing,New,0.030889399715354884
+2025,CH4,Commercial,Transportation and Warehousing,Old,1.248600132682204
+2025,CH4,Commercial,Wholesale Trade,New,0.01903051367892271
+2025,CH4,Commercial,Wholesale Trade,Old,4.162568461948048
+2025,CH4,Industry,,,20.32229028470251
+2025,CH4,Public,Hospital,New,0.007970828959802547
+2025,CH4,Public,Hospital,Old,1.6111681296667202
+2025,CH4,Public,Municipality,New,0.008877873525227276
+2025,CH4,Public,Municipality,Old,1.356818843688734
+2025,CH4,Public,Post-Secondary Institution,New,0.00832404129508489
+2025,CH4,Public,Post-Secondary Institution,Old,2.635325936982629
+2025,CH4,Public,School board,New,0.01293967731264984
+2025,CH4,Public,School board,Old,2.3451394459141257
+2025,CH4,Residential,Apartments,New,8.921683107719707
+2025,CH4,Residential,Apartments,Old,460.2963766192889
+2025,CH4,Residential,Single Attached,New,1.1377570500504632
+2025,CH4,Residential,Single Attached,Old,148.17436202594098
+2025,CH4,Residential,Single Detached,New,3.895758350439324
+2025,CH4,Residential,Single Detached,Old,313.9101981589411
+2025,CO2,Commercial,"Arts, Entertainment and Recreation",New,348.8818279547705
+2025,CO2,Commercial,"Arts, Entertainment and Recreation",Old,95215.55452578797
+2025,CO2,Commercial,Accommodation and Food Services,New,231.40464758373764
+2025,CO2,Commercial,Accommodation and Food Services,Old,106903.18520744695
+2025,CO2,Commercial,Educational Services,New,1122.1668351370608
+2025,CO2,Commercial,Educational Services,Old,271570.67153938697
+2025,CO2,Commercial,Health Care and Social Assistance,New,1391.1908537582888
+2025,CO2,Commercial,Health Care and Social Assistance,Old,165443.54388924997
+2025,CO2,Commercial,Information and Cultural Industries,Old,14619.437731719236
+2025,CO2,Commercial,Offices,New,5973.471518521039
+2025,CO2,Commercial,Offices,Old,854072.2087349799
+2025,CO2,Commercial,Other Services,New,1985.590576647266
+2025,CO2,Commercial,Other Services,Old,115147.73689429749
+2025,CO2,Commercial,Retail Trade,New,5608.36026499471
+2025,CO2,Commercial,Retail Trade,Old,345547.4416346585
+2025,CO2,Commercial,Transportation and Warehousing,New,1612.5772168245705
+2025,CO2,Commercial,Transportation and Warehousing,Old,64601.2902936537
+2025,CO2,Commercial,Wholesale Trade,New,1005.8025142365844
+2025,CO2,Commercial,Wholesale Trade,Old,214606.148395941
+2025,CO2,Industry,,,694845.6458014839
+2025,CO2,Public,Hospital,New,367.40066150600876
+2025,CO2,Public,Hospital,Old,80703.5066777477
+2025,CO2,Public,Municipality,New,411.1782280672416
+2025,CO2,Public,Municipality,Old,61784.556881253564
+2025,CO2,Public,Post-Secondary Institution,New,382.317227022242
+2025,CO2,Public,Post-Secondary Institution,Old,127493.87078994057
+2025,CO2,Public,School board,New,566.6465304152356
+2025,CO2,Public,School board,Old,108369.0327160742
+2025,CO2,Residential,Apartments,New,16911.06403721883
+2025,CO2,Residential,Apartments,Old,1088374.037312967
+2025,CO2,Residential,Single Attached,New,634.678907763435
+2025,CO2,Residential,Single Attached,Old,586240.3492291627
+2025,CO2,Residential,Single Detached,New,4440.662182845136
+2025,CO2,Residential,Single Detached,Old,1342228.1806429285
+2025,CO2e,Commercial,"Arts, Entertainment and Recreation",New,353.03207109125975
+2025,CO2e,Commercial,"Arts, Entertainment and Recreation",Old,95864.59210321688
+2025,CO2e,Commercial,Accommodation and Food Services,New,234.44594509871578
+2025,CO2e,Commercial,Accommodation and Food Services,Old,107632.39521518518
+2025,CO2e,Commercial,Educational Services,New,1134.0468716676248
+2025,CO2e,Commercial,Educational Services,Old,273369.77795645787
+2025,CO2e,Commercial,Health Care and Social Assistance,New,1406.5103098650018
+2025,CO2e,Commercial,Health Care and Social Assistance,Old,166570.63191982076
+2025,CO2e,Commercial,Information and Cultural Industries,Old,14727.357120593648
+2025,CO2e,Commercial,Offices,New,6019.8013343863795
+2025,CO2e,Commercial,Offices,Old,860137.4152293403
+2025,CO2e,Commercial,Other Services,New,2001.639805889209
+2025,CO2e,Commercial,Other Services,Old,115916.86515499087
+2025,CO2e,Commercial,Retail Trade,New,5648.285822828618
+2025,CO2e,Commercial,Retail Trade,Old,347804.2265255157
+2025,CO2e,Commercial,Transportation and Warehousing,New,1625.8889823452612
+2025,CO2e,Commercial,Transportation and Warehousing,Old,65053.19363288799
+2025,CO2e,Commercial,Wholesale Trade,New,1015.4092054590108
+2025,CO2e,Commercial,Wholesale Trade,Old,216038.19855702142
+2025,CO2e,Industry,,,700656.2430675974
+2025,CO2e,Public,Hospital,New,370.04379767450524
+2025,CO2e,Public,Hospital,Old,81200.27647493302
+2025,CO2e,Public,Municipality,New,414.1063778599074
+2025,CO2e,Public,Municipality,Old,62196.40156858519
+2025,CO2e,Public,Post-Secondary Institution,New,385.0834292737853
+2025,CO2e,Public,Post-Secondary Institution,Old,128297.50068037261
+2025,CO2e,Public,School board,New,570.8759267988102
+2025,CO2e,Public,School board,Old,109080.41025467416
+2025,CO2e,Residential,Apartments,New,17339.21107993109
+2025,CO2e,Residential,Apartments,Old,1105585.122279727
+2025,CO2e,Residential,Single Attached,New,671.5411229225426
+2025,CO2e,Residential,Single Attached,Old,593128.3544512059
+2025,CO2e,Residential,Single Detached,New,4598.7814071575085
+2025,CO2e,Residential,Single Detached,Old,1357248.942482085
+2025,N2O,Commercial,"Arts, Entertainment and Recreation",New,0.013442353425915876
+2025,N2O,Commercial,"Arts, Entertainment and Recreation",Old,2.0481356407060805
+2025,N2O,Commercial,Accommodation and Food Services,New,0.009883145622820435
+2025,N2O,Commercial,Accommodation and Food Services,Old,2.3012144278453195
+2025,N2O,Commercial,Educational Services,New,0.03837803815337305
+2025,N2O,Commercial,Educational Services,Old,5.666295166738845
+2025,N2O,Commercial,Health Care and Social Assistance,New,0.049574690271559696
+2025,N2O,Commercial,Health Care and Social Assistance,Old,3.556592726468612
+2025,N2O,Commercial,Information and Cultural Industries,Old,0.34228850240056574
+2025,N2O,Commercial,Offices,New,0.14738593351574178
+2025,N2O,Commercial,Offices,Old,19.19134279106894
+2025,N2O,Commercial,Other Services,New,0.05117079763658421
+2025,N2O,Commercial,Other Services,Old,2.4237391527970304
+2025,N2O,Commercial,Retail Trade,New,0.12632544849860666
+2025,N2O,Commercial,Retail Trade,Old,7.100404221948036
+2025,N2O,Commercial,Transportation and Warehousing,New,0.04249358431768059
+2025,N2O,Commercial,Transportation and Warehousing,Old,1.4284655585502943
+2025,N2O,Commercial,Wholesale Trade,New,0.030896142399895615
+2025,N2O,Commercial,Wholesale Trade,Old,4.51220209187745
+2025,N2O,Industry,,,18.066540839377215
+2025,N2O,Public,Hospital,New,0.008307881746109105
+2025,N2O,Public,Hospital,Old,1.5534740485312635
+2025,N2O,Public,Municipality,New,0.00920038405582493
+2025,N2O,Public,Municipality,Old,1.2864144013896879
+2025,N2O,Public,Post-Secondary Institution,New,0.008695964377001373
+2025,N2O,Public,Post-Secondary Institution,Old,2.5110337105888263
+2025,N2O,Public,School board,New,0.013280748859089265
+2025,N2O,Public,School board,Old,2.2219114437441823
+2025,N2O,Residential,Apartments,New,0.8080258303695517
+2025,N2O,Residential,Apartments,Old,25.318325697159644
+2025,N2O,Residential,Single Attached,New,0.04352119834915342
+2025,N2O,Residential,Single Attached,Old,12.67229402516195
+2025,N2O,Residential,Single Detached,New,0.2560681172924415
+2025,N2O,Residential,Single Detached,Old,28.284052610128803
+2030,CH4,Commercial,"Arts, Entertainment and Recreation",New,0.0051075597921334814
+2030,CH4,Commercial,"Arts, Entertainment and Recreation",Old,1.5613237881523676
+2030,CH4,Commercial,Accommodation and Food Services,New,0.0035476403101855087
+2030,CH4,Commercial,Accommodation and Food Services,Old,1.7429461105216448
+2030,CH4,Commercial,Educational Services,New,0.015612418248763672
+2030,CH4,Commercial,Educational Services,Old,4.836112902719804
+2030,CH4,Commercial,Health Care and Social Assistance,New,0.0123863299967491
+2030,CH4,Commercial,Health Care and Social Assistance,Old,2.9052935905992032
+2030,CH4,Commercial,Information and Cultural Industries,Old,0.22408635599772417
+2030,CH4,Commercial,Offices,New,0.23899234745028017
+2030,CH4,Commercial,Offices,Old,13.720689507677502
+2030,CH4,Commercial,Other Services,New,0.08925469423588626
+2030,CH4,Commercial,Other Services,Old,1.9010144782730773
+2030,CH4,Commercial,Retail Trade,New,0.25024210001956143
+2030,CH4,Commercial,Retail Trade,Old,5.8146826990750435
+2030,CH4,Commercial,Transportation and Warehousing,New,0.07765293172818316
+2030,CH4,Commercial,Transportation and Warehousing,Old,1.0297210970990633
+2030,CH4,Commercial,Wholesale Trade,New,0.04656034033796163
+2030,CH4,Commercial,Wholesale Trade,Old,3.526610267116143
+2030,CH4,Industry,,,51.732511908078976
+2030,CH4,Public,Hospital,New,0.005816964632864188
+2030,CH4,Public,Hospital,Old,1.4998992201441694
+2030,CH4,Public,Municipality,New,0.00976079037637609
+2030,CH4,Public,Municipality,Old,1.1467387530768134
+2030,CH4,Public,Post-Secondary Institution,New,0.009314258054095663
+2030,CH4,Public,Post-Secondary Institution,Old,2.5196103185711105
+2030,CH4,Public,School board,New,0.019390272053805606
+2030,CH4,Public,School board,Old,1.9618092123318445
+2030,CH4,Residential,Apartments,New,233.872071736145
+2030,CH4,Residential,Apartments,Old,167.85700334863395
+2030,CH4,Residential,Single Attached,New,6.083884947766367
+2030,CH4,Residential,Single Attached,Old,61.27514481076407
+2030,CH4,Residential,Single Detached,New,93.93549418038681
+2030,CH4,Residential,Single Detached,Old,141.84673747837542
+2030,CO2,Commercial,"Arts, Entertainment and Recreation",New,226.55774462612243
+2030,CO2,Commercial,"Arts, Entertainment and Recreation",Old,65306.017915796954
+2030,CO2,Commercial,Accommodation and Food Services,New,156.99904308875972
+2030,CO2,Commercial,Accommodation and Food Services,Old,73070.53312609569
+2030,CO2,Commercial,Educational Services,New,693.3361440905917
+2030,CO2,Commercial,Educational Services,Old,220591.86706343092
+2030,CO2,Commercial,Health Care and Social Assistance,New,591.8576367536119
+2030,CO2,Commercial,Health Care and Social Assistance,Old,126746.39311032671
+2030,CO2,Commercial,Information and Cultural Industries,Old,7905.761559069546
+2030,CO2,Commercial,Offices,New,8388.009882696544
+2030,CO2,Commercial,Offices,Old,663811.7851667323
+2030,CO2,Commercial,Other Services,New,2819.620162862023
+2030,CO2,Commercial,Other Services,Old,80269.69159100522
+2030,CO2,Commercial,Retail Trade,New,8805.87656094438
+2030,CO2,Commercial,Retail Trade,Old,267321.71003290656
+2030,CO2,Commercial,Transportation and Warehousing,New,2458.6628410334392
+2030,CO2,Commercial,Transportation and Warehousing,Old,42817.102205953575
+2030,CO2,Commercial,Wholesale Trade,New,1530.0981241688746
+2030,CO2,Commercial,Wholesale Trade,Old,157412.32279149565
+2030,CO2,Industry,,,455870.01056459406
+2030,CO2,Public,Hospital,New,223.95063945224143
+2030,CO2,Public,Hospital,Old,67630.44242544622
+2030,CO2,Public,Municipality,New,359.53257152583865
+2030,CO2,Public,Municipality,Old,46808.21673929016
+2030,CO2,Public,Post-Secondary Institution,New,346.5202882029132
+2030,CO2,Public,Post-Secondary Institution,Old,113512.98692339026
+2030,CO2,Public,School board,New,689.2681970364011
+2030,CO2,Public,School board,Old,77817.44553524745
+2030,CO2,Residential,Apartments,New,16177.652883619834
+2030,CO2,Residential,Apartments,Old,718249.9783310376
+2030,CO2,Residential,Single Attached,New,833.1110841481453
+2030,CO2,Residential,Single Attached,Old,404542.09114127624
+2030,CO2,Residential,Single Detached,New,4399.266792612001
+2030,CO2,Residential,Single Detached,Old,1000515.7053385838
+2030,CO2e,Commercial,"Arts, Entertainment and Recreation",New,229.49717637715088
+2030,CO2e,Commercial,"Arts, Entertainment and Recreation",Old,65875.49687759511
+2030,CO2e,Commercial,Accommodation and Food Services,New,159.02963369154273
+2030,CO2e,Commercial,Accommodation and Food Services,Old,73701.05099076917
+2030,CO2e,Commercial,Educational Services,New,703.8020613022529
+2030,CO2e,Commercial,Educational Services,Old,222232.03205847766
+2030,CO2e,Commercial,Health Care and Social Assistance,New,600.7744839457458
+2030,CO2e,Commercial,Health Care and Social Assistance,Old,127759.20976442585
+2030,CO2e,Commercial,Information and Cultural Industries,Old,7997.966393561356
+2030,CO2e,Commercial,Offices,New,8468.539283295027
+2030,CO2e,Commercial,Offices,Old,668249.7396891462
+2030,CO2e,Commercial,Other Services,New,2853.5192679232205
+2030,CO2e,Commercial,Other Services,Old,80943.279189925
+2030,CO2e,Commercial,Retail Trade,New,8889.465683068938
+2030,CO2e,Commercial,Retail Trade,Old,269285.3210192027
+2030,CO2e,Commercial,Transportation and Warehousing,New,2488.7684887731593
+2030,CO2e,Commercial,Transportation and Warehousing,Old,43211.120392603225
+2030,CO2e,Commercial,Wholesale Trade,New,1550.3955469264492
+2030,CO2e,Commercial,Wholesale Trade,Old,158626.75795819395
+2030,CO2e,Industry,,,468400.2481125929
+2030,CO2e,Public,Hospital,New,226.05328172851898
+2030,CO2e,Public,Hospital,Old,68091.16805966337
+2030,CO2e,Public,Municipality,New,362.87714897845126
+2030,CO2e,Public,Municipality,Old,47156.51960083471
+2030,CO2e,Public,Post-Secondary Institution,New,349.7349917101996
+2030,CO2e,Public,Post-Secondary Institution,Old,114280.06287548321
+2030,CO2e,Public,School board,New,695.6470790104896
+2030,CO2e,Public,School board,Old,78412.74516132951
+2030,CO2e,Residential,Apartments,New,22052.02769429627
+2030,CO2e,Residential,Apartments,Old,726436.5485352791
+2030,CO2e,Residential,Single Attached,New,991.0392437205702
+2030,CO2e,Residential,Single Attached,Old,408391.2282619995
+2030,CO2e,Residential,Single Detached,New,6735.19520136949
+2030,CO2e,Residential,Single Detached,Old,1009572.002669308
+2030,N2O,Commercial,"Arts, Entertainment and Recreation",New,0.009503936226152912
+2030,N2O,Commercial,"Arts, Entertainment and Recreation",Old,1.800977054519944
+2030,N2O,Commercial,Accommodation and Food Services,New,0.006564060927077285
+2030,N2O,Commercial,Accommodation and Food Services,Old,1.9930066991696036
+2030,N2O,Commercial,Educational Services,New,0.03402032358535825
+2030,N2O,Commercial,Educational Services,Old,5.163109476810576
+2030,N2O,Commercial,Health Care and Social Assistance,New,0.02904944383289309
+2030,N2O,Commercial,Health Care and Social Assistance,Old,3.1939781499884212
+2030,N2O,Commercial,Information and Cultural Industries,Old,0.29362087589214436
+2030,N2O,Commercial,Offices,New,0.25339114530885115
+2030,N2O,Commercial,Offices,Old,13.92557061326452
+2030,N2O,Commercial,Other Services,New,0.10746562577932905
+2030,N2O,Commercial,Other Services,Old,2.1263969626710875
+2030,N2O,Commercial,Retail Trade,New,0.262865899409903
+2030,N2O,Commercial,Retail Trade,Old,6.179539092668492
+2030,N2O,Commercial,Transportation and Warehousing,New,0.09555347709204218
+2030,N2O,Commercial,Transportation and Warehousing,Old,1.2496444416460348
+2030,N2O,Commercial,Wholesale Trade,New,0.06483105909555793
+2030,N2O,Commercial,Wholesale Trade,Old,3.826766278821695
+2030,N2O,Industry,,,38.40219730848571
+2030,N2O,Public,Hospital,New,0.006645926238212649
+2030,N2O,Public,Hospital,Old,1.4403615791749316
+2030,N2O,Public,Municipality,New,0.010535573337948198
+2030,N2O,Public,Municipality,Old,1.08799109976473
+2030,N2O,Public,Post-Secondary Institution,New,0.010131221772317147
+2030,N2O,Public,Post-Secondary Institution,Old,2.396523944305635
+2030,N2O,Public,School board,New,0.020039215640798233
+2030,N2O,Public,School board,Old,1.8594014517552133
+2030,N2O,Residential,Apartments,New,3.231749343011359
+2030,N2O,Residential,Apartments,Old,15.642862865503362
+2030,N2O,Residential,Single Attached,New,0.10123011969573953
+2030,N2O,Residential,Single Attached,Old,8.59852040166834
+2030,N2O,Residential,Single Detached,New,1.2190705737227003
+2030,N2O,Residential,Single Detached,Old,20.394348468717272
+2035,CH4,Commercial,"Arts, Entertainment and Recreation",New,0.01281961816085006
+2035,CH4,Commercial,"Arts, Entertainment and Recreation",Old,1.3172383097136198
+2035,CH4,Commercial,Accommodation and Food Services,New,0.007588500329834714
+2035,CH4,Commercial,Accommodation and Food Services,Old,1.458475393043135
+2035,CH4,Commercial,Educational Services,New,0.05332734830337224
+2035,CH4,Commercial,Educational Services,Old,3.7089025057925227
+2035,CH4,Commercial,Health Care and Social Assistance,New,0.0645051664559612
+2035,CH4,Commercial,Health Care and Social Assistance,Old,2.2619400560397103
+2035,CH4,Commercial,Information and Cultural Industries,Old,0.1966083534213521
+2035,CH4,Commercial,Offices,New,0.3792910617325386
+2035,CH4,Commercial,Offices,Old,10.829564646766245
+2035,CH4,Commercial,Other Services,New,0.13570158920829825
+2035,CH4,Commercial,Other Services,Old,1.5910697409809138
+2035,CH4,Commercial,Retail Trade,New,0.3633580823896335
+2035,CH4,Commercial,Retail Trade,Old,4.64336492182724
+2035,CH4,Commercial,Transportation and Warehousing,New,0.11825089498410644
+2035,CH4,Commercial,Transportation and Warehousing,Old,0.8900625575832344
+2035,CH4,Commercial,Wholesale Trade,New,0.0724317899462128
+2035,CH4,Commercial,Wholesale Trade,Old,2.915135708432729
+2035,CH4,Industry,,,67.05574279677539
+2035,CH4,Public,Hospital,New,0.0064147832393536735
+2035,CH4,Public,Hospital,Old,1.0535353780141716
+2035,CH4,Public,Municipality,New,0.011046819395271495
+2035,CH4,Public,Municipality,Old,0.8108654868937226
+2035,CH4,Public,Post-Secondary Institution,New,0.00955737249922697
+2035,CH4,Public,Post-Secondary Institution,Old,1.9407500506636637
+2035,CH4,Public,School board,New,0.01609510483785232
+2035,CH4,Public,School board,Old,1.3496058601081204
+2035,CH4,Residential,Apartments,New,367.96851130262854
+2035,CH4,Residential,Apartments,Old,33.05689576828778
+2035,CH4,Residential,Single Attached,New,8.79582031505459
+2035,CH4,Residential,Single Attached,Old,26.31634221271736
+2035,CH4,Residential,Single Detached,New,122.37599221265569
+2035,CH4,Residential,Single Detached,Old,34.29147189050059
+2035,CO2,Commercial,"Arts, Entertainment and Recreation",New,632.694412376619
+2035,CO2,Commercial,"Arts, Entertainment and Recreation",Old,57299.53339813398
+2035,CO2,Commercial,Accommodation and Food Services,New,368.9054102714301
+2035,CO2,Commercial,Accommodation and Food Services,Old,63458.40313687561
+2035,CO2,Commercial,Educational Services,New,2637.4682475187196
+2035,CO2,Commercial,Educational Services,Old,172416.97525319364
+2035,CO2,Commercial,Health Care and Social Assistance,New,3269.989192003697
+2035,CO2,Commercial,Health Care and Social Assistance,Old,101096.33258824084
+2035,CO2,Commercial,Information and Cultural Industries,Old,7046.9231705845405
+2035,CO2,Commercial,Offices,New,14739.350020892784
+2035,CO2,Commercial,Offices,Old,531492.2955582321
+2035,CO2,Commercial,Other Services,New,4732.838812424202
+2035,CO2,Commercial,Other Services,Old,69936.10941319527
+2035,CO2,Commercial,Retail Trade,New,13724.3896956651
+2035,CO2,Commercial,Retail Trade,Old,218332.29516646918
+2035,CO2,Commercial,Transportation and Warehousing,New,3992.030003080725
+2035,CO2,Commercial,Transportation and Warehousing,Old,38456.89476708869
+2035,CO2,Commercial,Wholesale Trade,New,2536.8514131108263
+2035,CO2,Commercial,Wholesale Trade,Old,134189.32510722656
+2035,CO2,Industry,,,238917.36847636296
+2035,CO2,Public,Hospital,New,332.00232430886507
+2035,CO2,Public,Hospital,Old,49090.2751653933
+2035,CO2,Public,Municipality,New,549.9213635050877
+2035,CO2,Public,Municipality,Old,35401.019027025155
+2035,CO2,Public,Post-Secondary Institution,New,488.05085894592725
+2035,CO2,Public,Post-Secondary Institution,Old,91774.13775614281
+2035,CO2,Public,School board,New,708.5492338765264
+2035,CO2,Public,School board,Old,61627.82425550536
+2035,CO2,Residential,Apartments,New,14294.918326408497
+2035,CO2,Residential,Apartments,Old,495126.8515352898
+2035,CO2,Residential,Single Attached,New,720.9386160272444
+2035,CO2,Residential,Single Attached,Old,273981.8167172901
+2035,CO2,Residential,Single Detached,New,3547.6875864002914
+2035,CO2,Residential,Single Detached,Old,670671.6855126087
+2035,CO2e,Commercial,"Arts, Entertainment and Recreation",New,639.3761364911063
+2035,CO2e,Commercial,"Arts, Entertainment and Recreation",Old,57748.23569923894
+2035,CO2e,Commercial,Accommodation and Food Services,New,372.7842202183353
+2035,CO2e,Commercial,Accommodation and Food Services,Old,63952.89956494203
+2035,CO2e,Commercial,Educational Services,New,2661.8045162488693
+2035,CO2e,Commercial,Educational Services,Old,173637.94632159267
+2035,CO2e,Commercial,Health Care and Social Assistance,New,3297.473948477676
+2035,CO2e,Commercial,Health Care and Social Assistance,Old,101850.8467259176
+2035,CO2e,Commercial,Information and Cultural Industries,Old,7122.5428152938775
+2035,CO2e,Commercial,Offices,New,14866.461116078011
+2035,CO2e,Commercial,Offices,Old,534938.2158084792
+2035,CO2e,Commercial,Other Services,New,4783.78115720107
+2035,CO2e,Commercial,Other Services,Old,70468.02619701394
+2035,CO2e,Commercial,Retail Trade,New,13845.989065081307
+2035,CO2e,Commercial,Retail Trade,Old,219854.30380658162
+2035,CO2e,Commercial,Transportation and Warehousing,New,4036.5358585128893
+2035,CO2e,Commercial,Transportation and Warehousing,Old,38773.75743042102
+2035,CO2e,Commercial,Wholesale Trade,New,2567.0023958668685
+2035,CO2e,Commercial,Wholesale Trade,Old,135153.11416776868
+2035,CO2e,Industry,,,254655.3168277378
+2035,CO2e,Public,Hospital,New,334.3731827807098
+2035,CO2e,Public,Hospital,Old,49412.747608143305
+2035,CO2e,Public,Municipality,New,553.822432753744
+2035,CO2e,Public,Municipality,Old,35647.564144543954
+2035,CO2e,Public,Post-Secondary Institution,New,491.47060049112355
+2035,CO2e,Public,Post-Secondary Institution,Old,92364.0807418842
+2035,CO2e,Public,School board,New,714.0465681855123
+2035,CO2e,Public,School board,Old,62037.59446477709
+2035,CO2e,Residential,Apartments,New,23327.796343667254
+2035,CO2e,Residential,Apartments,Old,498806.303669509
+2035,CO2e,Residential,Single Attached,New,939.2951843598726
+2035,CO2e,Residential,Single Attached,Old,276240.6705734162
+2035,CO2e,Residential,Single Detached,New,6547.219179509456
+2035,CO2e,Residential,Single Detached,Old,675303.0441004271
+2035,N2O,Commercial,"Arts, Entertainment and Recreation",New,0.02151849709097268
+2035,N2O,Commercial,"Arts, Entertainment and Recreation",Old,1.4128869013454806
+2035,N2O,Commercial,Accommodation and Food Services,New,0.012481380671068238
+2035,N2O,Commercial,Accommodation and Food Services,Old,1.556605519504954
+2035,N2O,Commercial,Educational Services,New,0.07790736381133644
+2035,N2O,Commercial,Educational Services,Old,3.8358527375074667
+2035,N2O,Commercial,Health Care and Social Assistance,New,0.08768506033021171
+2035,N2O,Commercial,Health Care and Social Assistance,Old,2.3725281761739048
+2035,N2O,Commercial,Information and Cultural Industries,Old,0.23990224593115547
+2035,N2O,Commercial,Offices,New,0.3998187345263255
+2035,N2O,Commercial,Offices,Old,10.800333532431779
+2035,N2O,Commercial,Other Services,New,0.16138460202511712
+2035,N2O,Commercial,Other Services,Old,1.6728332861006228
+2035,N2O,Commercial,Retail Trade,New,0.38244580431550296
+2035,N2O,Commercial,Retail Trade,Old,4.7801945528658925
+2035,N2O,Commercial,Transportation and Warehousing,New,0.1410153914010061
+2035,N2O,Commercial,Transportation and Warehousing,Old,1.0005749987351376
+2035,N2O,Commercial,Wholesale Trade,New,0.09607354082943216
+2035,N2O,Commercial,Wholesale Trade,Old,3.02876245189612
+2035,N2O,Industry,,,48.08650252564475
+2035,N2O,Public,Hospital,New,0.007503852428920598
+2035,N2O,Public,Hospital,Old,1.007879865140009
+2035,N2O,Public,Municipality,New,0.012312369266294396
+2035,N2O,Public,Municipality,Old,0.7701910815235212
+2035,N2O,Public,Post-Secondary Institution,New,0.01080213665339785
+2035,N2O,Public,Post-Secondary Institution,Old,1.8429101834809152
+2035,N2O,Public,School board,New,0.017313211769766725
+2035,N2O,Public,School board,Old,1.2799613631189193
+2035,N2O,Residential,Apartments,New,4.381004294978334
+2035,N2O,Residential,Apartments,Old,10.017642023775487
+2035,N2O,Residential,Single Attached,New,0.11290047555866337
+2035,N2O,Residential,Single Attached,Old,5.725539159929437
+2035,N2O,Residential,Single Detached,New,1.4417307269912485
+2035,N2O,Residential,Single Detached,Old,13.12495865140226
+2040,CH4,Commercial,"Arts, Entertainment and Recreation",New,0.03516875782928958
+2040,CH4,Commercial,"Arts, Entertainment and Recreation",Old,1.414335047119751
+2040,CH4,Commercial,Accommodation and Food Services,New,0.020543768976336817
+2040,CH4,Commercial,Accommodation and Food Services,Old,1.6101158618270186
+2040,CH4,Commercial,Educational Services,New,0.1799214987257654
+2040,CH4,Commercial,Educational Services,Old,4.827474195766329
+2040,CH4,Commercial,Health Care and Social Assistance,New,0.25389804797873217
+2040,CH4,Commercial,Health Care and Social Assistance,Old,3.300520343408295
+2040,CH4,Commercial,Information and Cultural Industries,Old,0.1756468980172553
+2040,CH4,Commercial,Offices,New,0.5408503065640153
+2040,CH4,Commercial,Offices,Old,13.947968816806375
+2040,CH4,Commercial,Other Services,New,0.1631394498587784
+2040,CH4,Commercial,Other Services,Old,1.6819314978700899
+2040,CH4,Commercial,Retail Trade,New,0.41076886124315004
+2040,CH4,Commercial,Retail Trade,Old,4.854872805770575
+2040,CH4,Commercial,Transportation and Warehousing,New,0.11925641299871988
+2040,CH4,Commercial,Transportation and Warehousing,Old,0.7916295103354365
+2040,CH4,Commercial,Wholesale Trade,New,0.08179219401150675
+2040,CH4,Commercial,Wholesale Trade,Old,3.0305397297271472
+2040,CH4,Industry,,,81.8138468209243
+2040,CH4,Public,Hospital,New,0.056744976405967235
+2040,CH4,Public,Hospital,Old,0.49434366938149077
+2040,CH4,Public,Municipality,New,0.04804665221022995
+2040,CH4,Public,Municipality,Old,0.37498926063208166
+2040,CH4,Public,Post-Secondary Institution,New,0.055756217979332556
+2040,CH4,Public,Post-Secondary Institution,Old,0.8415049182051061
+2040,CH4,Public,School board,New,0.06256538570811923
+2040,CH4,Public,School board,Old,0.6077248063566087
+2040,CH4,Residential,Apartments,New,411.82743893478454
+2040,CH4,Residential,Apartments,Old,35.674367753252106
+2040,CH4,Residential,Single Attached,New,14.96703846266941
+2040,CH4,Residential,Single Attached,Old,33.694252682278744
+2040,CH4,Residential,Single Detached,New,141.7882026951964
+2040,CH4,Residential,Single Detached,Old,36.67600653628203
+2040,CO2,Commercial,"Arts, Entertainment and Recreation",New,1735.7830743898257
+2040,CO2,Commercial,"Arts, Entertainment and Recreation",Old,71473.47175265968
+2040,CO2,Commercial,Accommodation and Food Services,New,1006.9019571519717
+2040,CO2,Commercial,Accommodation and Food Services,Old,81420.07981447472
+2040,CO2,Commercial,Educational Services,New,9108.420005592061
+2040,CO2,Commercial,Educational Services,Old,245499.9171588984
+2040,CO2,Commercial,Health Care and Social Assistance,New,12886.3742063555
+2040,CO2,Commercial,Health Care and Social Assistance,Old,167598.40388589023
+2040,CO2,Commercial,Information and Cultural Industries,Old,8519.38010395278
+2040,CO2,Commercial,Offices,New,27066.689268172864
+2040,CO2,Commercial,Offices,Old,710982.9522553592
+2040,CO2,Commercial,Other Services,New,7884.993381050378
+2040,CO2,Commercial,Other Services,Old,85100.41154286712
+2040,CO2,Commercial,Retail Trade,New,20422.619885532982
+2040,CO2,Commercial,Retail Trade,Old,246870.46796593358
+2040,CO2,Commercial,Transportation and Warehousing,New,5657.832931075026
+2040,CO2,Commercial,Transportation and Warehousing,Old,39791.848116276036
+2040,CO2,Commercial,Wholesale Trade,New,3797.0788944639776
+2040,CO2,Commercial,Wholesale Trade,Old,153867.7391110113
+2040,CO2,Industry,,,60488.608418243275
+2040,CO2,Public,Hospital,New,2743.75060552577
+2040,CO2,Public,Hospital,Old,24848.663758956158
+2040,CO2,Public,Municipality,New,2267.540346689327
+2040,CO2,Public,Municipality,Old,18757.222743222737
+2040,CO2,Public,Post-Secondary Institution,New,2665.646975829406
+2040,CO2,Public,Post-Secondary Institution,Old,42557.52843327215
+2040,CO2,Public,School board,New,2977.4202131753013
+2040,CO2,Public,School board,Old,30627.461987597082
+2040,CO2,Residential,Apartments,New,18804.173509864962
+2040,CO2,Residential,Apartments,Old,212639.33840887755
+2040,CO2,Residential,Single Attached,New,459.97345296856844
+2040,CO2,Residential,Single Attached,Old,119854.33988992475
+2040,CO2,Residential,Single Detached,New,3318.9133111938518
+2040,CO2,Residential,Single Detached,Old,260734.36792118184
+2040,CO2e,Commercial,"Arts, Entertainment and Recreation",New,1746.7405606896684
+2040,CO2e,Commercial,"Arts, Entertainment and Recreation",Old,71902.67353434445
+2040,CO2e,Commercial,Accommodation and Food Services,New,1013.3775219779194
+2040,CO2e,Commercial,Accommodation and Food Services,Old,81908.59205537019
+2040,CO2e,Commercial,Educational Services,New,9163.335832711587
+2040,CO2e,Commercial,Educational Services,Old,246963.01815870035
+2040,CO2e,Commercial,Health Care and Social Assistance,New,12963.673653964433
+2040,CO2e,Commercial,Health Care and Social Assistance,Old,168598.9647239754
+2040,CO2e,Commercial,Information and Cultural Industries,Old,8573.194525293582
+2040,CO2e,Commercial,Offices,New,27231.190890299025
+2040,CO2e,Commercial,Offices,Old,715208.6307140238
+2040,CO2e,Commercial,Other Services,New,7935.007055500627
+2040,CO2e,Commercial,Other Services,Old,85610.67967749927
+2040,CO2e,Commercial,Retail Trade,New,20547.714769744718
+2040,CO2e,Commercial,Retail Trade,Old,248341.88659631452
+2040,CO2e,Commercial,Transportation and Warehousing,New,5694.543130653805
+2040,CO2e,Commercial,Transportation and Warehousing,Old,40032.39940043787
+2040,CO2e,Commercial,Wholesale Trade,New,3822.400170087488
+2040,CO2e,Commercial,Wholesale Trade,Old,154786.54241147335
+2040,CO2e,Industry,,,79360.26556424746
+2040,CO2e,Public,Hospital,New,2761.2780420228355
+2040,CO2e,Public,Hospital,Old,24999.03007336086
+2040,CO2e,Public,Municipality,New,2282.4745370204214
+2040,CO2e,Public,Municipality,Old,18871.411288719057
+2040,CO2e,Public,Post-Secondary Institution,New,2682.9002364722924
+2040,CO2e,Public,Post-Secondary Institution,Old,42813.08566442616
+2040,CO2e,Public,School board,New,2996.7955146800837
+2040,CO2e,Public,School board,Old,30812.177143871646
+2040,CO2e,Residential,Apartments,New,28857.132639930507
+2040,CO2e,Residential,Apartments,Old,214670.65690721502
+2040,CO2e,Residential,Single Attached,New,825.8980405850864
+2040,CO2e,Residential,Single Attached,Old,121330.0293272855
+2040,CO2e,Residential,Single Detached,New,6764.891298458616
+2040,CO2e,Residential,Single Detached,Old,263051.7639334121
+2040,N2O,Commercial,"Arts, Entertainment and Recreation",New,0.03429175297123011
+2040,N2O,Commercial,"Arts, Entertainment and Recreation",Old,1.340606529178687
+2040,N2O,Commercial,Accommodation and Food Services,New,0.020282368045116808
+2040,N2O,Commercial,Accommodation and Food Services,Old,1.5258382811981992
+2040,N2O,Commercial,Educational Services,New,0.1716022672694601
+2040,N2O,Commercial,Educational Services,Old,4.569543764063556
+2040,N2O,Commercial,Health Care and Social Assistance,New,0.24150197517240296
+2040,N2O,Commercial,Health Care and Social Assistance,Old,3.124999700918273
+2040,N2O,Commercial,Information and Cultural Industries,Old,0.16820750497462306
+2040,N2O,Commercial,Offices,New,0.5139052539876005
+2040,N2O,Commercial,Offices,Old,13.1972185017163
+2040,N2O,Commercial,Other Services,New,0.156334718131588
+2040,N2O,Commercial,Other Services,Old,1.5937838026066977
+2040,N2O,Commercial,Retail Trade,New,0.3908346916967567
+2040,N2O,Commercial,Retail Trade,Old,4.595524501542864
+2040,N2O,Commercial,Transportation and Warehousing,New,0.11478461377786615
+2040,N2O,Commercial,Transportation and Warehousing,Old,0.7514331021637081
+2040,N2O,Commercial,Wholesale Trade,New,0.07920684412506364
+2040,N2O,Commercial,Wholesale Trade,Old,2.8696710273081933
+2040,N2O,Industry,,,57.562303230752775
+2040,N2O,Public,Hospital,New,0.054818093934693626
+2040,N2O,Public,Hospital,Old,0.4697486488177122
+2040,N2O,Public,Municipality,New,0.04672889474724202
+2040,N2O,Public,Municipality,Old,0.3567576208826129
+2040,N2O,Public,Post-Secondary Institution,New,0.05396771833999782
+2040,N2O,Public,Post-Secondary Institution,Old,0.7982739190325767
+2040,N2O,Public,School board,New,0.06060882015070976
+2040,N2O,Public,School board,Old,0.5770232729566024
+2040,N2O,Residential,Apartments,New,4.713365477969973
+2040,N2O,Residential,Apartments,Old,4.302539515164533
+2040,N2O,Residential,Single Attached,New,0.17321067080691396
+2040,N2O,Residential,Single Attached,Old,2.577550775278219
+2040,N2O,Residential,Single Detached,New,1.5718984250524592
+2040,N2O,Residential,Single Detached,Old,5.191945889155263
+2045,CH4,Commercial,"Arts, Entertainment and Recreation",New,0.053379267209761896
+2045,CH4,Commercial,"Arts, Entertainment and Recreation",Old,0.8660173542303643
+2045,CH4,Commercial,Accommodation and Food Services,New,0.030881255236359716
+2045,CH4,Commercial,Accommodation and Food Services,Old,1.0047795736875282
+2045,CH4,Commercial,Educational Services,New,0.2740370656429751
+2045,CH4,Commercial,Educational Services,Old,3.0363039697832184
+2045,CH4,Commercial,Health Care and Social Assistance,New,0.3841218614519339
+2045,CH4,Commercial,Health Care and Social Assistance,Old,2.2714706850797386
+2045,CH4,Commercial,Information and Cultural Industries,Old,0.11672651800702949
+2045,CH4,Commercial,Offices,New,0.6831148548571964
+2045,CH4,Commercial,Offices,Old,8.108001065081275
+2045,CH4,Commercial,Other Services,New,0.19280733163800903
+2045,CH4,Commercial,Other Services,Old,1.005341030708555
+2045,CH4,Commercial,Retail Trade,New,0.46192120932053116
+2045,CH4,Commercial,Retail Trade,Old,2.642556834647215
+2045,CH4,Commercial,Transportation and Warehousing,New,0.1326556917093434
+2045,CH4,Commercial,Transportation and Warehousing,Old,0.4219291708697793
+2045,CH4,Commercial,Wholesale Trade,New,0.09922866114652909
+2045,CH4,Commercial,Wholesale Trade,Old,1.6728795394975329
+2045,CH4,Industry,,,79.37587989262086
+2045,CH4,Public,Hospital,New,0.07318005925721774
+2045,CH4,Public,Hospital,Old,0.27242103609279955
+2045,CH4,Public,Municipality,New,0.061670786686489405
+2045,CH4,Public,Municipality,Old,0.17270079201768163
+2045,CH4,Public,Post-Secondary Institution,New,0.07026241318262723
+2045,CH4,Public,Post-Secondary Institution,Old,0.45562203967281073
+2045,CH4,Public,School board,New,0.07713107968786459
+2045,CH4,Public,School board,Old,0.30955899133580567
+2045,CH4,Residential,Apartments,New,354.516915319628
+2045,CH4,Residential,Apartments,Old,38.68565186545514
+2045,CH4,Residential,Single Attached,New,14.349801728568483
+2045,CH4,Residential,Single Attached,Old,37.39233164274756
+2045,CH4,Residential,Single Detached,New,108.19021170739329
+2045,CH4,Residential,Single Detached,Old,38.55278182559802
+2045,CO2,Commercial,"Arts, Entertainment and Recreation",New,2684.8043244711384
+2045,CO2,Commercial,"Arts, Entertainment and Recreation",Old,39803.5384883673
+2045,CO2,Commercial,Accommodation and Food Services,New,1541.0489687081565
+2045,CO2,Commercial,Accommodation and Food Services,Old,46490.923631874895
+2045,CO2,Commercial,Educational Services,New,13938.472945112542
+2045,CO2,Commercial,Educational Services,Old,139164.12711077623
+2045,CO2,Commercial,Health Care and Social Assistance,New,19556.546780728564
+2045,CO2,Commercial,Health Care and Social Assistance,Old,108198.00433236096
+2045,CO2,Commercial,Information and Cultural Industries,Old,5463.3389396919865
+2045,CO2,Commercial,Offices,New,30224.210213180268
+2045,CO2,Commercial,Offices,Old,350427.5442762693
+2045,CO2,Commercial,Other Services,New,8232.062909610488
+2045,CO2,Commercial,Other Services,Old,45722.231087657565
+2045,CO2,Commercial,Retail Trade,New,18760.74936213915
+2045,CO2,Commercial,Retail Trade,Old,113375.96516203697
+2045,CO2,Commercial,Transportation and Warehousing,New,5159.894759122969
+2045,CO2,Commercial,Transportation and Warehousing,Old,18279.31808436704
+2045,CO2,Commercial,Wholesale Trade,New,4173.835600554118
+2045,CO2,Commercial,Wholesale Trade,Old,73054.99515200277
+2045,CO2,Industry,,,18.252878649652256
+2045,CO2,Public,Hospital,New,3585.7404957441595
+2045,CO2,Public,Hospital,Old,9184.575895872787
+2045,CO2,Public,Municipality,New,2966.134892336235
+2045,CO2,Public,Municipality,Old,5581.172316513155
+2045,CO2,Public,Post-Secondary Institution,New,3411.8322730071864
+2045,CO2,Public,Post-Secondary Institution,Old,12003.17983629689
+2045,CO2,Public,School board,New,3732.1215975343625
+2045,CO2,Public,School board,Old,9445.771187218408
+2045,CO2,Residential,Apartments,New,7756.315269607219
+2045,CO2,Residential,Apartments,Old,29621.864016921936
+2045,CO2,Residential,Single Attached,New,271.8869912133433
+2045,CO2,Residential,Single Attached,Old,15793.798988346343
+2045,CO2,Residential,Single Detached,New,1149.1999648248998
+2045,CO2,Residential,Single Detached,Old,23276.329532238447
+2045,CO2e,Commercial,"Arts, Entertainment and Recreation",New,2701.210359206412
+2045,CO2e,Commercial,"Arts, Entertainment and Recreation",Old,40066.395929752434
+2045,CO2e,Commercial,Accommodation and Food Services,New,1550.60785119728
+2045,CO2e,Commercial,Accommodation and Food Services,Old,46795.81564388505
+2045,CO2e,Commercial,Educational Services,New,14021.7944537594
+2045,CO2e,Commercial,Educational Services,Old,140084.3933908604
+2045,CO2e,Commercial,Health Care and Social Assistance,New,19673.19696902943
+2045,CO2e,Commercial,Health Care and Social Assistance,Old,108886.58533758084
+2045,CO2e,Commercial,Information and Cultural Industries,Old,5499.122616619425
+2045,CO2e,Commercial,Offices,New,30431.67179483137
+2045,CO2e,Commercial,Offices,Old,352884.02739927865
+2045,CO2e,Commercial,Other Services,New,8290.954392305444
+2045,CO2e,Commercial,Other Services,Old,46027.29817141047
+2045,CO2e,Commercial,Retail Trade,New,18901.208230902514
+2045,CO2e,Commercial,Retail Trade,Old,114176.97838543229
+2045,CO2e,Commercial,Transportation and Warehousing,New,5200.561641166573
+2045,CO2e,Commercial,Transportation and Warehousing,Old,18407.647419688787
+2045,CO2e,Commercial,Wholesale Trade,New,4204.343994227932
+2045,CO2e,Commercial,Wholesale Trade,Old,73562.28203884927
+2045,CO2e,Industry,,,18243.044223535893
+2045,CO2e,Public,Hospital,New,3608.207696973343
+2045,CO2e,Public,Hospital,Old,9267.559487535325
+2045,CO2e,Public,Municipality,New,2985.1547713451323
+2045,CO2e,Public,Municipality,Old,5633.940692288775
+2045,CO2e,Public,Post-Secondary Institution,New,3433.438039816933
+2045,CO2e,Public,Post-Secondary Institution,Old,12141.66549814906
+2045,CO2e,Public,School board,New,3755.8577381823857
+2045,CO2e,Public,School board,Old,9540.007926648046
+2045,CO2e,Residential,Apartments,New,16407.688766283536
+2045,CO2e,Residential,Apartments,Old,30987.00741324295
+2045,CO2e,Residential,Single Attached,New,621.654315517517
+2045,CO2e,Residential,Single Attached,Old,16913.973651605895
+2045,CO2e,Residential,Single Detached,New,3774.9864836830247
+2045,CO2e,Residential,Single Detached,Old,24558.01553660459
+2045,N2O,Commercial,"Arts, Entertainment and Recreation",New,0.05129218162371453
+2045,N2O,Commercial,"Arts, Entertainment and Recreation",Old,0.8210438823700954
+2045,N2O,Commercial,Accommodation and Food Services,New,0.029900591037450446
+2045,N2O,Commercial,Accommodation and Food Services,Old,0.9523209428278521
+2045,N2O,Commercial,Educational Services,New,0.26029104116897894
+2045,N2O,Commercial,Educational Services,Old,2.8741741500628852
+2045,N2O,Commercial,Health Care and Social Assistance,New,0.3643745946656548
+2045,N2O,Commercial,Health Care and Social Assistance,Old,2.1506044323262135
+2045,N2O,Commercial,Information and Cultural Industries,Old,0.11185375855467304
+2045,N2O,Commercial,Offices,New,0.6480408379164599
+2045,N2O,Commercial,Offices,Old,7.671862753833387
+2045,N2O,Commercial,Other Services,New,0.18403533131059738
+2045,N2O,Commercial,Other Services,Old,0.9528688661342455
+2045,N2O,Commercial,Retail Trade,New,0.43878699116650344
+2045,N2O,Commercial,Retail Trade,Old,2.501743388817974
+2045,N2O,Commercial,Transportation and Warehousing,New,0.12711782724063578
+2045,N2O,Commercial,Transportation and Warehousing,Old,0.40090208970962415
+2045,N2O,Commercial,Wholesale Trade,New,0.09538453620716479
+2045,N2O,Commercial,Wholesale Trade,Old,1.5844175050908946
+2045,N2O,Industry,,,55.56341566154626
+2045,N2O,Public,Hospital,New,0.07023630867376143
+2045,N2O,Public,Hospital,Old,0.25927097283419065
+2045,N2O,Public,Municipality,New,0.059479169424412164
+2045,N2O,Public,Municipality,Old,0.16490489645384473
+2045,N2O,Public,Post-Secondary Institution,New,0.0675511950768823
+2045,N2O,Public,Post-Secondary Institution,Old,0.43260939268130844
+2045,N2O,Public,School board,New,0.07421606702878263
+2045,N2O,Public,School board,Old,0.29441610943484015
+2045,N2O,Residential,Apartments,New,4.048719043503756
+2045,N2O,Residential,Apartments,Old,1.8548480105584924
+2045,N2O,Residential,Single Attached,New,0.1624882147793128
+2045,N2O,Residential,Single Attached,Old,1.1239452978585134
+2045,N2O,Residential,Single Detached,New,1.1872217214861096
+2045,N2O,Residential,Single Detached,Old,1.5841529732502393
+2050,CH4,Commercial,"Arts, Entertainment and Recreation",New,0.10393573593164138
+2050,CH4,Commercial,"Arts, Entertainment and Recreation",Old,0.47802162740562026
+2050,CH4,Commercial,Accommodation and Food Services,New,0.060079482243416873
+2050,CH4,Commercial,Accommodation and Food Services,Old,0.48622825613871146
+2050,CH4,Commercial,Educational Services,New,0.5375388063021521
+2050,CH4,Commercial,Educational Services,Old,0.5182322612895864
+2050,CH4,Commercial,Health Care and Social Assistance,New,0.7613714070140881
+2050,CH4,Commercial,Health Care and Social Assistance,Old,0.5121707415620598
+2050,CH4,Commercial,Information and Cultural Industries,Old,0.14789531130085593
+2050,CH4,Commercial,Offices,New,1.066065921409968
+2050,CH4,Commercial,Offices,Old,0.5462247023656809
+2050,CH4,Commercial,Other Services,New,0.26056386620478567
+2050,CH4,Commercial,Other Services,Old,0.4843720964721394
+2050,CH4,Commercial,Retail Trade,New,0.5709307960882011
+2050,CH4,Commercial,Retail Trade,Old,0.5115921478691396
+2050,CH4,Commercial,Transportation and Warehousing,New,0.14302514237975092
+2050,CH4,Commercial,Transportation and Warehousing,Old,0.38038584043512025
+2050,CH4,Commercial,Wholesale Trade,New,0.13048153070602775
+2050,CH4,Commercial,Wholesale Trade,Old,0.5004207874918366
+2050,CH4,Industry,,,66.61301581291964
+2050,CH4,Public,Hospital,New,0.10565579045131225
+2050,CH4,Public,Hospital,Old,0.38080595735871875
+2050,CH4,Public,Municipality,New,0.08710892801443279
+2050,CH4,Public,Municipality,Old,0.1949781326544519
+2050,CH4,Public,Post-Secondary Institution,New,0.09901153477042617
+2050,CH4,Public,Post-Secondary Institution,Old,0.07546529362093207
+2050,CH4,Public,School board,New,0.10832966200194773
+2050,CH4,Public,School board,Old,0.3602669163779121
+2050,CH4,Residential,Apartments,New,0.33061692978013846
+2050,CH4,Residential,Apartments,Old,0.6980147776990201
+2050,CH4,Residential,Single Attached,New,0.0057999318472537545
+2050,CH4,Residential,Single Attached,Old,0.21613375998155732
+2050,CH4,Residential,Single Detached,New,0.027535114680162613
+2050,CH4,Residential,Single Detached,Old,0.3663452917094078
+2050,CO2,Commercial,"Arts, Entertainment and Recreation",New,6560.941958381786
+2050,CO2,Commercial,"Arts, Entertainment and Recreation",Old,30175.1089184783
+2050,CO2,Commercial,Accommodation and Food Services,New,3792.5165233634216
+2050,CO2,Commercial,Accommodation and Food Services,Old,30693.152248899456
+2050,CO2,Commercial,Educational Services,New,33932.13005049391
+2050,CO2,Commercial,Educational Services,Old,32713.404651487377
+2050,CO2,Commercial,Health Care and Social Assistance,New,48061.56001508787
+2050,CO2,Commercial,Health Care and Social Assistance,Old,32330.7712987198
+2050,CO2,Commercial,Information and Cultural Industries,Old,9335.889573148454
+2050,CO2,Commercial,Offices,New,67295.39721333016
+2050,CO2,Commercial,Offices,Old,34480.427124820984
+2050,CO2,Commercial,Other Services,New,16448.09061385321
+2050,CO2,Commercial,Other Services,Old,30575.982194454675
+2050,CO2,Commercial,Retail Trade,New,36039.99896485111
+2050,CO2,Commercial,Retail Trade,Old,32294.247579493618
+2050,CO2,Commercial,Transportation and Warehousing,New,9028.46022430639
+2050,CO2,Commercial,Transportation and Warehousing,Old,24011.851155087952
+2050,CO2,Commercial,Wholesale Trade,New,8236.644903020693
+2050,CO2,Commercial,Wholesale Trade,Old,31589.055603176086
+2050,CO2,Industry,,,243.5529791148079
+2050,CO2,Public,Hospital,New,6669.520377225475
+2050,CO2,Public,Hospital,Old,24038.371030343144
+2050,CO2,Public,Municipality,New,5498.749930778741
+2050,CO2,Public,Municipality,Old,12307.99204944179
+2050,CO2,Public,Post-Secondary Institution,New,6250.101825096177
+2050,CO2,Public,Post-Secondary Institution,Old,4763.745663424347
+2050,CO2,Public,School board,New,6838.308483555196
+2050,CO2,Public,School board,Old,22741.8443396145
+2050,CO2,Residential,Apartments,New,16276.101908740071
+2050,CO2,Residential,Apartments,Old,34526.9115512563
+2050,CO2,Residential,Single Attached,New,175.7747023830913
+2050,CO2,Residential,Single Attached,Old,10415.936495085125
+2050,CO2,Residential,Single Detached,New,1187.5694526693374
+2050,CO2,Residential,Single Detached,Old,17912.844570584948
+2050,CO2e,Commercial,"Arts, Entertainment and Recreation",New,6702.502398057238
+2050,CO2e,Commercial,"Arts, Entertainment and Recreation",Old,30826.17422477893
+2050,CO2e,Commercial,Accommodation and Food Services,New,3874.344759298031
+2050,CO2e,Commercial,Accommodation and Food Services,Old,31355.39498095549
+2050,CO2e,Commercial,Educational Services,New,34664.2577357474
+2050,CO2e,Commercial,Educational Services,Old,33419.23682850114
+2050,CO2e,Commercial,Health Care and Social Assistance,New,49098.54763216808
+2050,CO2e,Commercial,Health Care and Social Assistance,Old,33028.347687769594
+2050,CO2e,Commercial,Information and Cultural Industries,Old,9537.322940661783
+2050,CO2e,Commercial,Offices,New,68747.3786632625
+2050,CO2e,Commercial,Offices,Old,35224.384997783316
+2050,CO2e,Commercial,Other Services,New,16802.97851773782
+2050,CO2e,Commercial,Other Services,Old,31235.696837628155
+2050,CO2e,Commercial,Retail Trade,New,36817.606529699246
+2050,CO2e,Commercial,Retail Trade,Old,32991.03592411549
+2050,CO2e,Commercial,Transportation and Warehousing,New,9223.260423279702
+2050,CO2e,Commercial,Transportation and Warehousing,Old,24529.936550218335
+2050,CO2e,Commercial,Wholesale Trade,New,8414.360706836422
+2050,CO2e,Commercial,Wholesale Trade,Old,32270.628558474837
+2050,CO2e,Industry,,,15539.039798485739
+2050,CO2e,Public,Hospital,New,6813.423530616164
+2050,CO2e,Public,Hospital,Old,24557.02862459144
+2050,CO2e,Public,Municipality,New,5617.392263359045
+2050,CO2e,Public,Municipality,Old,12573.552204842199
+2050,CO2e,Public,Post-Secondary Institution,New,6384.955504337562
+2050,CO2e,Public,Post-Secondary Institution,Old,4866.529369619897
+2050,CO2e,Public,School board,New,6985.853449157543
+2050,CO2e,Public,School board,Old,23232.527766501655
+2050,CO2e,Residential,Apartments,New,16376.24305957696
+2050,CO2e,Residential,Apartments,Old,34738.33449074829
+2050,CO2e,Residential,Single Attached,New,177.53145407256397
+2050,CO2e,Residential,Single Attached,Old,10481.401634676286
+2050,CO2e,Residential,Single Detached,New,1195.9096126070963
+2050,CO2e,Residential,Single Detached,Old,18023.807548614695
+2050,N2O,Commercial,"Arts, Entertainment and Recreation",New,0.46771070208351423
+2050,N2O,Commercial,"Arts, Entertainment and Recreation",Old,2.151096819211755
+2050,N2O,Commercial,Accommodation and Food Services,New,0.2703576067365685
+2050,N2O,Commercial,Accommodation and Food Services,Old,2.1880266398560937
+2050,N2O,Commercial,Educational Services,New,2.418924061480337
+2050,N2O,Commercial,Educational Services,Old,2.3320446292841477
+2050,N2O,Commercial,Health Care and Social Assistance,New,3.426170528633968
+2050,N2O,Commercial,Health Care and Social Assistance,Old,2.304767796902653
+2050,N2O,Commercial,Information and Cultural Industries,Old,0.6655287448859539
+2050,N2O,Commercial,Offices,New,4.797295522089738
+2050,N2O,Commercial,Offices,Old,2.4580105846062166
+2050,N2O,Commercial,Other Services,New,1.1725371231352821
+2050,N2O,Commercial,Other Services,Old,2.179673923313994
+2050,N2O,Commercial,Retail Trade,New,2.569187980302929
+2050,N2O,Commercial,Retail Trade,Old,2.3021641258946888
+2050,N2O,Commercial,Transportation and Warehousing,New,0.6436129898769791
+2050,N2O,Commercial,Transportation and Warehousing,Old,1.711735880809557
+2050,N2O,Commercial,Wholesale Trade,New,0.5871667505735059
+2050,N2O,Commercial,Wholesale Trade,Old,2.2518930159779527
+2050,N2O,Industry,,,46.632931165433796
+2050,N2O,Public,Hospital,New,0.47545094560809276
+2050,N2O,Public,Hospital,Old,1.713626406522702
+2050,N2O,Public,Municipality,New,0.39199008420134307
+2050,N2O,Public,Municipality,Old,0.8774013913243874
+2050,N2O,Public,Post-Secondary Institution,New,0.4455518020510251
+2050,N2O,Public,Post-Secondary Institution,Old,0.3395937417097701
+2050,N2O,Public,School board,New,0.4874833647661325
+2050,N2O,Public,School board,Old,1.6212007437691984
+2050,N2O,Residential,Apartments,New,0.3127456218506967
+2050,N2O,Residential,Apartments,Old,0.6602839904708657
+2050,N2O,Residential,Single Attached,New,0.005486419868054816
+2050,N2O,Residential,Single Attached,Old,0.20445077393136593
+2050,N2O,Residential,Single Detached,New,0.02604671989756959
+2050,N2O,Residential,Single Detached,Old,0.34654270773104395

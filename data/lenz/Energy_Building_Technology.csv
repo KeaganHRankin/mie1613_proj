@@ -1,0 +1,1918 @@
+"Energy consumed for building sector, and per end use (TJ)"
+t_periods,Fuel,Sub,EndUse,VFlow_In
+2016,Biomass,Industry,Industrial Processes,85.19671545864493
+2016,Biomass,Residential,Space Heating,203.50461539406385
+2016,Biomass,Residential,Water Heating,9.844861972196272
+2016,Bio Methane,Commercial,Auxiliary Equipment,3.7509043503224864
+2016,Bio Methane,Commercial,Space Cooling,0.7427718852509747
+2016,Bio Methane,Commercial,Space Heating,376.1524971029788
+2016,Bio Methane,Commercial,Water Heating,33.07189718912252
+2016,Bio Methane,Public,Auxiliary Equipment,0.06462762277540994
+2016,Bio Methane,Public,Space Cooling,9.090149759292922
+2016,Bio Methane,Public,Space Heating,0.04189533728850762
+2016,Bio Methane,Public,Water Heating,49.768754140845346
+2016,Bio Methane,Residential,Space Heating,251.99798207842866
+2016,Bio Methane,Residential,Water Heating,36.24139589009306
+2016,Wood Pellet,Residential,Space Heating,0.263652835897524
+2016,Wood Pellet,Residential,Water Heating,10.23065205330217
+2016,Coal,Industry,Industrial Processes,98.0838384919339
+2016,District Cooling,Commercial,Space Cooling,1253.6138707379553
+2016,District Cooling,Public,Space Cooling,243.31765360724086
+2016,District Cooling,Residential,Space Cooling,81.14493371741831
+2016,District Heating,Commercial,Space Heating,3381.552989852957
+2016,District Heating,Commercial,Water Heating,551.0759325642434
+2016,District Heating,Public,Space Heating,1487.1786967258909
+2016,District Heating,Public,Water Heating,333.970217098222
+2016,District Heating,Residential,Space Heating,77.28873887562429
+2016,District Heating,Residential,Water Heating,953.947155301516
+2016,Electricity,Commercial,Auxiliary Equipment,17204.640033078296
+2016,Electricity,Commercial,Auxiliary Motors,2266.9613907618477
+2016,Electricity,Commercial,Lighting,30018.087371428603
+2016,Electricity,Commercial,Space Cooling,2643.201681656276
+2016,Electricity,Commercial,Space Heating,1124.5239356717186
+2016,Electricity,Commercial,Street Lighting,493.35803860080114
+2016,Electricity,Commercial,Water Heating,216.41905703423438
+2016,Electricity,Industry,Industrial Processes,2665.4860277678204
+2016,Electricity,Industry,Lighting,649.5279282791197
+2016,Electricity,Industry,Space Cooling,366.5953037538181
+2016,Electricity,Industry,Space Heating,755.5520103014385
+2016,Electricity,Industry,Water Heating,1007.6027228998926
+2016,Electricity,Public,Auxiliary Equipment,2015.4308129244002
+2016,Electricity,Public,Auxiliary Motors,534.8809076053451
+2016,Electricity,Public,Lighting,1968.3582076806229
+2016,Electricity,Public,Space Cooling,1177.5375995262518
+2016,Electricity,Public,Space Heating,789.3254415717631
+2016,Electricity,Public,Water Heating,0.33639711693991126
+2016,Electricity,Residential,Other Appliances,5863.076845359822
+2016,Electricity,Residential,Clothe Dryer,2011.5763183786642
+2016,Electricity,Residential,Clothe Washer,118.75190579660375
+2016,Electricity,Residential,Dish Washer,144.18439494594668
+2016,Electricity,Residential,Freezer,552.9099471434681
+2016,Electricity,Residential,Lighting,2461.7616547073644
+2016,Electricity,Residential,Range,2047.584608748812
+2016,Electricity,Residential,Refrigerator,1738.293773695374
+2016,Electricity,Residential,Space Cooling,3067.7698521994007
+2016,Electricity,Residential,Space Heating,4071.1071975148034
+2016,Electricity,Residential,Water Heating,796.5762708470636
+2016,Heavy Fuel Oil,Commercial,Space Heating,1.6196745836617492
+2016,Heavy Fuel Oil,Commercial,Water Heating,3.276967464139179
+2016,Heavy Fuel Oil,Industry,Industrial Processes,42.57482887023213
+2016,Heavy Fuel Oil,Industry,Space Heating,25.354176964357045
+2016,Heavy Fuel Oil,Industry,Water Heating,60.66277372264912
+2016,Heavy Fuel Oil,Public,Water Heating,0.3324225153478062
+2016,Hydrogen,Residential,Space Heating,0.3740746529717484
+2016,Hydrogen,Residential,Water Heating,0.168200178728344
+2016,Kerosene,Commercial,Space Heating,1.6195980532835177
+2016,Kerosene,Commercial,Water Heating,3.2770279192447695
+2016,Kerosene,Public,Water Heating,0.3324228212229238
+2016,Kerosene,Residential,Space Heating,0.20181371245758517
+2016,Kerosene,Residential,Water Heating,6.202346736918475
+2016,Light Fuel Oil,Commercial,Space Heating,192.8690137325593
+2016,Light Fuel Oil,Commercial,Water Heating,233.06765221703674
+2016,Light Fuel Oil,Industry,Industrial Processes,478.6710302043411
+2016,Light Fuel Oil,Industry,Space Heating,24.74505345898703
+2016,Light Fuel Oil,Industry,Water Heating,44.268767166477666
+2016,Light Fuel Oil,Public,Space Heating,343.42399364153476
+2016,Light Fuel Oil,Public,Water Heating,0.6127207204471171
+2016,Light Fuel Oil,Residential,Space Heating,933.888724478891
+2016,Light Fuel Oil,Residential,Water Heating,96.63292405221027
+2016,Mix Energy,Industry,Industrial Processes,15263.906314559923
+2016,Natural Gas,Commercial,Auxiliary Equipment,2641.2269606145683
+2016,Natural Gas,Commercial,Space Cooling,121.86128669324395
+2016,Natural Gas,Commercial,Space Heating,36724.4641507004
+2016,Natural Gas,Commercial,Water Heating,5876.645470042623
+2016,Natural Gas,Industry,Industrial Processes,11656.942211506936
+2016,Natural Gas,Industry,Space Cooling,30.206958954562474
+2016,Natural Gas,Industry,Space Heating,731.355224784051
+2016,Natural Gas,Industry,Water Heating,2870.228162087334
+2016,Natural Gas,Public,Auxiliary Equipment,382.7933293435211
+2016,Natural Gas,Public,Space Cooling,148.0257068779644
+2016,Natural Gas,Public,Space Heating,7247.462938723242
+2016,Natural Gas,Public,Water Heating,995.7195792125474
+2016,Natural Gas,Residential,Clothe Dryer,139.0051707770233
+2016,Natural Gas,Residential,Range,141.50886356144872
+2016,Natural Gas,Residential,Space Heating,58092.407587647416
+2016,Natural Gas,Residential,Water Heating,16275.505185101661
+2016,Pet Coke,Industry,Industrial Processes,236.9516622677745
+2016,Propane,Commercial,Auxiliary Equipment,1917.2478571331326
+2016,Propane,Commercial,Space Heating,971.4104231964861
+2016,Propane,Commercial,Water Heating,99.90862672257252
+2016,Propane,Industry,Space Heating,21.86056236638944
+2016,Propane,Industry,Water Heating,96.27296372222754
+2016,Propane,Residential,Space Heating,0.2696660549952014
+2016,Propane,Residential,Water Heating,10.1504068342665
+2016,Synthetic Gas,Commercial,Auxiliary Equipment,0.43879259017156946
+2016,Synthetic Gas,Commercial,Space Cooling,0.20236850872521614
+2016,Synthetic Gas,Commercial,Space Heating,1.4803941801777245
+2016,Synthetic Gas,Commercial,Water Heating,0.7410006178563076
+2016,Synthetic Gas,Public,Auxiliary Equipment,0.046241958379420266
+2016,Synthetic Gas,Public,Space Cooling,0.21200478271148285
+2016,Synthetic Gas,Public,Space Heating,0.03125355224780966
+2016,Synthetic Gas,Public,Water Heating,0.3872498664262843
+2016,Synthetic Gas,Residential,Space Heating,0.762424898978452
+2016,Synthetic Gas,Residential,Water Heating,0.30214017926575387
+2017,Biomass,Industry,Industrial Processes,85.29557083206842
+2017,Biomass,Residential,Space Heating,213.8058212821451
+2017,Biomass,Residential,Water Heating,20.586897302473545
+2017,Bio Methane,Commercial,Auxiliary Equipment,14.081329165333822
+2017,Bio Methane,Commercial,Space Cooling,1.3654153955633053
+2017,Bio Methane,Commercial,Space Heating,393.1659232089425
+2017,Bio Methane,Commercial,Water Heating,84.17621414864865
+2017,Bio Methane,Public,Auxiliary Equipment,1.30872302032725
+2017,Bio Methane,Public,Space Cooling,11.303735106731697
+2017,Bio Methane,Public,Space Heating,18.353207564607267
+2017,Bio Methane,Public,Water Heating,55.574794096904704
+2017,Bio Methane,Residential,Space Heating,194.22109556824523
+2017,Bio Methane,Residential,Water Heating,112.45305993819535
+2017,Wood Pellet,Residential,Space Heating,0.49699871788483796
+2017,Wood Pellet,Residential,Water Heating,21.318041658375126
+2017,Coal,Industry,Industrial Processes,98.19764703989455
+2017,District Cooling,Commercial,Space Cooling,1256.934399332862
+2017,District Cooling,Public,Space Cooling,246.24859450662436
+2017,District Cooling,Residential,Space Cooling,48.122033428044006
+2017,District Heating,Commercial,Space Heating,2873.3655598554255
+2017,District Heating,Commercial,Water Heating,460.1872224503393
+2017,District Heating,Public,Space Heating,1495.7761051705859
+2017,District Heating,Public,Water Heating,301.39003475093773
+2017,District Heating,Residential,Space Heating,48.73972151264297
+2017,District Heating,Residential,Water Heating,996.1004759182094
+2017,Electricity,Commercial,Auxiliary Equipment,17310.41788425507
+2017,Electricity,Commercial,Auxiliary Motors,2280.1830597239727
+2017,Electricity,Commercial,Lighting,30162.61142573881
+2017,Electricity,Commercial,Space Cooling,2653.849148093466
+2017,Electricity,Commercial,Space Heating,1652.858777490247
+2017,Electricity,Commercial,Street Lighting,496.34352465734884
+2017,Electricity,Commercial,Water Heating,262.97539808260933
+2017,Electricity,Industry,Industrial Processes,2668.5788420300805
+2017,Electricity,Industry,Lighting,650.281587918987
+2017,Electricity,Industry,Space Cooling,367.0206712747132
+2017,Electricity,Industry,Space Heating,756.428691705242
+2017,Electricity,Industry,Water Heating,1008.7718635512051
+2017,Electricity,Public,Auxiliary Equipment,2026.077514199528
+2017,Electricity,Public,Auxiliary Motors,537.8945829310583
+2017,Electricity,Public,Lighting,1977.3099789997282
+2017,Electricity,Public,Space Cooling,1183.5493686958594
+2017,Electricity,Public,Space Heating,790.8994952246946
+2017,Electricity,Public,Water Heating,10.696926683896335
+2017,Electricity,Residential,Other Appliances,5891.031161700284
+2017,Electricity,Residential,Clothe Dryer,2027.8375234819437
+2017,Electricity,Residential,Clothe Washer,110.91940440572328
+2017,Electricity,Residential,Dish Washer,145.24215064579806
+2017,Electricity,Residential,Freezer,512.7659593069611
+2017,Electricity,Residential,Lighting,2453.075799232918
+2017,Electricity,Residential,Range,1867.4503572762994
+2017,Electricity,Residential,Refrigerator,1579.0001032223083
+2017,Electricity,Residential,Space Cooling,3097.613954317368
+2017,Electricity,Residential,Space Heating,4156.482054869453
+2017,Electricity,Residential,Water Heating,741.7059619719937
+2017,Heavy Fuel Oil,Commercial,Space Heating,3.016991300426763
+2017,Heavy Fuel Oil,Commercial,Water Heating,6.380422177982564
+2017,Heavy Fuel Oil,Industry,Industrial Processes,42.62422925595637
+2017,Heavy Fuel Oil,Industry,Space Heating,25.38359589931376
+2017,Heavy Fuel Oil,Industry,Water Heating,60.73316189565562
+2017,Heavy Fuel Oil,Public,Water Heating,0.5068935896178929
+2017,Hydrogen,Residential,Space Heating,0.5847657091830524
+2017,Hydrogen,Residential,Water Heating,0.32758624924234725
+2017,Kerosene,Commercial,Space Heating,3.0171247759791515
+2017,Kerosene,Commercial,Water Heating,6.380620304963161
+2017,Kerosene,Public,Water Heating,0.5068926170948226
+2017,Kerosene,Residential,Space Heating,0.36540622171175685
+2017,Kerosene,Residential,Water Heating,13.256970543471668
+2017,Light Fuel Oil,Commercial,Space Heating,206.13873653362896
+2017,Light Fuel Oil,Commercial,Water Heating,237.84935904436745
+2017,Light Fuel Oil,Industry,Industrial Processes,479.22644132767414
+2017,Light Fuel Oil,Industry,Space Heating,24.773765616325758
+2017,Light Fuel Oil,Industry,Water Heating,44.320133061092434
+2017,Light Fuel Oil,Public,Space Heating,344.6273764610187
+2017,Light Fuel Oil,Public,Water Heating,22.8748931450088
+2017,Light Fuel Oil,Residential,Space Heating,775.3958934105464
+2017,Light Fuel Oil,Residential,Water Heating,103.39999371521233
+2017,Mix Energy,Industry,Industrial Processes,15281.617316096808
+2017,Natural Gas,Commercial,Auxiliary Equipment,2648.467062578603
+2017,Natural Gas,Commercial,Space Cooling,122.32257950116004
+2017,Natural Gas,Commercial,Space Heating,37189.302364296105
+2017,Natural Gas,Commercial,Water Heating,5919.820577802166
+2017,Natural Gas,Industry,Industrial Processes,11670.467983818762
+2017,Natural Gas,Industry,Space Cooling,30.242008664999855
+2017,Natural Gas,Industry,Space Heating,732.2038301960035
+2017,Natural Gas,Industry,Water Heating,2873.558542551017
+2017,Natural Gas,Public,Auxiliary Equipment,383.68065948526555
+2017,Natural Gas,Public,Space Cooling,149.31940754813039
+2017,Natural Gas,Public,Space Heating,7274.267247962924
+2017,Natural Gas,Public,Water Heating,1004.0369209241603
+2017,Natural Gas,Residential,Clothe Dryer,138.9696291698269
+2017,Natural Gas,Residential,Range,94.2295752039749
+2017,Natural Gas,Residential,Space Heating,58212.139445778324
+2017,Natural Gas,Residential,Water Heating,16406.128067201185
+2017,Pet Coke,Industry,Industrial Processes,237.22660179956677
+2017,Propane,Commercial,Auxiliary Equipment,1929.1774089382554
+2017,Propane,Commercial,Space Heating,815.4725734466401
+2017,Propane,Commercial,Water Heating,103.93801423337268
+2017,Propane,Industry,Space Heating,21.88592759371441
+2017,Propane,Industry,Water Heating,96.3846710776787
+2017,Propane,Residential,Space Heating,0.492268957175249
+2017,Propane,Residential,Water Heating,21.127155773597853
+2017,Synthetic Gas,Commercial,Auxiliary Equipment,0.9685450286929965
+2017,Synthetic Gas,Commercial,Space Cooling,0.42322459654547023
+2017,Synthetic Gas,Commercial,Space Heating,2.9017693442665102
+2017,Synthetic Gas,Commercial,Water Heating,1.6096399469522915
+2017,Synthetic Gas,Public,Auxiliary Equipment,0.17086703648581988
+2017,Synthetic Gas,Public,Space Cooling,0.405350695484016
+2017,Synthetic Gas,Public,Space Heating,0.3809643023097328
+2017,Synthetic Gas,Public,Water Heating,0.724222669849386
+2017,Synthetic Gas,Residential,Space Heating,1.1980430877891464
+2017,Synthetic Gas,Residential,Water Heating,0.6072307420120165
+2018,Biomass,Industry,Industrial Processes,85.39442620548382
+2018,Biomass,Residential,Space Heating,215.67490817547676
+2018,Biomass,Residential,Water Heating,511.70552524862103
+2018,Bio Methane,Commercial,Auxiliary Equipment,19.931115927248406
+2018,Bio Methane,Commercial,Space Cooling,1.8565877850091101
+2018,Bio Methane,Commercial,Space Heating,317.03581743556094
+2018,Bio Methane,Commercial,Water Heating,230.4250217055941
+2018,Bio Methane,Public,Auxiliary Equipment,2.1713003000617053
+2018,Bio Methane,Public,Space Cooling,13.687107651066855
+2018,Bio Methane,Public,Space Heating,72.02604063912344
+2018,Bio Methane,Public,Water Heating,84.76586837869262
+2018,Bio Methane,Residential,Space Heating,97.30837218629588
+2018,Bio Methane,Residential,Water Heating,131.856128468935
+2018,Wood Pellet,Residential,Space Heating,0.6936962886880107
+2018,Wood Pellet,Residential,Water Heating,529.1841276317481
+2018,Coal,Industry,Industrial Processes,98.31145558792089
+2018,District Cooling,Commercial,Space Cooling,1259.8105828268644
+2018,District Cooling,Public,Space Cooling,251.92505087313475
+2018,District Cooling,Residential,Space Cooling,87.37214250433777
+2018,District Heating,Commercial,Space Heating,3504.8849551300427
+2018,District Heating,Commercial,Water Heating,611.8241553979788
+2018,District Heating,Public,Space Heating,1501.455528362296
+2018,District Heating,Public,Water Heating,320.01089043343114
+2018,District Heating,Residential,Space Heating,192.48378988989745
+2018,District Heating,Residential,Water Heating,836.1802679286061
+2018,Electricity,Commercial,Auxiliary Equipment,17413.566543853114
+2018,Electricity,Commercial,Auxiliary Motors,2293.33888746522
+2018,Electricity,Commercial,Lighting,30133.244804717586
+2018,Electricity,Commercial,Space Cooling,2672.416299215028
+2018,Electricity,Commercial,Space Heating,1915.2998989204318
+2018,Electricity,Commercial,Street Lighting,499.3290108876459
+2018,Electricity,Commercial,Water Heating,176.40881215733245
+2018,Electricity,Industry,Industrial Processes,2671.671656293899
+2018,Electricity,Industry,Lighting,651.0352475588543
+2018,Electricity,Industry,Space Cooling,367.4460387956082
+2018,Electricity,Industry,Space Heating,757.3053731091351
+2018,Electricity,Industry,Water Heating,1009.9410042028101
+2018,Electricity,Public,Auxiliary Equipment,2036.6577759480388
+2018,Electricity,Public,Auxiliary Motors,540.906780553129
+2018,Electricity,Public,Lighting,1974.2934761098625
+2018,Electricity,Public,Space Cooling,1236.0175864191501
+2018,Electricity,Public,Space Heating,783.5894414000188
+2018,Electricity,Public,Water Heating,31.408303898963542
+2018,Electricity,Residential,Other Appliances,5931.442601164045
+2018,Electricity,Residential,Clothe Dryer,2018.6448726094798
+2018,Electricity,Residential,Clothe Washer,111.97297264713397
+2018,Electricity,Residential,Dish Washer,146.6467795448478
+2018,Electricity,Residential,Freezer,516.7924949951869
+2018,Electricity,Residential,Lighting,2469.2356117230884
+2018,Electricity,Residential,Range,1883.9180706894906
+2018,Electricity,Residential,Refrigerator,1590.948909553507
+2018,Electricity,Residential,Space Cooling,3285.5831061849635
+2018,Electricity,Residential,Space Heating,4388.174673379099
+2018,Electricity,Residential,Water Heating,834.7394851346288
+2018,Heavy Fuel Oil,Commercial,Space Heating,4.512412295559048
+2018,Heavy Fuel Oil,Commercial,Water Heating,28.308929421368223
+2018,Heavy Fuel Oil,Industry,Industrial Processes,42.67362964167036
+2018,Heavy Fuel Oil,Industry,Space Heating,25.413014834275916
+2018,Heavy Fuel Oil,Industry,Water Heating,60.80355006867396
+2018,Heavy Fuel Oil,Public,Water Heating,0.6306096126183465
+2018,Hydrogen,Residential,Space Heating,0.7411438531953181
+2018,Hydrogen,Residential,Water Heating,0.513810045765827
+2018,Kerosene,Commercial,Space Heating,4.511082817516919
+2018,Kerosene,Commercial,Water Heating,28.308520263077423
+2018,Kerosene,Public,Water Heating,0.6306233794008194
+2018,Kerosene,Residential,Space Heating,0.4793740142193356
+2018,Kerosene,Residential,Water Heating,298.3101122506262
+2018,Light Fuel Oil,Commercial,Space Heating,196.73690758845657
+2018,Light Fuel Oil,Commercial,Water Heating,233.6889263679142
+2018,Light Fuel Oil,Industry,Industrial Processes,479.78185245098666
+2018,Light Fuel Oil,Industry,Space Heating,24.802477773671033
+2018,Light Fuel Oil,Industry,Water Heating,44.37149895571269
+2018,Light Fuel Oil,Public,Space Heating,342.56550270221163
+2018,Light Fuel Oil,Public,Water Heating,64.1420782783598
+2018,Light Fuel Oil,Residential,Space Heating,180.32266697580206
+2018,Light Fuel Oil,Residential,Water Heating,342.2272497400804
+2018,Mix Energy,Industry,Industrial Processes,15299.328317633688
+2018,Natural Gas,Commercial,Auxiliary Equipment,2663.0096285884806
+2018,Natural Gas,Commercial,Space Cooling,123.19728286326826
+2018,Natural Gas,Commercial,Space Heating,35982.609502441104
+2018,Natural Gas,Commercial,Water Heating,5752.4189609404475
+2018,Natural Gas,Industry,Industrial Processes,11683.993756133505
+2018,Natural Gas,Industry,Space Cooling,30.277058375437267
+2018,Natural Gas,Industry,Space Heating,733.0524356081569
+2018,Natural Gas,Industry,Water Heating,2876.8889230145055
+2018,Natural Gas,Public,Auxiliary Equipment,385.03310799614866
+2018,Natural Gas,Public,Space Cooling,160.16723367312142
+2018,Natural Gas,Public,Space Heating,7279.868841890137
+2018,Natural Gas,Public,Water Heating,896.3033179249353
+2018,Natural Gas,Residential,Clothe Dryer,92.603943206815
+2018,Natural Gas,Residential,Range,94.24075352981633
+2018,Natural Gas,Residential,Space Heating,58480.539261434744
+2018,Natural Gas,Residential,Water Heating,17932.499894405286
+2018,Pet Coke,Industry,Industrial Processes,237.5015413312131
+2018,Propane,Commercial,Auxiliary Equipment,1942.559270834039
+2018,Propane,Commercial,Space Heating,1033.2548346391168
+2018,Propane,Commercial,Water Heating,104.7393392925028
+2018,Propane,Industry,Space Heating,21.911292821046068
+2018,Propane,Industry,Water Heating,96.49637843313306
+2018,Propane,Residential,Space Heating,0.6778898880918659
+2018,Propane,Residential,Water Heating,524.6250858872718
+2018,Synthetic Gas,Commercial,Auxiliary Equipment,1.6042348837123634
+2018,Synthetic Gas,Commercial,Space Cooling,0.6963698877204029
+2018,Synthetic Gas,Commercial,Space Heating,4.878866818520148
+2018,Synthetic Gas,Commercial,Water Heating,3.1700107680297154
+2018,Synthetic Gas,Public,Auxiliary Equipment,0.31410814364932865
+2018,Synthetic Gas,Public,Space Cooling,0.6731625678551093
+2018,Synthetic Gas,Public,Space Heating,1.0250706377564542
+2018,Synthetic Gas,Public,Water Heating,1.3355138119613372
+2018,Synthetic Gas,Residential,Space Heating,1.7172178920909715
+2018,Synthetic Gas,Residential,Water Heating,1.22531673486829
+2019,Biomass,Industry,Industrial Processes,85.49328154604005
+2019,Biomass,Residential,Space Heating,216.76032721022278
+2019,Biomass,Residential,Water Heating,549.8617864040106
+2019,Bio Methane,Commercial,Auxiliary Equipment,30.68322268988805
+2019,Bio Methane,Commercial,Space Cooling,2.8450476958867976
+2019,Bio Methane,Commercial,Space Heating,344.96134061387846
+2019,Bio Methane,Commercial,Water Heating,241.10847459646646
+2019,Bio Methane,Public,Auxiliary Equipment,3.2688445175817473
+2019,Bio Methane,Public,Space Cooling,15.192651570453945
+2019,Bio Methane,Public,Space Heating,82.7509362355319
+2019,Bio Methane,Public,Water Heating,87.449913837137
+2019,Bio Methane,Residential,Space Heating,113.43896096540483
+2019,Bio Methane,Residential,Water Heating,150.20182321919341
+2019,Wood Pellet,Residential,Space Heating,0.867281167809111
+2019,Wood Pellet,Residential,Water Heating,567.5059503391889
+2019,Coal,Industry,Industrial Processes,98.42526409808377
+2019,District Cooling,Commercial,Space Cooling,1262.1616331984524
+2019,District Cooling,Public,Space Cooling,254.61921961901527
+2019,District Cooling,Residential,Space Cooling,83.39936884296202
+2019,District Heating,Commercial,Space Heating,3527.625596805711
+2019,District Heating,Commercial,Water Heating,618.8011152306154
+2019,District Heating,Public,Space Heating,1507.1866949043826
+2019,District Heating,Public,Water Heating,319.1396026729343
+2019,District Heating,Residential,Space Heating,71.95228259078758
+2019,District Heating,Residential,Water Heating,958.3530885218336
+2019,Electricity,Commercial,Auxiliary Equipment,17511.736002450252
+2019,Electricity,Commercial,Auxiliary Motors,2306.428805390746
+2019,Electricity,Commercial,Lighting,30314.7242099423
+2019,Electricity,Commercial,Space Cooling,2690.7005632449327
+2019,Electricity,Commercial,Space Heating,1946.6130790444906
+2019,Electricity,Commercial,Street Lighting,502.3144968538424
+2019,Electricity,Commercial,Water Heating,154.0839740906925
+2019,Electricity,Industry,Industrial Processes,2674.7644695251774
+2019,Electricity,Industry,Lighting,651.7889069483487
+2019,Electricity,Industry,Space Cooling,367.8714061751919
+2019,Electricity,Industry,Space Heating,758.1820542216567
+2019,Electricity,Industry,Water Heating,1011.110144466124
+2019,Electricity,Public,Auxiliary Equipment,2047.2052204728313
+2019,Electricity,Public,Auxiliary Motors,543.9189462779431
+2019,Electricity,Public,Lighting,1985.3109888422546
+2019,Electricity,Public,Space Cooling,1242.3956858619435
+2019,Electricity,Public,Space Heating,787.5700690906542
+2019,Electricity,Public,Water Heating,31.995041918863688
+2019,Electricity,Residential,Other Appliances,5971.85034362182
+2019,Electricity,Residential,Clothe Dryer,2040.1421744968554
+2019,Electricity,Residential,Clothe Washer,113.02529491438293
+2019,Electricity,Residential,Dish Washer,148.06001493040898
+2019,Electricity,Residential,Freezer,520.5870585150325
+2019,Electricity,Residential,Lighting,2485.812272613434
+2019,Electricity,Residential,Range,1900.4032516308853
+2019,Electricity,Residential,Refrigerator,1602.8944268212367
+2019,Electricity,Residential,Space Cooling,3315.965207240145
+2019,Electricity,Residential,Space Heating,4164.287795825961
+2019,Electricity,Residential,Water Heating,720.2806006357665
+2019,Heavy Fuel Oil,Commercial,Space Heating,6.4099175837769655
+2019,Heavy Fuel Oil,Commercial,Water Heating,37.332588058147316
+2019,Heavy Fuel Oil,Industry,Industrial Processes,42.72303001098605
+2019,Heavy Fuel Oil,Industry,Space Heating,25.442433759465487
+2019,Heavy Fuel Oil,Industry,Water Heating,60.873938218306776
+2019,Heavy Fuel Oil,Public,Space Heating,0.0030421538621827923
+2019,Heavy Fuel Oil,Public,Water Heating,0.8924555667161033
+2019,Hydrogen,Residential,Space Heating,0.8849399864778844
+2019,Hydrogen,Residential,Water Heating,0.6223459872886664
+2019,Kerosene,Commercial,Space Heating,6.409545568071859
+2019,Kerosene,Commercial,Water Heating,37.33388257933539
+2019,Kerosene,Public,Space Heating,0.0030424251713582315
+2019,Kerosene,Public,Water Heating,0.8924828303655602
+2019,Kerosene,Residential,Space Heating,0.6411431402791443
+2019,Kerosene,Residential,Water Heating,329.5401657893026
+2019,Light Fuel Oil,Commercial,Space Heating,199.0084596921086
+2019,Light Fuel Oil,Commercial,Water Heating,243.5914990494274
+2019,Light Fuel Oil,Industry,Industrial Processes,480.3372633897055
+2019,Light Fuel Oil,Industry,Space Heating,24.83118992147701
+2019,Light Fuel Oil,Industry,Water Heating,44.42286483326973
+2019,Light Fuel Oil,Public,Space Heating,344.18451950500764
+2019,Light Fuel Oil,Public,Water Heating,64.74467542543891
+2019,Light Fuel Oil,Residential,Space Heating,786.9460939259905
+2019,Light Fuel Oil,Residential,Water Heating,373.5650317584886
+2019,Mix Energy,Industry,Industrial Processes,15317.039313286803
+2019,Natural Gas,Commercial,Auxiliary Equipment,2676.9425471299414
+2019,Natural Gas,Commercial,Space Cooling,124.17925103210236
+2019,Natural Gas,Commercial,Space Heating,36091.85176809811
+2019,Natural Gas,Commercial,Water Heating,5769.865109385822
+2019,Natural Gas,Industry,Industrial Processes,11697.519523952202
+2019,Natural Gas,Industry,Space Cooling,30.312108074230814
+2019,Natural Gas,Industry,Space Heating,733.9010407384259
+2019,Natural Gas,Industry,Water Heating,2880.21930237147
+2019,Natural Gas,Public,Auxiliary Equipment,386.197332005076
+2019,Natural Gas,Public,Space Cooling,161.82721654931674
+2019,Natural Gas,Public,Space Heating,7314.463411727386
+2019,Natural Gas,Public,Water Heating,900.9460342878389
+2019,Natural Gas,Residential,Clothe Dryer,92.6051322875811
+2019,Natural Gas,Residential,Range,94.24201866690807
+2019,Natural Gas,Residential,Space Heating,58637.845037735955
+2019,Natural Gas,Residential,Water Heating,18028.43723725611
+2019,Pet Coke,Industry,Industrial Processes,237.77648077157886
+2019,Propane,Commercial,Auxiliary Equipment,1960.3926624002215
+2019,Propane,Commercial,Space Heating,1083.66191634323
+2019,Propane,Commercial,Water Heating,115.60258051994492
+2019,Propane,Industry,Space Heating,21.93665803995135
+2019,Propane,Industry,Water Heating,96.6080857514886
+2019,Propane,Public,Auxiliary Equipment,0.016184800467405825
+2019,Propane,Public,Space Heating,0.003279869904816264
+2019,Propane,Residential,Space Heating,0.8866159649534219
+2019,Propane,Residential,Water Heating,564.7854402019474
+2019,Synthetic Gas,Commercial,Auxiliary Equipment,2.183292078514659
+2019,Synthetic Gas,Commercial,Space Cooling,0.9849735442433346
+2019,Synthetic Gas,Commercial,Space Heating,5.94502680583166
+2019,Synthetic Gas,Commercial,Water Heating,3.8238338276497745
+2019,Synthetic Gas,Public,Auxiliary Equipment,0.44864428806808127
+2019,Synthetic Gas,Public,Space Cooling,0.8523923305925748
+2019,Synthetic Gas,Public,Space Heating,1.3526954443243577
+2019,Synthetic Gas,Public,Water Heating,1.5834142321473743
+2019,Synthetic Gas,Residential,Space Heating,2.119760147927067
+2019,Synthetic Gas,Residential,Water Heating,1.5081016920305093
+2020,Biomass,Industry,Industrial Processes,85.59213691945679
+2020,Biomass,Residential,Space Heating,217.0882056258567
+2020,Biomass,Residential,Water Heating,587.8764722007786
+2020,Bio Methane,Commercial,Auxiliary Equipment,99.91916089770976
+2020,Bio Methane,Commercial,Space Cooling,24.065043784499967
+2020,Bio Methane,Commercial,Space Heating,292.2758149687011
+2020,Bio Methane,Commercial,Water Heating,188.26732965121852
+2020,Bio Methane,Public,Auxiliary Equipment,28.7312696248519
+2020,Bio Methane,Public,Space Cooling,30.67239136525979
+2020,Bio Methane,Public,Space Heating,74.06667232953544
+2020,Bio Methane,Public,Water Heating,73.84095178944301
+2020,Bio Methane,Residential,Space Heating,148.55976959288722
+2020,Bio Methane,Residential,Water Heating,107.76998908030706
+2020,Wood Pellet,Residential,Space Heating,1.0376496462622213
+2020,Wood Pellet,Residential,Water Heating,605.683137178995
+2020,Coal,Industry,Industrial Processes,98.53907264608169
+2020,District Cooling,Commercial,Space Cooling,1259.38673556649
+2020,District Cooling,Public,Space Cooling,274.5190860921553
+2020,District Cooling,Residential,Space Cooling,88.6514403210869
+2020,District Heating,Commercial,Space Heating,3550.080183988007
+2020,District Heating,Commercial,Water Heating,625.9159639590296
+2020,District Heating,Public,Space Heating,1512.9418303297316
+2020,District Heating,Public,Water Heating,317.20876044262013
+2020,District Heating,Residential,Space Heating,114.89820563577801
+2020,District Heating,Residential,Water Heating,913.244239546418
+2020,Electricity,Commercial,Auxiliary Equipment,17627.621991638774
+2020,Electricity,Commercial,Auxiliary Motors,2263.071585333509
+2020,Electricity,Commercial,Lighting,30517.833593722324
+2020,Electricity,Commercial,Space Cooling,2965.102466095905
+2020,Electricity,Commercial,Space Heating,1950.5865838488348
+2020,Electricity,Commercial,Street Lighting,505.29998284714253
+2020,Electricity,Commercial,Water Heating,139.4055869278648
+2020,Electricity,Industry,Industrial Processes,2677.857283787469
+2020,Electricity,Industry,Lighting,652.542566588216
+2020,Electricity,Industry,Space Cooling,368.2967736960869
+2020,Electricity,Industry,Space Heating,759.0587356255254
+2020,Electricity,Industry,Water Heating,1012.27928511749
+2020,Electricity,Public,Auxiliary Equipment,2056.957155485292
+2020,Electricity,Public,Auxiliary Motors,533.5382167852549
+2020,Electricity,Public,Lighting,1997.8035355453417
+2020,Electricity,Public,Space Cooling,1257.2054018551994
+2020,Electricity,Public,Space Heating,791.6760952129436
+2020,Electricity,Public,Water Heating,32.578062796379584
+2020,Electricity,Residential,Other Appliances,3754.0800598449364
+2020,Electricity,Residential,Clothe Dryer,2061.630356092686
+2020,Electricity,Residential,Clothe Washer,114.07568803678402
+2020,Electricity,Residential,Dish Washer,143.28417462589232
+2020,Electricity,Residential,Freezer,524.3608441209162
+2020,Electricity,Residential,Lighting,2502.3533139504707
+2020,Electricity,Residential,Range,1918.3510032438905
+2020,Electricity,Residential,Refrigerator,1614.8319953391576
+2020,Electricity,Residential,Space Cooling,3361.915410349204
+2020,Electricity,Residential,Space Heating,4669.495802426663
+2020,Electricity,Residential,Water Heating,758.0461574902605
+2020,Heavy Fuel Oil,Commercial,Space Heating,8.374768207871584
+2020,Heavy Fuel Oil,Commercial,Water Heating,45.459530413720366
+2020,Heavy Fuel Oil,Industry,Industrial Processes,42.77243039668393
+2020,Heavy Fuel Oil,Industry,Space Heating,25.47185269442855
+2020,Heavy Fuel Oil,Industry,Water Heating,60.944326391325816
+2020,Heavy Fuel Oil,Public,Space Heating,0.005811771202390104
+2020,Heavy Fuel Oil,Public,Water Heating,1.3204628510354395
+2020,Hydrogen,Residential,Space Heating,1.0876693313252235
+2020,Hydrogen,Residential,Water Heating,0.6387164804036702
+2020,Kerosene,Commercial,Space Heating,8.374260080309483
+2020,Kerosene,Commercial,Water Heating,45.46290406497717
+2020,Kerosene,Public,Space Heating,0.005812122447853361
+2020,Kerosene,Public,Water Heating,1.320524582703821
+2020,Kerosene,Residential,Space Heating,0.8450184308397257
+2020,Kerosene,Residential,Water Heating,375.33215041326616
+2020,Light Fuel Oil,Commercial,Space Heating,201.96116984445
+2020,Light Fuel Oil,Commercial,Water Heating,252.10473359210587
+2020,Light Fuel Oil,Industry,Industrial Processes,480.89267451297394
+2020,Light Fuel Oil,Industry,Space Heating,24.85990207882368
+2020,Light Fuel Oil,Industry,Water Heating,44.47423072789233
+2020,Light Fuel Oil,Public,Space Heating,345.6424985422392
+2020,Light Fuel Oil,Public,Water Heating,65.41335148672624
+2020,Light Fuel Oil,Residential,Space Heating,946.5376001797989
+2020,Light Fuel Oil,Residential,Water Heating,418.1556537802657
+2020,Mix Energy,Industry,Industrial Processes,15334.75031482369
+2020,Natural Gas,Commercial,Auxiliary Equipment,2612.5254102437452
+2020,Natural Gas,Commercial,Space Cooling,119.3684345823206
+2020,Natural Gas,Commercial,Space Heating,36308.041995309795
+2020,Natural Gas,Commercial,Water Heating,5846.656320255236
+2020,Natural Gas,Industry,Industrial Processes,11711.045296268265
+2020,Natural Gas,Industry,Space Cooling,30.347157784668173
+2020,Natural Gas,Industry,Space Heating,734.7496461505381
+2020,Natural Gas,Industry,Water Heating,2883.5496828349246
+2020,Natural Gas,Public,Auxiliary Equipment,363.9334580752606
+2020,Natural Gas,Public,Space Cooling,154.5880180850365
+2020,Natural Gas,Public,Space Heating,7368.457860254299
+2020,Natural Gas,Public,Water Heating,922.8051842084708
+2020,Natural Gas,Residential,Clothe Dryer,92.60882407010925
+2020,Natural Gas,Residential,Range,94.25041572509255
+2020,Natural Gas,Residential,Space Heating,58239.00376771057
+2020,Natural Gas,Residential,Water Heating,18185.626957702527
+2020,Pet Coke,Industry,Industrial Processes,238.05142030338763
+2020,Propane,Commercial,Auxiliary Equipment,1967.9351644899152
+2020,Propane,Commercial,Space Heating,1140.1125011273577
+2020,Propane,Commercial,Water Heating,124.64475300415751
+2020,Propane,Industry,Space Heating,21.96202326728185
+2020,Propane,Industry,Water Heating,96.71979310694289
+2020,Propane,Public,Auxiliary Equipment,0.02803911379589697
+2020,Propane,Public,Space Heating,0.00614825540148582
+2020,Propane,Residential,Space Heating,1.0658209145204758
+2020,Propane,Residential,Water Heating,602.9747241877633
+2020,Synthetic Gas,Commercial,Auxiliary Equipment,3.288434527668027
+2020,Synthetic Gas,Commercial,Space Cooling,1.7387299214192786
+2020,Synthetic Gas,Commercial,Space Heating,7.005962736623403
+2020,Synthetic Gas,Commercial,Water Heating,4.432315156590201
+2020,Synthetic Gas,Public,Auxiliary Equipment,0.8735817914292112
+2020,Synthetic Gas,Public,Space Cooling,1.2152230440086031
+2020,Synthetic Gas,Public,Space Heating,1.6735311442264775
+2020,Synthetic Gas,Public,Water Heating,1.82039468591209
+2020,Synthetic Gas,Residential,Space Heating,3.049993997612644
+2020,Synthetic Gas,Residential,Water Heating,1.7652205136917118
+2021,Biomass,Industry,Industrial Processes,85.69099229285321
+2021,Biomass,Residential,Space Heating,217.52288986020648
+2021,Biomass,Residential,Water Heating,617.7104008744362
+2021,Bio Methane,Commercial,Auxiliary Equipment,106.09111527136048
+2021,Bio Methane,Commercial,Space Cooling,24.436416443832865
+2021,Bio Methane,Commercial,Space Heating,299.817598337802
+2021,Bio Methane,Commercial,Water Heating,200.28250230164366
+2021,Bio Methane,Public,Auxiliary Equipment,29.73855353531188
+2021,Bio Methane,Public,Space Cooling,32.40618743093364
+2021,Bio Methane,Public,Space Heating,84.29271456061917
+2021,Bio Methane,Public,Water Heating,76.11513570521366
+2021,Bio Methane,Residential,Space Heating,155.40065769503522
+2021,Bio Methane,Residential,Water Heating,119.88203391596272
+2021,Wood Pellet,Residential,Space Heating,1.1581789825596613
+2021,Wood Pellet,Residential,Water Heating,635.5894423446858
+2021,Coal,Industry,Industrial Processes,98.65288119404771
+2021,District Cooling,Commercial,Space Cooling,1261.4508619026003
+2021,District Cooling,Public,Space Cooling,278.70633358962573
+2021,District Cooling,Residential,Space Cooling,88.62867519925561
+2021,District Heating,Commercial,Space Heating,3572.5179471143656
+2021,District Heating,Commercial,Water Heating,633.9248489438575
+2021,District Heating,Public,Space Heating,1518.6745794576257
+2021,District Heating,Public,Water Heating,317.773763789745
+2021,District Heating,Residential,Space Heating,101.14275137569079
+2021,District Heating,Residential,Water Heating,927.0103447965895
+2021,Electricity,Commercial,Auxiliary Equipment,17734.567768778776
+2021,Electricity,Commercial,Auxiliary Motors,2276.1573059309558
+2021,Electricity,Commercial,Lighting,30699.241229345564
+2021,Electricity,Commercial,Space Cooling,2984.3292021722323
+2021,Electricity,Commercial,Space Heating,2115.759817948656
+2021,Electricity,Commercial,Street Lighting,508.2854690774512
+2021,Electricity,Commercial,Water Heating,121.89894660211513
+2021,Electricity,Industry,Industrial Processes,2680.9500980504804
+2021,Electricity,Industry,Lighting,653.2962262280836
+2021,Electricity,Industry,Space Cooling,368.722141216982
+2021,Electricity,Industry,Space Heating,759.9354170293508
+2021,Electricity,Industry,Water Heating,1013.4484257691622
+2021,Electricity,Public,Auxiliary Equipment,2067.446871026686
+2021,Electricity,Public,Auxiliary Motors,536.5345712878728
+2021,Electricity,Public,Lighting,2008.8720821928534
+2021,Electricity,Public,Space Cooling,1262.4852222995864
+2021,Electricity,Public,Space Heating,796.0806348505081
+2021,Electricity,Public,Water Heating,33.18118546167962
+2021,Electricity,Residential,Other Appliances,3785.177257386546
+2021,Electricity,Residential,Clothe Dryer,2078.2213734240504
+2021,Electricity,Residential,Clothe Washer,114.88844554786442
+2021,Electricity,Residential,Dish Washer,144.3713196239948
+2021,Electricity,Residential,Freezer,527.196374502169
+2021,Electricity,Residential,Lighting,2516.0173415247477
+2021,Electricity,Residential,Range,1931.1333805851768
+2021,Electricity,Residential,Refrigerator,1624.050800829809
+2021,Electricity,Residential,Space Cooling,3386.495321758668
+2021,Electricity,Residential,Space Heating,4784.714061376845
+2021,Electricity,Residential,Water Heating,761.7411410002666
+2021,Heavy Fuel Oil,Commercial,Space Heating,9.388493710186653
+2021,Heavy Fuel Oil,Commercial,Water Heating,52.48298546265241
+2021,Heavy Fuel Oil,Industry,Industrial Processes,42.82183078241191
+2021,Heavy Fuel Oil,Industry,Space Heating,25.50127162939505
+2021,Heavy Fuel Oil,Industry,Water Heating,61.014714564344004
+2021,Heavy Fuel Oil,Public,Space Heating,0.008225691155104136
+2021,Heavy Fuel Oil,Public,Water Heating,1.394053984278578
+2021,Hydrogen,Residential,Space Heating,1.1844362052494541
+2021,Hydrogen,Residential,Water Heating,0.705902596575823
+2021,Kerosene,Commercial,Space Heating,9.388300374372806
+2021,Kerosene,Commercial,Water Heating,52.4873705242587
+2021,Kerosene,Public,Space Heating,0.008225960687861885
+2021,Kerosene,Public,Water Heating,1.394144748845536
+2021,Kerosene,Residential,Space Heating,0.9208837690016434
+2021,Kerosene,Residential,Water Heating,396.52859233945793
+2021,Light Fuel Oil,Commercial,Space Heating,202.67088631010293
+2021,Light Fuel Oil,Commercial,Water Heating,258.443619491337
+2021,Light Fuel Oil,Industry,Industrial Processes,481.44808563617454
+2021,Light Fuel Oil,Industry,Space Heating,24.88861423617184
+2021,Light Fuel Oil,Industry,Water Heating,44.525596622513596
+2021,Light Fuel Oil,Public,Space Heating,346.81049981466606
+2021,Light Fuel Oil,Public,Water Heating,65.90776665767292
+2021,Light Fuel Oil,Residential,Space Heating,956.5096136365928
+2021,Light Fuel Oil,Residential,Water Heating,439.16551576530793
+2021,Mix Energy,Industry,Industrial Processes,15352.461316360574
+2021,Natural Gas,Commercial,Auxiliary Equipment,2622.7174506291653
+2021,Natural Gas,Commercial,Space Cooling,119.84201108797963
+2021,Natural Gas,Commercial,Space Heating,36324.86866149688
+2021,Natural Gas,Commercial,Water Heating,5864.253119233628
+2021,Natural Gas,Industry,Industrial Processes,11724.571068578347
+2021,Natural Gas,Industry,Space Cooling,30.3822074951056
+2021,Natural Gas,Industry,Space Heating,735.5982515628261
+2021,Natural Gas,Industry,Water Heating,2886.880063298625
+2021,Natural Gas,Public,Auxiliary Equipment,365.1896636314927
+2021,Natural Gas,Public,Space Cooling,156.62195298159727
+2021,Natural Gas,Public,Space Heating,7403.279153747974
+2021,Natural Gas,Public,Water Heating,926.3600220257654
+2021,Natural Gas,Residential,Clothe Dryer,92.60679556752935
+2021,Natural Gas,Residential,Range,94.24782774650716
+2021,Natural Gas,Residential,Space Heating,58267.84581866932
+2021,Natural Gas,Residential,Water Heating,18257.78936180892
+2021,Pet Coke,Industry,Industrial Processes,238.32635983507765
+2021,Propane,Commercial,Auxiliary Equipment,1978.733094220907
+2021,Propane,Commercial,Space Heating,1149.509380839505
+2021,Propane,Commercial,Water Heating,134.33402012554592
+2021,Propane,Industry,Space Heating,21.98738849461789
+2021,Propane,Industry,Water Heating,96.83150046240794
+2021,Propane,Public,Auxiliary Equipment,0.03945778237607085
+2021,Propane,Public,Space Heating,0.008632770333103914
+2021,Propane,Residential,Space Heating,1.1503648621942548
+2021,Propane,Residential,Water Heating,631.8993467813175
+2021,Synthetic Gas,Commercial,Auxiliary Equipment,4.098407924487964
+2021,Synthetic Gas,Commercial,Space Cooling,2.0645941430937755
+2021,Synthetic Gas,Commercial,Space Heating,8.670667047089132
+2021,Synthetic Gas,Commercial,Water Heating,5.575283105366399
+2021,Synthetic Gas,Public,Auxiliary Equipment,1.0988754729522976
+2021,Synthetic Gas,Public,Space Cooling,1.5304603038593063
+2021,Synthetic Gas,Public,Space Heating,2.2149233665745522
+2021,Synthetic Gas,Public,Water Heating,2.2628214628638186
+2021,Synthetic Gas,Residential,Space Heating,3.8161343473071527
+2021,Synthetic Gas,Residential,Water Heating,2.235886067575569
+2022,Biomass,Industry,Industrial Processes,85.79053420159774
+2022,Biomass,Residential,Space Heating,217.81899282441637
+2022,Biomass,Residential,Water Heating,647.5570377025964
+2022,Bio Methane,Commercial,Auxiliary Equipment,105.55704632185906
+2022,Bio Methane,Commercial,Space Cooling,24.1724914781536
+2022,Bio Methane,Commercial,Space Heating,289.0956107774565
+2022,Bio Methane,Commercial,Water Heating,205.17084491484502
+2022,Bio Methane,Public,Auxiliary Equipment,29.13411692364055
+2022,Bio Methane,Public,Space Cooling,33.13935069486197
+2022,Bio Methane,Public,Space Heating,88.83821905147107
+2022,Bio Methane,Public,Water Heating,76.51958415329132
+2022,Bio Methane,Residential,Space Heating,146.31625940118204
+2022,Bio Methane,Residential,Water Heating,123.79365206012278
+2022,Wood Pellet,Residential,Space Heating,1.265031656756653
+2022,Wood Pellet,Residential,Water Heating,665.4724054882081
+2022,Coal,Industry,Industrial Processes,98.76748012489413
+2022,District Cooling,Commercial,Space Cooling,1263.8629055656027
+2022,District Cooling,Public,Space Cooling,282.50170726327934
+2022,District Cooling,Residential,Space Cooling,23.489472079148562
+2022,District Heating,Commercial,Space Heating,3750.7863770587787
+2022,District Heating,Commercial,Water Heating,685.39867832127
+2022,District Heating,Public,Space Heating,1526.8656848896287
+2022,District Heating,Public,Water Heating,314.6534097648565
+2022,District Heating,Residential,Space Heating,110.07884434306945
+2022,District Heating,Residential,Water Heating,944.9406396936514
+2022,Electricity,Commercial,Auxiliary Equipment,17809.56836703357
+2022,Electricity,Commercial,Auxiliary Motors,2285.222307500085
+2022,Electricity,Commercial,Lighting,30823.044850644048
+2022,Electricity,Commercial,Space Cooling,2997.2627108937627
+2022,Electricity,Commercial,Space Heating,2446.595635819878
+2022,Electricity,Commercial,Street Lighting,510.3268062727523
+2022,Electricity,Commercial,Water Heating,116.71180314105256
+2022,Electricity,Industry,Industrial Processes,2684.0643914281695
+2022,Electricity,Industry,Lighting,654.0551199179838
+2022,Electricity,Industry,Space Cooling,369.1504628497454
+2022,Electricity,Industry,Space Heating,760.8181868503985
+2022,Electricity,Industry,Water Heating,1014.6256859224667
+2022,Electricity,Public,Auxiliary Equipment,2076.2996713551397
+2022,Electricity,Public,Auxiliary Motors,538.9792288130224
+2022,Electricity,Public,Lighting,2017.9032055907924
+2022,Electricity,Public,Space Cooling,1266.4577442886373
+2022,Electricity,Public,Space Heating,796.8288368770995
+2022,Electricity,Public,Water Heating,32.45910390522423
+2022,Electricity,Residential,Other Appliances,3816.3570358719653
+2022,Electricity,Residential,Clothe Dryer,2094.0373055551413
+2022,Electricity,Residential,Clothe Washer,106.91924193868714
+2022,Electricity,Residential,Dish Washer,145.43007957747037
+2022,Electricity,Residential,Freezer,486.58768691302413
+2022,Electricity,Residential,Lighting,2531.565243266799
+2022,Electricity,Residential,Range,1749.3459617290287
+2022,Electricity,Residential,Refrigerator,1464.8309508690436
+2022,Electricity,Residential,Space Cooling,3434.082528504034
+2022,Electricity,Residential,Space Heating,5008.322541441723
+2022,Electricity,Residential,Water Heating,763.0028291205718
+2022,Heavy Fuel Oil,Commercial,Space Heating,10.443491706515301
+2022,Heavy Fuel Oil,Commercial,Water Heating,48.98401594363185
+2022,Heavy Fuel Oil,Industry,Industrial Processes,42.87157424620243
+2022,Heavy Fuel Oil,Industry,Space Heating,25.530894874326645
+2022,Heavy Fuel Oil,Industry,Water Heating,61.08559157237285
+2022,Heavy Fuel Oil,Public,Space Heating,0.01031207935621382
+2022,Heavy Fuel Oil,Public,Water Heating,1.809210789791813
+2022,Hydrogen,Residential,Space Heating,1.2721909125640478
+2022,Hydrogen,Residential,Water Heating,0.7757819005946849
+2022,Kerosene,Commercial,Space Heating,10.443888254636777
+2022,Kerosene,Commercial,Water Heating,49.067939151900966
+2022,Kerosene,Public,Space Heating,0.010312157559283535
+2022,Kerosene,Public,Water Heating,1.8093800246212501
+2022,Kerosene,Residential,Space Heating,1.0025522875078856
+2022,Kerosene,Residential,Water Heating,416.9525357867623
+2022,Light Fuel Oil,Commercial,Space Heating,203.5567048683945
+2022,Light Fuel Oil,Commercial,Water Heating,251.03326075179814
+2022,Light Fuel Oil,Industry,Industrial Processes,482.00735400408485
+2022,Light Fuel Oil,Industry,Space Heating,24.917525795024055
+2022,Light Fuel Oil,Industry,Water Heating,44.577319245363185
+2022,Light Fuel Oil,Public,Space Heating,347.85258951007495
+2022,Light Fuel Oil,Public,Water Heating,62.51085065515176
+2022,Light Fuel Oil,Residential,Space Heating,799.9129397518212
+2022,Light Fuel Oil,Residential,Water Heating,459.52447896545016
+2022,Mix Energy,Industry,Industrial Processes,15370.295318073237
+2022,Natural Gas,Commercial,Auxiliary Equipment,2632.663933738463
+2022,Natural Gas,Commercial,Space Cooling,120.61473645787781
+2022,Natural Gas,Commercial,Space Heating,36352.1236576417
+2022,Natural Gas,Commercial,Water Heating,5897.333526781751
+2022,Natural Gas,Industry,Industrial Processes,11738.19077529667
+2022,Natural Gas,Industry,Space Cooling,30.417500620379588
+2022,Natural Gas,Industry,Space Heating,736.4527504087339
+2022,Natural Gas,Industry,Water Heating,2890.2335727415566
+2022,Natural Gas,Public,Auxiliary Equipment,367.41298112905014
+2022,Natural Gas,Public,Space Cooling,159.09935096798682
+2022,Natural Gas,Public,Space Heating,7434.751176471076
+2022,Natural Gas,Public,Water Heating,939.4522151507715
+2022,Natural Gas,Residential,Clothe Dryer,92.59334294113509
+2022,Natural Gas,Residential,Range,47.0620647349365
+2022,Natural Gas,Residential,Space Heating,58280.12940934349
+2022,Natural Gas,Residential,Water Heating,18336.672047122833
+2022,Pet Coke,Industry,Industrial Processes,238.60320877952884
+2022,Propane,Commercial,Auxiliary Equipment,1985.4791631875976
+2022,Propane,Commercial,Space Heating,972.8076365679985
+2022,Propane,Commercial,Water Heating,151.890649794351
+2022,Propane,Industry,Space Heating,22.01292987954238
+2022,Propane,Industry,Water Heating,96.94398360823976
+2022,Propane,Public,Auxiliary Equipment,0.049350139650699544
+2022,Propane,Public,Space Heating,0.01080521483157277
+2022,Propane,Residential,Space Heating,1.2700629018680525
+2022,Propane,Residential,Water Heating,662.1575800691701
+2022,Synthetic Gas,Commercial,Auxiliary Equipment,4.64715652307197
+2022,Synthetic Gas,Commercial,Space Cooling,2.2637011958183675
+2022,Synthetic Gas,Commercial,Space Heating,9.85986117289271
+2022,Synthetic Gas,Commercial,Water Heating,6.4973733051651505
+2022,Synthetic Gas,Public,Auxiliary Equipment,1.2602954099573418
+2022,Synthetic Gas,Public,Space Cooling,1.776544600842971
+2022,Synthetic Gas,Public,Space Heating,2.6617171593822975
+2022,Synthetic Gas,Public,Water Heating,2.583075118406421
+2022,Synthetic Gas,Residential,Space Heating,4.306418761585257
+2022,Synthetic Gas,Residential,Water Heating,2.604202030414284
+2023,Biomass,Industry,Industrial Processes,3.6995018963236754
+2023,Biomass,Residential,Space Heating,196.92361151256546
+2023,Biomass,Residential,Water Heating,576.4381347460215
+2023,Bio Methane,Commercial,Auxiliary Equipment,8.029815747944776
+2023,Bio Methane,Commercial,Space Cooling,3.163546734721771
+2023,Bio Methane,Commercial,Space Heating,26.49329614586691
+2023,Bio Methane,Commercial,Water Heating,21.088349227555447
+2023,Bio Methane,Industry,Industrial Processes,642.0621208747664
+2023,Bio Methane,Industry,Space Heating,286.7223308303744
+2023,Bio Methane,Industry,Water Heating,503.7668969925519
+2023,Bio Methane,Public,Auxiliary Equipment,1.9261280030847503
+2023,Bio Methane,Public,Space Cooling,3.0646012319484863
+2023,Bio Methane,Public,Space Heating,8.470351175599834
+2023,Bio Methane,Public,Water Heating,8.557790911982837
+2023,Bio Methane,Residential,Range,4.150495327484036
+2023,Bio Methane,Residential,Space Heating,20.465219798261636
+2023,Bio Methane,Residential,Water Heating,17.25970097459307
+2023,Wood Pellet,Residential,Space Heating,16.21592261924955
+2023,Wood Pellet,Residential,Water Heating,578.9367025026835
+2023,Coal,Industry,Industrial Processes,93.76827145177363
+2023,District Cooling,Commercial,Space Cooling,1345.0351039088332
+2023,District Cooling,Industry,Space Cooling,1.9563843162979238
+2023,District Cooling,Public,Space Cooling,313.2838216052932
+2023,District Cooling,Residential,Space Cooling,110.09600041111847
+2023,District Heating,Commercial,Space Heating,1973.7416518624236
+2023,District Heating,Commercial,Water Heating,477.1270416983285
+2023,District Heating,Industry,Space Heating,21.474946400651234
+2023,District Heating,Industry,Water Heating,22.88321724048456
+2023,District Heating,Public,Space Heating,223.37228820126012
+2023,District Heating,Public,Water Heating,150.6681042528906
+2023,District Heating,Residential,Space Heating,32.20951775913675
+2023,District Heating,Residential,Water Heating,239.62612841910232
+2023,Electricity,Commercial,Auxiliary Equipment,18285.087005065478
+2023,Electricity,Commercial,Auxiliary Motors,2291.7346325029634
+2023,Electricity,Commercial,Lighting,24568.1446873045
+2023,Electricity,Commercial,Space Cooling,3157.6554461869105
+2023,Electricity,Commercial,Space Heating,3056.0158091961052
+2023,Electricity,Commercial,Street Lighting,511.694376273009
+2023,Electricity,Commercial,Water Heating,230.46195763432854
+2023,Electricity,Industry,Industrial Processes,2804.280613347632
+2023,Electricity,Industry,Lighting,625.9416434481408
+2023,Electricity,Industry,Space Cooling,193.69224950456717
+2023,Electricity,Industry,Space Heating,420.79822004600345
+2023,Electricity,Industry,Water Heating,1197.1746959357185
+2023,Electricity,Public,Auxiliary Equipment,2333.186594486862
+2023,Electricity,Public,Auxiliary Motors,540.8386439068421
+2023,Electricity,Public,Lighting,970.5827001669034
+2023,Electricity,Public,Space Cooling,1527.0427294642905
+2023,Electricity,Public,Space Heating,770.6419568363301
+2023,Electricity,Public,Water Heating,92.5888175984934
+2023,Electricity,Residential,Other Appliances,3847.5384292371987
+2023,Electricity,Residential,Clothe Dryer,2062.0073577687454
+2023,Electricity,Residential,Clothe Washer,102.83975148430639
+2023,Electricity,Residential,Dish Washer,144.09073227048546
+2023,Electricity,Residential,Freezer,470.63253260093273
+2023,Electricity,Residential,Lighting,723.4304924993637
+2023,Electricity,Residential,Range,1420.785039494113
+2023,Electricity,Residential,Refrigerator,1480.51182602572
+2023,Electricity,Residential,Space Cooling,3745.5508379928874
+2023,Electricity,Residential,Space Heating,6152.936144479052
+2023,Electricity,Residential,Water Heating,1022.7541802523219
+2023,ETHOS,Commercial,Space Cooling,114.4007064432475
+2023,ETHOS,Commercial,Space Heating,337.4204493849149
+2023,ETHOS,Public,Space Heating,90.03661993683123
+2023,ETHOS,Residential,Space Cooling,20.63880266355144
+2023,ETHOS,Residential,Space Heating,868.264430681718
+2023,Geothermal,Commercial,Space Heating,0.9183307760453556
+2023,Geothermal,Public,Space Heating,0.27501664901321665
+2023,Geothermal,Residential,Space Heating,13.96233193987586
+2023,Heavy Fuel Oil,Commercial,Space Heating,9.266425910611352
+2023,Heavy Fuel Oil,Commercial,Water Heating,14.442842494171426
+2023,Heavy Fuel Oil,Industry,Industrial Processes,40.4353709335033
+2023,Heavy Fuel Oil,Industry,Space Heating,36.87959654014912
+2023,Heavy Fuel Oil,Industry,Water Heating,39.55594358102873
+2023,Heavy Fuel Oil,Public,Space Heating,0.20078455712987459
+2023,Heavy Fuel Oil,Public,Water Heating,0.8715866998033854
+2023,Hydrogen,Commercial,Space Heating,2.6872085918820825
+2023,Hydrogen,Commercial,Water Heating,1.620112676829809
+2023,Hydrogen,Industry,Industrial Processes,3.602861174645505
+2023,Hydrogen,Industry,Space Heating,3.56051362009245
+2023,Hydrogen,Industry,Water Heating,3.5930379282282026
+2023,Hydrogen,Public,Space Heating,0.7666733996677603
+2023,Hydrogen,Public,Water Heating,0.4560806249480472
+2023,Hydrogen,Residential,Range,0.2542187572375701
+2023,Hydrogen,Residential,Space Heating,1.6453466064578226
+2023,Hydrogen,Residential,Water Heating,1.3052534004680352
+2023,Kerosene,Commercial,Space Heating,7.663034721198984
+2023,Kerosene,Commercial,Water Heating,16.223977191970462
+2023,Kerosene,Public,Space Heating,0.11444882223577436
+2023,Kerosene,Public,Water Heating,0.9559737702964335
+2023,Kerosene,Residential,Space Heating,2.799084262955821
+2023,Kerosene,Residential,Water Heating,69.19668374962824
+2023,Light Fuel Oil,Commercial,Space Heating,52.67973482212755
+2023,Light Fuel Oil,Commercial,Water Heating,105.42981660771554
+2023,Light Fuel Oil,Industry,Industrial Processes,191.43761314548354
+2023,Light Fuel Oil,Industry,Space Heating,132.92285474081308
+2023,Light Fuel Oil,Industry,Water Heating,173.37843616300543
+2023,Light Fuel Oil,Public,Space Heating,241.00859979847516
+2023,Light Fuel Oil,Public,Water Heating,117.16447913764807
+2023,Light Fuel Oil,Residential,Space Heating,103.03664412178439
+2023,Light Fuel Oil,Residential,Water Heating,213.88359438382417
+2023,Mix Energy,Industry,Industrial Processes,15388.117357260784
+2023,Natural Gas,Commercial,Auxiliary Equipment,1869.084197298197
+2023,Natural Gas,Commercial,Space Cooling,29.338156064243723
+2023,Natural Gas,Commercial,Space Heating,37805.62355929578
+2023,Natural Gas,Commercial,Water Heating,4918.783825159974
+2023,Natural Gas,Industry,Industrial Processes,11345.077017897827
+2023,Natural Gas,Industry,Space Cooling,205.7853729889841
+2023,Natural Gas,Industry,Space Heating,485.47940429026505
+2023,Natural Gas,Industry,Water Heating,1872.0852592893866
+2023,Natural Gas,Public,Auxiliary Equipment,14.553103583212158
+2023,Natural Gas,Public,Space Cooling,52.51002913229309
+2023,Natural Gas,Public,Space Heating,8860.723044727298
+2023,Natural Gas,Public,Water Heating,868.3912854863822
+2023,Natural Gas,Residential,Clothe Dryer,26.540614395329168
+2023,Natural Gas,Residential,Range,198.1446596014808
+2023,Natural Gas,Residential,Space Heating,55104.19273537
+2023,Natural Gas,Residential,Water Heating,14695.129669970576
+2023,Pet Coke,Industry,Industrial Processes,226.60370498039254
+2023,Propane,Commercial,Auxiliary Equipment,2299.290100511083
+2023,Propane,Commercial,Space Heating,389.2231827663425
+2023,Propane,Commercial,Water Heating,113.16219267639377
+2023,Propane,Industry,Industrial Processes,37.15028168159342
+2023,Propane,Industry,Space Heating,33.97171261867874
+2023,Propane,Industry,Water Heating,36.358191698751604
+2023,Propane,Public,Auxiliary Equipment,0.6666622955480492
+2023,Propane,Public,Space Heating,1.7733753409781288
+2023,Propane,Public,Water Heating,0.7892487745653285
+2023,Propane,Residential,Space Heating,209.9609733033843
+2023,Propane,Residential,Water Heating,386.54266327409056
+2023,Retrofit,Industry,Industrial Processes,0.009570020098010446
+2023,Retrofit,Industry,Lighting,28.872370159743838
+2023,Retrofit,Industry,Space Cooling,0.008291462159998864
+2023,Retrofit,Industry,Space Heating,61.12252111630191
+2023,Retrofit,Industry,Water Heating,160.83949763805245
+2023,Synthetic Gas,Commercial,Auxiliary Equipment,4.503146591931657
+2023,Synthetic Gas,Commercial,Space Cooling,2.125275596178446
+2023,Synthetic Gas,Commercial,Space Heating,11.050597785858189
+2023,Synthetic Gas,Commercial,Water Heating,8.625842788677996
+2023,Synthetic Gas,Public,Auxiliary Equipment,1.0502556007685269
+2023,Synthetic Gas,Public,Space Cooling,1.607375720551284
+2023,Synthetic Gas,Public,Space Heating,3.0019566298377574
+2023,Synthetic Gas,Public,Water Heating,3.4178636486807603
+2023,Synthetic Gas,Residential,Range,0.6293243671384022
+2023,Synthetic Gas,Residential,Space Heating,3.3281399382821566
+2023,Synthetic Gas,Residential,Water Heating,2.856085120708841
+2023,Solar Energy,Commercial,Water Heating,1189.3920107803299
+2023,Solar Energy,Public,Water Heating,153.6711189068345
+2023,Solar Energy,Residential,Water Heating,3228.107144285322
+2023,Waste Heat,Industry,Space Heating,88.62153285466734
+2023,Waste Heat,Industry,Water Heating,102.59682953051158
+2024,Biomass,Industry,Industrial Processes,643.0022660440874
+2024,Biomass,Residential,Space Heating,219.1611107669629
+2024,Biomass,Residential,Water Heating,482.632797987799
+2024,Bio Methane,Commercial,Auxiliary Equipment,5.479234864047439
+2024,Bio Methane,Commercial,Space Cooling,2.34979357084392
+2024,Bio Methane,Commercial,Space Heating,23.07271396432436
+2024,Bio Methane,Commercial,Water Heating,18.096050462245564
+2024,Bio Methane,Industry,Industrial Processes,665.7966318283013
+2024,Bio Methane,Industry,Space Heating,259.23596184578287
+2024,Bio Methane,Industry,Water Heating,470.12793643393275
+2024,Bio Methane,Public,Auxiliary Equipment,1.4507049493397204
+2024,Bio Methane,Public,Space Cooling,2.318101817611403
+2024,Bio Methane,Public,Space Heating,9.047658299701226
+2024,Bio Methane,Public,Water Heating,8.787918284532717
+2024,Bio Methane,Residential,Range,139.6846699157654
+2024,Bio Methane,Residential,Space Heating,1478.9196197582396
+2024,Bio Methane,Residential,Water Heating,842.6557089556475
+2024,Wood Pellet,Residential,Space Heating,28.361064328098276
+2024,Wood Pellet,Residential,Water Heating,511.71960877467313
+2024,Coal,Industry,Industrial Processes,88.84386948287259
+2024,District Cooling,Commercial,Space Cooling,1442.0916112365978
+2024,District Cooling,Industry,Space Cooling,2.163491711815409
+2024,District Cooling,Public,Space Cooling,149.4482854317496
+2024,District Cooling,Residential,Space Cooling,121.61976345352889
+2024,District Heating,Commercial,Space Heating,1912.0709674722982
+2024,District Heating,Commercial,Water Heating,480.8664082738945
+2024,District Heating,Industry,Space Heating,25.188399408128106
+2024,District Heating,Industry,Water Heating,27.109575455834864
+2024,District Heating,Public,Space Heating,1197.8895639834332
+2024,District Heating,Public,Water Heating,181.55886043968516
+2024,District Heating,Residential,Space Heating,2.332961396200573
+2024,District Heating,Residential,Water Heating,1124.0737184881484
+2024,Electricity,Commercial,Auxiliary Equipment,18876.624787090805
+2024,Electricity,Commercial,Auxiliary Motors,2299.492852281033
+2024,Electricity,Commercial,Lighting,18864.53225469307
+2024,Electricity,Commercial,Space Cooling,3066.428447656311
+2024,Electricity,Commercial,Space Heating,3099.722731502383
+2024,Electricity,Commercial,Street Lighting,512.590151340949
+2024,Electricity,Commercial,Water Heating,232.59115317147067
+2024,Electricity,Industry,Industrial Processes,2410.0643671555863
+2024,Electricity,Industry,Lighting,623.3918425789201
+2024,Electricity,Industry,Space Cooling,192.52545248565616
+2024,Electricity,Industry,Space Heating,426.02965446334156
+2024,Electricity,Industry,Water Heating,1147.8590734232932
+2024,Electricity,Public,Auxiliary Equipment,2345.684783528542
+2024,Electricity,Public,Auxiliary Motors,534.4741065289011
+2024,Electricity,Public,Lighting,575.8218109409066
+2024,Electricity,Public,Space Cooling,1586.1418635782657
+2024,Electricity,Public,Space Heating,774.7498953241961
+2024,Electricity,Public,Water Heating,93.10127827024549
+2024,Electricity,Residential,Other Appliances,3878.716930704887
+2024,Electricity,Residential,Clothe Dryer,2016.0251146855906
+2024,Electricity,Residential,Clothe Washer,97.04123042267983
+2024,Electricity,Residential,Dish Washer,141.29658649940023
+2024,Electricity,Residential,Freezer,442.2125672069779
+2024,Electricity,Residential,Lighting,717.4445228708784
+2024,Electricity,Residential,Range,1295.9567189640202
+2024,Electricity,Residential,Refrigerator,1486.6469960568559
+2024,Electricity,Residential,Space Cooling,3748.1431842099064
+2024,Electricity,Residential,Space Heating,4865.275574438147
+2024,Electricity,Residential,Water Heating,1193.6074701726038
+2024,ETHOS,Commercial,Space Cooling,229.47349238885104
+2024,ETHOS,Commercial,Space Heating,940.6752955311779
+2024,ETHOS,Public,Space Cooling,0.1691987595742418
+2024,ETHOS,Public,Space Heating,209.0360302674938
+2024,ETHOS,Residential,Space Cooling,11.85051713243068
+2024,ETHOS,Residential,Space Heating,2631.029853632705
+2024,Geothermal,Commercial,Space Heating,1.3697638038812108
+2024,Geothermal,Public,Space Heating,0.5220363381349156
+2024,Geothermal,Residential,Space Heating,27.777405342040435
+2024,Heavy Fuel Oil,Commercial,Space Heating,9.334263565335768
+2024,Heavy Fuel Oil,Commercial,Water Heating,11.946222252224732
+2024,Heavy Fuel Oil,Industry,Industrial Processes,36.082270265643004
+2024,Heavy Fuel Oil,Industry,Space Heating,33.38933715368867
+2024,Heavy Fuel Oil,Industry,Water Heating,35.42685842091974
+2024,Heavy Fuel Oil,Public,Space Heating,0.3559445889117927
+2024,Heavy Fuel Oil,Public,Water Heating,0.6634384412382079
+2024,Hydrogen,Commercial,Space Heating,4.60626158628485
+2024,Hydrogen,Commercial,Water Heating,2.979001958231894
+2024,Hydrogen,Industry,Industrial Processes,3.0002404025840224
+2024,Hydrogen,Industry,Space Heating,2.9613245949431013
+2024,Hydrogen,Industry,Water Heating,2.9911532665416014
+2024,Hydrogen,Public,Space Heating,1.6126180388262217
+2024,Hydrogen,Public,Water Heating,1.0603952117966289
+2024,Hydrogen,Residential,Range,0.4738932459075468
+2024,Hydrogen,Residential,Space Heating,2.1968034388129527
+2024,Hydrogen,Residential,Water Heating,1.957029439207658
+2024,Kerosene,Commercial,Space Heating,7.676293010276666
+2024,Kerosene,Commercial,Water Heating,13.798081938229975
+2024,Kerosene,Public,Space Heating,0.21323939371416256
+2024,Kerosene,Public,Water Heating,0.8051358367121954
+2024,Kerosene,Residential,Space Heating,2.03736205905258
+2024,Kerosene,Residential,Water Heating,63.311678771947925
+2024,Light Fuel Oil,Commercial,Space Heating,52.855053465768016
+2024,Light Fuel Oil,Commercial,Water Heating,89.07014069933668
+2024,Light Fuel Oil,Industry,Industrial Processes,168.35075125396227
+2024,Light Fuel Oil,Industry,Space Heating,123.30218045335451
+2024,Light Fuel Oil,Industry,Water Heating,155.08206371483047
+2024,Light Fuel Oil,Public,Space Heating,232.99485750083375
+2024,Light Fuel Oil,Public,Water Heating,88.4691192375352
+2024,Light Fuel Oil,Residential,Space Heating,8.669133450885298
+2024,Light Fuel Oil,Residential,Water Heating,278.9328809708061
+2024,Mix Energy,Industry,Industrial Processes,15405.946136111192
+2024,Natural Gas,Commercial,Auxiliary Equipment,1102.105396808024
+2024,Natural Gas,Commercial,Space Cooling,30.42691749457842
+2024,Natural Gas,Commercial,Space Heating,37489.17403184006
+2024,Natural Gas,Commercial,Water Heating,4834.7069534900365
+2024,Natural Gas,Industry,Industrial Processes,11142.851649603457
+2024,Natural Gas,Industry,Space Cooling,207.35711650782025
+2024,Natural Gas,Industry,Space Heating,507.7716496521971
+2024,Natural Gas,Industry,Water Heating,1955.0613344449323
+2024,Natural Gas,Public,Auxiliary Equipment,9.15984972506463
+2024,Natural Gas,Public,Space Cooling,42.06964425508692
+2024,Natural Gas,Public,Space Heating,7423.411248329781
+2024,Natural Gas,Public,Water Heating,816.2780330879824
+2024,Natural Gas,Residential,Clothe Dryer,45.07571637089079
+2024,Natural Gas,Residential,Range,163.75484105288228
+2024,Natural Gas,Residential,Space Heating,52721.57964368459
+2024,Natural Gas,Residential,Water Heating,9567.5866373047
+2024,Pet Coke,Industry,Industrial Processes,214.6915279650335
+2024,Propane,Commercial,Auxiliary Equipment,2263.073865222064
+2024,Propane,Commercial,Space Heating,144.56824419547107
+2024,Propane,Commercial,Water Heating,107.00991201374458
+2024,Propane,Industry,Industrial Processes,33.262562212355554
+2024,Propane,Industry,Space Heating,30.640418216934087
+2024,Propane,Industry,Water Heating,32.5932651574029
+2024,Propane,Public,Auxiliary Equipment,1.4776573145917535
+2024,Propane,Public,Space Heating,2.626170909502878
+2024,Propane,Public,Water Heating,1.0923328783731818
+2024,Propane,Residential,Space Heating,343.2801878287579
+2024,Propane,Residential,Water Heating,198.02429156510894
+2024,Retrofit,Industry,Industrial Processes,0.013748323261369917
+2024,Retrofit,Industry,Lighting,32.18106471886525
+2024,Retrofit,Industry,Space Cooling,0.009258841391918779
+2024,Retrofit,Industry,Space Heating,67.60054434865795
+2024,Retrofit,Industry,Water Heating,177.30588496846167
+2024,Synthetic Gas,Commercial,Auxiliary Equipment,3.5422479424217084
+2024,Synthetic Gas,Commercial,Space Cooling,1.7872015827937857
+2024,Synthetic Gas,Commercial,Space Heating,10.76558271097717
+2024,Synthetic Gas,Commercial,Water Heating,8.87224546142078
+2024,Synthetic Gas,Public,Auxiliary Equipment,0.7794087356090773
+2024,Synthetic Gas,Public,Space Cooling,1.1602346647210295
+2024,Synthetic Gas,Public,Space Heating,3.2728742794363757
+2024,Synthetic Gas,Public,Water Heating,3.7189791718078453
+2024,Synthetic Gas,Residential,Range,0.8914672972832628
+2024,Synthetic Gas,Residential,Space Heating,3.0616403277735453
+2024,Synthetic Gas,Residential,Water Heating,2.8688061607559945
+2024,Solar Energy,Commercial,Water Heating,1316.2112956511016
+2024,Solar Energy,Public,Water Heating,183.22243832313808
+2024,Solar Energy,Residential,Water Heating,5647.753322008996
+2024,Waste Heat,Industry,Space Heating,97.25550772131513
+2024,Waste Heat,Industry,Water Heating,113.44071288781953
+2025,Biomass,Industry,Industrial Processes,874.0508123033619
+2025,Biomass,Residential,Space Heating,224.89816707343704
+2025,Biomass,Residential,Water Heating,467.27124518686185
+2025,Bio Methane,Commercial,Auxiliary Equipment,1.7126088874533825
+2025,Bio Methane,Commercial,Space Cooling,1.0020867188980307
+2025,Bio Methane,Commercial,Space Heating,9.399619593174293
+2025,Bio Methane,Commercial,Water Heating,7.162212785713752
+2025,Bio Methane,Industry,Industrial Processes,1255.6708489145367
+2025,Bio Methane,Industry,Space Heating,347.6353402240512
+2025,Bio Methane,Industry,Water Heating,784.8286767648101
+2025,Bio Methane,Public,Auxiliary Equipment,2.9154051369101586
+2025,Bio Methane,Public,Space Cooling,39.06560707015377
+2025,Bio Methane,Public,Space Heating,379.31839580959655
+2025,Bio Methane,Public,Water Heating,205.92613089724458
+2025,Bio Methane,Residential,Range,83.86557507495742
+2025,Bio Methane,Residential,Space Heating,263.35959084952697
+2025,Bio Methane,Residential,Water Heating,198.6350457130008
+2025,Wood Pellet,Residential,Space Heating,38.70361604344563
+2025,Wood Pellet,Residential,Water Heating,493.96312341777855
+2025,Coal,Industry,Industrial Processes,83.94210026828951
+2025,District Cooling,Commercial,Space Cooling,2206.8021640312613
+2025,District Cooling,Industry,Space Cooling,2.2322569207515865
+2025,District Cooling,Public,Space Cooling,8.592411375755432
+2025,District Cooling,Residential,Space Cooling,128.77217209550918
+2025,District Heating,Commercial,Space Heating,199.76639708861367
+2025,District Heating,Commercial,Water Heating,354.6840701125288
+2025,District Heating,Industry,Space Heating,29.378813649770397
+2025,District Heating,Industry,Water Heating,32.192033437629235
+2025,District Heating,Public,Space Heating,1731.2492182975166
+2025,District Heating,Public,Water Heating,194.28319090825113
+2025,District Heating,Residential,Space Heating,1.279972452502367
+2025,District Heating,Residential,Water Heating,1139.8680624768936
+2025,Electricity,Commercial,Auxiliary Equipment,19159.486170859025
+2025,Electricity,Commercial,Auxiliary Motors,2252.2780105561546
+2025,Electricity,Commercial,Lighting,14000.510977361895
+2025,Electricity,Commercial,Space Cooling,2368.959613397569
+2025,Electricity,Commercial,Space Heating,2997.853202238598
+2025,Electricity,Commercial,Street Lighting,488.76556189821696
+2025,Electricity,Commercial,Water Heating,207.6799280046406
+2025,Electricity,Industry,Industrial Processes,2167.772028855736
+2025,Electricity,Industry,Lighting,620.8066557225314
+2025,Electricity,Industry,Space Cooling,191.67681361959555
+2025,Electricity,Industry,Space Heating,385.0108265418211
+2025,Electricity,Industry,Water Heating,1026.1048113016604
+2025,Electricity,Public,Auxiliary Equipment,2355.741032310315
+2025,Electricity,Public,Auxiliary Motors,532.2611848210995
+2025,Electricity,Public,Lighting,570.7894552520519
+2025,Electricity,Public,Space Cooling,1571.538541186906
+2025,Electricity,Public,Space Heating,658.700717893577
+2025,Electricity,Public,Water Heating,11.396657195305792
+2025,Electricity,Residential,Other Appliances,3909.8923415305594
+2025,Electricity,Residential,Clothe Dryer,2031.6534748976865
+2025,Electricity,Residential,Clothe Washer,97.08387423877961
+2025,Electricity,Residential,Dish Washer,141.14097613267032
+2025,Electricity,Residential,Freezer,435.39749189824084
+2025,Electricity,Residential,Lighting,710.4256579887117
+2025,Electricity,Residential,Range,1322.3728216018558
+2025,Electricity,Residential,Refrigerator,1406.6412712091503
+2025,Electricity,Residential,Space Cooling,3893.6233537564653
+2025,Electricity,Residential,Space Heating,5008.229716306232
+2025,Electricity,Residential,Water Heating,971.3154909483753
+2025,ETHOS,Commercial,Space Cooling,350.9036558783983
+2025,ETHOS,Commercial,Space Heating,1966.5046505187483
+2025,ETHOS,Public,Space Cooling,0.27254714817838677
+2025,ETHOS,Public,Space Heating,330.24926707246135
+2025,ETHOS,Residential,Space Cooling,102.53837602976165
+2025,ETHOS,Residential,Space Heating,4254.178114628114
+2025,Geothermal,Commercial,Space Heating,1.7695602368058176
+2025,Geothermal,Public,Space Heating,0.7633076151456883
+2025,Geothermal,Residential,Space Heating,41.384731537647305
+2025,Heavy Fuel Oil,Commercial,Space Heating,9.003687549752751
+2025,Heavy Fuel Oil,Commercial,Water Heating,9.911140056619379
+2025,Heavy Fuel Oil,Industry,Industrial Processes,32.16371044533855
+2025,Heavy Fuel Oil,Industry,Space Heating,29.811036981406772
+2025,Heavy Fuel Oil,Industry,Water Heating,31.586402197269717
+2025,Heavy Fuel Oil,Public,Space Heating,0.3807591337905903
+2025,Heavy Fuel Oil,Public,Water Heating,0.48649451065128024
+2025,Hydrogen,Commercial,Space Heating,2.204865045097421
+2025,Hydrogen,Commercial,Water Heating,1.2735482554415343
+2025,Hydrogen,Industry,Industrial Processes,4.642392285333339
+2025,Hydrogen,Industry,Space Heating,4.575313420163652
+2025,Hydrogen,Industry,Water Heating,4.626369711487944
+2025,Hydrogen,Public,Space Heating,0.9247091773661065
+2025,Hydrogen,Public,Water Heating,0.5665470368215951
+2025,Hydrogen,Residential,Range,0.24639194809036416
+2025,Hydrogen,Residential,Space Heating,0.9597290144179876
+2025,Hydrogen,Residential,Water Heating,0.8474802026579068
+2025,Kerosene,Commercial,Space Heating,7.2905540981968135
+2025,Kerosene,Commercial,Water Heating,11.79931790977337
+2025,Kerosene,Public,Space Heating,0.23397525773226235
+2025,Kerosene,Public,Water Heating,0.604862179022873
+2025,Kerosene,Residential,Space Heating,1.400219424211207
+2025,Kerosene,Residential,Water Heating,63.035565806233244
+2025,Light Fuel Oil,Commercial,Space Heating,40.958061674917225
+2025,Light Fuel Oil,Commercial,Water Heating,85.60213197643925
+2025,Light Fuel Oil,Industry,Industrial Processes,149.8876785039755
+2025,Light Fuel Oil,Industry,Space Heating,110.38592115795018
+2025,Light Fuel Oil,Industry,Water Heating,138.20279572687966
+2025,Light Fuel Oil,Public,Space Heating,201.54487859958874
+2025,Light Fuel Oil,Public,Water Heating,85.18894735376821
+2025,Light Fuel Oil,Residential,Space Heating,4.090683518166386
+2025,Light Fuel Oil,Residential,Water Heating,279.5557704810402
+2025,Mix Energy,Industry,Industrial Processes,15423.77820735573
+2025,Natural Gas,Commercial,Auxiliary Equipment,1411.468697701701
+2025,Natural Gas,Commercial,Space Cooling,101.76292015751467
+2025,Natural Gas,Commercial,Space Heating,37364.74141751521
+2025,Natural Gas,Commercial,Water Heating,4705.94618530367
+2025,Natural Gas,Industry,Industrial Processes,10623.32682112679
+2025,Natural Gas,Industry,Space Cooling,208.6496720400602
+2025,Natural Gas,Industry,Space Heating,461.1302112498495
+2025,Natural Gas,Industry,Water Heating,1753.2998571665173
+2025,Natural Gas,Public,Auxiliary Equipment,6.801311456191166
+2025,Natural Gas,Public,Space Cooling,116.90754442728192
+2025,Natural Gas,Public,Space Heating,6396.592656697681
+2025,Natural Gas,Public,Water Heating,647.5698266388662
+2025,Natural Gas,Residential,Clothe Dryer,27.458485912645198
+2025,Natural Gas,Residential,Range,283.9149265108302
+2025,Natural Gas,Residential,Space Heating,53338.51425676236
+2025,Natural Gas,Residential,Water Heating,8003.613859958153
+2025,Pet Coke,Industry,Industrial Processes,202.80525245550413
+2025,Propane,Commercial,Auxiliary Equipment,1446.9809067540737
+2025,Propane,Commercial,Space Heating,677.7713401825287
+2025,Propane,Commercial,Water Heating,118.15319009293205
+2025,Propane,Industry,Industrial Processes,29.51656234427397
+2025,Propane,Industry,Space Heating,27.457913793840504
+2025,Propane,Industry,Water Heating,29.003927241508062
+2025,Propane,Public,Auxiliary Equipment,0.7084546144316157
+2025,Propane,Public,Space Heating,1.6376852372132655
+2025,Propane,Public,Water Heating,0.5551499171693537
+2025,Propane,Residential,Space Heating,366.45916375498047
+2025,Propane,Residential,Water Heating,167.43551608703046
+2025,Retrofit,Industry,Industrial Processes,0.015292698699151019
+2025,Retrofit,Industry,Lighting,35.52514526515451
+2025,Retrofit,Industry,Space Cooling,0.010355491264976991
+2025,Retrofit,Industry,Space Heating,74.56164309607806
+2025,Retrofit,Industry,Water Heating,195.2673405037186
+2025,Synthetic Gas,Commercial,Auxiliary Equipment,2.2472188038590692
+2025,Synthetic Gas,Commercial,Space Cooling,1.430107858951736
+2025,Synthetic Gas,Commercial,Space Heating,9.172846877109965
+2025,Synthetic Gas,Commercial,Water Heating,7.21749560577583
+2025,Synthetic Gas,Public,Auxiliary Equipment,0.5060888100605133
+2025,Synthetic Gas,Public,Space Cooling,0.8824832792771806
+2025,Synthetic Gas,Public,Space Heating,3.0434219370374236
+2025,Synthetic Gas,Public,Water Heating,3.3054142555071597
+2025,Synthetic Gas,Residential,Range,0.9358328449269824
+2025,Synthetic Gas,Residential,Space Heating,2.6982958933791776
+2025,Synthetic Gas,Residential,Water Heating,2.6759777257432833
+2025,Solar Energy,Commercial,Water Heating,1488.5131210241227
+2025,Solar Energy,Public,Water Heating,226.12001170542953
+2025,Solar Energy,Residential,Water Heating,9019.106232772869
+2025,Waste Heat,Industry,Space Heating,105.24930262259767
+2025,Waste Heat,Industry,Water Heating,126.65149651975577
+2030,Biomass,Industry,Industrial Processes,8158.149552295589
+2030,Biomass,Residential,Space Heating,313.2542149557041
+2030,Biomass,Residential,Water Heating,169.90746924260463
+2030,Bio Methane,Commercial,Auxiliary Equipment,2.517689611967204
+2030,Bio Methane,Commercial,Space Cooling,60.44500036225957
+2030,Bio Methane,Commercial,Space Heating,3073.602738977865
+2030,Bio Methane,Commercial,Water Heating,1307.9490147851277
+2030,Bio Methane,Industry,Industrial Processes,0.09292746601672508
+2030,Bio Methane,Industry,Space Heating,0.0904992608634452
+2030,Bio Methane,Industry,Water Heating,0.09246506759444152
+2030,Bio Methane,Public,Auxiliary Equipment,0.24925039439042032
+2030,Bio Methane,Public,Space Cooling,77.61657336371178
+2030,Bio Methane,Public,Space Heating,822.5811453299947
+2030,Bio Methane,Public,Water Heating,164.8246133645626
+2030,Bio Methane,Residential,Range,269.68697510015767
+2030,Bio Methane,Residential,Space Heating,1431.8477283194268
+2030,Bio Methane,Residential,Water Heating,6.61211278698752
+2030,Wood Pellet,Residential,Space Heating,421.09352984076656
+2030,Wood Pellet,Residential,Water Heating,19.965466244745794
+2030,Coal,Industry,Industrial Processes,54.37459130095851
+2030,District Cooling,Commercial,Space Cooling,1717.6587788211702
+2030,District Cooling,Industry,Space Cooling,0.898978383502353
+2030,District Cooling,Public,Space Cooling,3.3017088372149863
+2030,District Cooling,Residential,Space Cooling,121.30963494977067
+2030,District Heating,Commercial,Space Heating,1295.2595440235257
+2030,District Heating,Commercial,Water Heating,155.76347201560634
+2030,District Heating,Industry,Space Heating,67.61746872790012
+2030,District Heating,Industry,Water Heating,82.86963346688728
+2030,District Heating,Public,Space Heating,1755.2883544482622
+2030,District Heating,Public,Water Heating,297.6760846776363
+2030,District Heating,Residential,Space Heating,1232.738833697233
+2030,District Heating,Residential,Water Heating,27.105548188503516
+2030,Electricity,Commercial,Auxiliary Equipment,18442.32447445428
+2030,Electricity,Commercial,Auxiliary Motors,2291.4055702692663
+2030,Electricity,Commercial,Lighting,8495.245988506187
+2030,Electricity,Commercial,Space Cooling,1866.6432924277574
+2030,Electricity,Commercial,Space Heating,1025.591597915458
+2030,Electricity,Commercial,Street Lighting,468.98545845353516
+2030,Electricity,Commercial,Water Heating,12.166784942017175
+2030,Electricity,Industry,Industrial Processes,1629.8998974937167
+2030,Electricity,Industry,Lighting,602.880655192199
+2030,Electricity,Industry,Space Cooling,190.2165538168519
+2030,Electricity,Industry,Space Heating,453.4205289736223
+2030,Electricity,Industry,Water Heating,1059.7208315920266
+2030,Electricity,Public,Auxiliary Equipment,2403.8008397722115
+2030,Electricity,Public,Auxiliary Motors,542.7036961210839
+2030,Electricity,Public,Lighting,544.8137024736086
+2030,Electricity,Public,Space Cooling,1793.0616159802385
+2030,Electricity,Public,Space Heating,38.25178200693729
+2030,Electricity,Public,Water Heating,4.590196132223
+2030,Electricity,Residential,Other Appliances,4065.629755719736
+2030,Electricity,Residential,Clothe Dryer,2102.345621451081
+2030,Electricity,Residential,Clothe Washer,98.09504740025086
+2030,Electricity,Residential,Dish Washer,141.8170612276422
+2030,Electricity,Residential,Freezer,399.77249940986104
+2030,Electricity,Residential,Lighting,711.881282153429
+2030,Electricity,Residential,Range,1061.5304882741832
+2030,Electricity,Residential,Refrigerator,1305.3046513472227
+2030,Electricity,Residential,Space Cooling,4205.231308249372
+2030,Electricity,Residential,Space Heating,2948.106133056387
+2030,Electricity,Residential,Water Heating,8.154420516565523
+2030,ETHOS,Commercial,Space Cooling,936.6020683320386
+2030,ETHOS,Commercial,Space Heating,7069.803572537045
+2030,ETHOS,Public,Space Cooling,0.5715537135361701
+2030,ETHOS,Public,Space Heating,943.4883861391089
+2030,ETHOS,Residential,Space Cooling,485.9252035578898
+2030,ETHOS,Residential,Space Heating,12335.205727692437
+2030,Geothermal,Commercial,Space Heating,2.9266807842948084
+2030,Geothermal,Public,Space Heating,1.118791723757862
+2030,Geothermal,Residential,Space Heating,109.84851852545701
+2030,Heavy Fuel Oil,Commercial,Space Heating,8.372504400922368
+2030,Heavy Fuel Oil,Commercial,Water Heating,3.245149618947286
+2030,Heavy Fuel Oil,Industry,Industrial Processes,24.171267480961262
+2030,Heavy Fuel Oil,Industry,Space Heating,23.148237775263713
+2030,Heavy Fuel Oil,Industry,Water Heating,23.966917112854986
+2030,Heavy Fuel Oil,Public,Space Heating,0.5196304273816111
+2030,Heavy Fuel Oil,Public,Water Heating,0.41180288219280037
+2030,Hydrogen,Commercial,Space Heating,3.8639420258495636
+2030,Hydrogen,Commercial,Water Heating,2.204451320976574
+2030,Hydrogen,Industry,Industrial Processes,32.029782151015766
+2030,Hydrogen,Industry,Space Heating,30.4837558423706
+2030,Hydrogen,Industry,Water Heating,31.721914299540337
+2030,Hydrogen,Public,Space Heating,1.432913580986482
+2030,Hydrogen,Public,Water Heating,0.8266222114815249
+2030,Hydrogen,Residential,Range,0.3559537022792076
+2030,Hydrogen,Residential,Space Heating,1.2767628781282927
+2030,Hydrogen,Residential,Water Heating,0.9747550053740438
+2030,Kerosene,Commercial,Space Heating,7.478181887930634
+2030,Kerosene,Commercial,Water Heating,4.517480562929212
+2030,Kerosene,Public,Space Heating,0.2392637775377275
+2030,Kerosene,Public,Water Heating,0.3781091953096421
+2030,Kerosene,Residential,Space Heating,9.81159435143816
+2030,Kerosene,Residential,Water Heating,35.163165700369134
+2030,Light Fuel Oil,Commercial,Space Heating,69.80015308459528
+2030,Light Fuel Oil,Commercial,Water Heating,8.107078751321398
+2030,Light Fuel Oil,Industry,Industrial Processes,108.3975854559551
+2030,Light Fuel Oil,Industry,Space Heating,90.78100633572988
+2030,Light Fuel Oil,Industry,Water Heating,104.42562295085702
+2030,Light Fuel Oil,Public,Space Heating,193.63452826216647
+2030,Light Fuel Oil,Public,Water Heating,16.891816322330254
+2030,Light Fuel Oil,Residential,Space Heating,171.39138147142086
+2030,Light Fuel Oil,Residential,Water Heating,26.573002574605642
+2030,Mix Energy,Industry,Industrial Processes,15512.94175512868
+2030,Natural Gas,Commercial,Auxiliary Equipment,3884.3774230870195
+2030,Natural Gas,Commercial,Space Cooling,2.410391006443663
+2030,Natural Gas,Commercial,Space Heating,27621.234512231924
+2030,Natural Gas,Commercial,Water Heating,2409.124463859226
+2030,Natural Gas,Industry,Industrial Processes,5352.291515960747
+2030,Natural Gas,Industry,Space Cooling,212.80291398166256
+2030,Natural Gas,Industry,Space Heating,611.4280485831983
+2030,Natural Gas,Industry,Water Heating,2298.618014237874
+2030,Natural Gas,Public,Auxiliary Equipment,4.423450720796792
+2030,Natural Gas,Public,Space Cooling,1.6528809068019028
+2030,Natural Gas,Public,Space Heating,5807.680797358858
+2030,Natural Gas,Public,Water Heating,219.03137410965658
+2030,Natural Gas,Residential,Range,343.640898562147
+2030,Natural Gas,Residential,Space Heating,43171.16263570323
+2030,Natural Gas,Residential,Water Heating,7.393533392488216
+2030,Pet Coke,Industry,Industrial Processes,131.35394085642665
+2030,Propane,Commercial,Auxiliary Equipment,393.9729753463806
+2030,Propane,Commercial,Space Heating,914.869219646106
+2030,Propane,Commercial,Water Heating,71.09428172285611
+2030,Propane,Industry,Industrial Processes,22.18069474031257
+2030,Propane,Industry,Space Heating,21.307919229069753
+2030,Propane,Industry,Water Heating,22.006754457274752
+2030,Propane,Public,Auxiliary Equipment,0.7949389836828441
+2030,Propane,Public,Space Heating,2.1322274326477766
+2030,Propane,Public,Water Heating,0.6055611967628088
+2030,Propane,Residential,Space Heating,370.9519334947781
+2030,Propane,Residential,Water Heating,1.8426686852313463
+2030,Retrofit,Industry,Industrial Processes,0.020466044589639524
+2030,Retrofit,Industry,Lighting,57.24561449536319
+2030,Retrofit,Industry,Space Cooling,0.013973466691514898
+2030,Retrofit,Industry,Space Heating,120.14139231786417
+2030,Retrofit,Industry,Water Heating,314.54478102635267
+2030,Synthetic Gas,Commercial,Auxiliary Equipment,0.41122192543100017
+2030,Synthetic Gas,Commercial,Space Cooling,1.3635246313187086
+2030,Synthetic Gas,Commercial,Space Heating,11.27369996750493
+2030,Synthetic Gas,Commercial,Water Heating,7.507893112034737
+2030,Synthetic Gas,Public,Auxiliary Equipment,0.10692526130983736
+2030,Synthetic Gas,Public,Space Cooling,0.9625036695179459
+2030,Synthetic Gas,Public,Space Heating,4.38768020257451
+2030,Synthetic Gas,Public,Water Heating,3.3333051092331187
+2030,Synthetic Gas,Residential,Range,1.5615485404571101
+2030,Synthetic Gas,Residential,Space Heating,3.879001416768907
+2030,Synthetic Gas,Residential,Water Heating,1.621392415965747
+2030,Solar Energy,Commercial,Water Heating,2495.1896304359743
+2030,Solar Energy,Public,Water Heating,592.4285089695765
+2030,Solar Energy,Residential,Water Heating,19512.092410200334
+2030,Waste Heat,Industry,Space Heating,165.88419051534888
+2030,Waste Heat,Industry,Water Heating,207.62603973520393
+2035,Biomass,Industry,Industrial Processes,11864.821776882789
+2035,Biomass,Residential,Space Heating,263.8166460309826
+2035,Biomass,Residential,Water Heating,2.6801034502285908
+2035,Bio Methane,Commercial,Space Cooling,0.2715715715313366
+2035,Bio Methane,Commercial,Space Heating,2268.7241085102933
+2035,Bio Methane,Commercial,Water Heating,886.900205120728
+2035,Bio Methane,Industry,Industrial Processes,0.046980008379965965
+2035,Bio Methane,Industry,Space Heating,0.04663137959521311
+2035,Bio Methane,Industry,Water Heating,0.04695388993856515
+2035,Bio Methane,Public,Space Cooling,1.5859663454986197
+2035,Bio Methane,Public,Space Heating,593.300707261557
+2035,Bio Methane,Public,Water Heating,2.804592114050876
+2035,Bio Methane,Residential,Range,355.93926146701284
+2035,Bio Methane,Residential,Space Heating,1107.0658191377245
+2035,Bio Methane,Residential,Water Heating,4.459498609574089
+2035,Wood Pellet,Residential,Space Heating,518.3352958459868
+2035,Wood Pellet,Residential,Water Heating,1.7802385842244148
+2035,Coal,Industry,Industrial Processes,28.49914667311029
+2035,District Cooling,Commercial,Space Cooling,1729.2113761257647
+2035,District Cooling,Industry,Space Cooling,1.3698620593427635
+2035,District Cooling,Public,Space Cooling,2.908740247144327
+2035,District Cooling,Residential,Space Cooling,132.16000336682976
+2035,District Heating,Commercial,Space Heating,927.3017626975702
+2035,District Heating,Commercial,Water Heating,63.314145590153274
+2035,District Heating,Industry,Space Heating,134.3799960055573
+2035,District Heating,Industry,Water Heating,238.76770401347605
+2035,District Heating,Public,Space Heating,1383.5554494447088
+2035,District Heating,Public,Water Heating,2.3742979241062714
+2035,District Heating,Residential,Space Heating,1463.7383404509326
+2035,District Heating,Residential,Water Heating,12.224950118648218
+2035,Electricity,Commercial,Auxiliary Equipment,19721.333791889898
+2035,Electricity,Commercial,Auxiliary Motors,2328.5259925449236
+2035,Electricity,Commercial,Lighting,8549.94905210279
+2035,Electricity,Commercial,Space Cooling,1837.28312846667
+2035,Electricity,Commercial,Space Heating,208.65629018686178
+2035,Electricity,Commercial,Street Lighting,476.13097296201505
+2035,Electricity,Commercial,Water Heating,10.42906960239702
+2035,Electricity,Industry,Industrial Processes,1751.1383445018348
+2035,Electricity,Industry,Lighting,571.4884478156537
+2035,Electricity,Industry,Space Cooling,187.8324394653386
+2035,Electricity,Industry,Space Heating,389.25924550913913
+2035,Electricity,Industry,Water Heating,1029.935936798696
+2035,Electricity,Public,Auxiliary Equipment,2444.541652592126
+2035,Electricity,Public,Auxiliary Motors,551.9216411147129
+2035,Electricity,Public,Lighting,540.3255252439994
+2035,Electricity,Public,Space Cooling,1965.4855357036313
+2035,Electricity,Public,Space Heating,177.98441208791036
+2035,Electricity,Public,Water Heating,2.321075711146042
+2035,Electricity,Residential,Other Appliances,4213.10618157928
+2035,Electricity,Residential,Clothe Dryer,2156.6178122959805
+2035,Electricity,Residential,Clothe Washer,99.21239448284578
+2035,Electricity,Residential,Dish Washer,146.96184831462858
+2035,Electricity,Residential,Freezer,355.6326373602766
+2035,Electricity,Residential,Lighting,738.3288073042879
+2035,Electricity,Residential,Range,748.5418247594447
+2035,Electricity,Residential,Refrigerator,1306.662855526737
+2035,Electricity,Residential,Space Cooling,4520.160016708242
+2035,Electricity,Residential,Space Heating,3437.0550091418845
+2035,Electricity,Residential,Water Heating,10.08848549075134
+2035,ETHOS,Commercial,Space Cooling,1530.8190515606552
+2035,ETHOS,Commercial,Space Heating,12351.77477053698
+2035,ETHOS,Public,Space Cooling,0.9633745090357567
+2035,ETHOS,Public,Space Heating,2370.050191870418
+2035,ETHOS,Residential,Space Cooling,789.9264902514208
+2035,ETHOS,Residential,Space Heating,20411.518112066937
+2035,Geothermal,Commercial,Space Heating,3.6973360371817545
+2035,Geothermal,Public,Space Heating,1.4951836659328401
+2035,Geothermal,Residential,Space Heating,356.2094532279263
+2035,Heavy Fuel Oil,Commercial,Space Heating,7.109229886009092
+2035,Heavy Fuel Oil,Commercial,Water Heating,1.793952304756905
+2035,Heavy Fuel Oil,Industry,Industrial Processes,12.556725787279918
+2035,Heavy Fuel Oil,Industry,Space Heating,12.27447274520533
+2035,Heavy Fuel Oil,Industry,Water Heating,12.533028982031063
+2035,Heavy Fuel Oil,Public,Space Heating,0.7143245551158365
+2035,Heavy Fuel Oil,Public,Water Heating,0.18046779544437364
+2035,Hydrogen,Commercial,Space Heating,4.776809061621141
+2035,Hydrogen,Commercial,Water Heating,3.103951390767572
+2035,Hydrogen,Industry,Industrial Processes,32.02595242943138
+2035,Hydrogen,Industry,Space Heating,30.64176914785046
+2035,Hydrogen,Industry,Water Heating,32.067983761176016
+2035,Hydrogen,Public,Space Heating,1.797433197675368
+2035,Hydrogen,Public,Water Heating,1.0076725489508815
+2035,Hydrogen,Residential,Range,0.38830168700969375
+2035,Hydrogen,Residential,Space Heating,1.649506906324074
+2035,Hydrogen,Residential,Water Heating,1.1399388970827937
+2035,Kerosene,Commercial,Space Heating,5.187406325218217
+2035,Kerosene,Commercial,Water Heating,2.0001262258716044
+2035,Kerosene,Public,Space Heating,0.3471894716305606
+2035,Kerosene,Public,Water Heating,0.18748515303817254
+2035,Kerosene,Residential,Space Heating,22.247744256119628
+2035,Kerosene,Residential,Water Heating,2.5404716780111354
+2035,Light Fuel Oil,Commercial,Space Heating,42.10864063393263
+2035,Light Fuel Oil,Commercial,Water Heating,3.8610869177790867
+2035,Light Fuel Oil,Industry,Industrial Processes,54.82170107227032
+2035,Light Fuel Oil,Industry,Space Heating,49.9139603771035
+2035,Light Fuel Oil,Industry,Water Heating,54.381522363570056
+2035,Light Fuel Oil,Public,Space Heating,117.8490173940165
+2035,Light Fuel Oil,Public,Water Heating,0.6537866906636524
+2035,Light Fuel Oil,Residential,Space Heating,107.90717236666337
+2035,Light Fuel Oil,Residential,Water Heating,1.1926945810297862
+2035,Mix Energy,Industry,Industrial Processes,15596.581474846324
+2035,Natural Gas,Commercial,Auxiliary Equipment,2679.7742844666604
+2035,Natural Gas,Commercial,Space Cooling,2.5915631214090675
+2035,Natural Gas,Commercial,Space Heating,24515.523899118176
+2035,Natural Gas,Commercial,Water Heating,1475.8634283310848
+2035,Natural Gas,Industry,Industrial Processes,1772.296750868514
+2035,Natural Gas,Industry,Space Cooling,217.22761765908265
+2035,Natural Gas,Industry,Space Heating,530.1736938828573
+2035,Natural Gas,Industry,Water Heating,1922.0279625318694
+2035,Natural Gas,Public,Auxiliary Equipment,1.8242223779589632
+2035,Natural Gas,Public,Space Cooling,1.6156717093068655
+2035,Natural Gas,Public,Space Heating,4768.047189834112
+2035,Natural Gas,Public,Water Heating,2.8415974877312498
+2035,Natural Gas,Residential,Range,631.3176375449284
+2035,Natural Gas,Residential,Space Heating,29062.413470298146
+2035,Natural Gas,Residential,Water Heating,4.880262545336996
+2035,Pet Coke,Industry,Industrial Processes,68.84218681739398
+2035,Propane,Commercial,Auxiliary Equipment,85.9752497911046
+2035,Propane,Commercial,Space Heating,702.2343950647729
+2035,Propane,Commercial,Water Heating,20.962835945212163
+2035,Propane,Industry,Industrial Processes,11.531909897665146
+2035,Propane,Industry,Space Heating,11.288111685522505
+2035,Propane,Industry,Water Heating,11.511412851533628
+2035,Propane,Public,Auxiliary Equipment,0.4947441282313534
+2035,Propane,Public,Space Heating,2.61041718040113
+2035,Propane,Public,Water Heating,0.4865963577939206
+2035,Propane,Residential,Space Heating,204.71572403646007
+2035,Propane,Residential,Water Heating,0.8789766142093158
+2035,Retrofit,Industry,Industrial Processes,0.025031624470366744
+2035,Retrofit,Industry,Lighting,92.19720173108013
+2035,Retrofit,Industry,Space Cooling,0.017865701895497233
+2035,Retrofit,Industry,Space Heating,193.45513594686395
+2035,Retrofit,Industry,Water Heating,506.540912243265
+2035,Synthetic Gas,Commercial,Space Cooling,0.16324578687671448
+2035,Synthetic Gas,Commercial,Space Heating,13.423866891478657
+2035,Synthetic Gas,Commercial,Water Heating,7.068089084021444
+2035,Synthetic Gas,Public,Space Cooling,0.36019027963135825
+2035,Synthetic Gas,Public,Space Heating,6.84305857877006
+2035,Synthetic Gas,Public,Water Heating,1.2779738037451356
+2035,Synthetic Gas,Residential,Range,1.411784940010603
+2035,Synthetic Gas,Residential,Space Heating,3.968831007152889
+2035,Synthetic Gas,Residential,Water Heating,1.2909860010997065
+2035,Solar Energy,Commercial,Water Heating,4022.718944833467
+2035,Solar Energy,Public,Water Heating,1282.0382206477375
+2035,Solar Energy,Residential,Water Heating,20366.015822243477
+2035,Waste Heat,Industry,Space Heating,241.41254255935945
+2035,Waste Heat,Industry,Water Heating,360.1324620438518
+2040,Biomass,Industry,Industrial Processes,15318.914172712623
+2040,Biomass,Residential,Space Heating,380.8139674331775
+2040,Biomass,Residential,Water Heating,1.0749622262705996
+2040,Bio Methane,Commercial,Space Heating,169.31058265080216
+2040,Bio Methane,Commercial,Water Heating,19.115853853511588
+2040,Bio Methane,Industry,Industrial Processes,0.025869010979324085
+2040,Bio Methane,Industry,Space Heating,1.3754384372789028
+2040,Bio Methane,Industry,Water Heating,1.3832130029479133
+2040,Bio Methane,Public,Space Heating,38.66829078473578
+2040,Bio Methane,Public,Water Heating,2.118448592364555
+2040,Bio Methane,Residential,Range,49.72921797811379
+2040,Bio Methane,Residential,Space Heating,51.22889902316733
+2040,Bio Methane,Residential,Water Heating,1.9682817398608654
+2040,Wood Pellet,Residential,Space Heating,543.1454960861088
+2040,Wood Pellet,Residential,Water Heating,0.6300108735106709
+2040,Coal,Industry,Industrial Processes,0.018496858122776988
+2040,District Cooling,Commercial,Space Cooling,1393.0046623420365
+2040,District Cooling,Industry,Space Cooling,1.497442437070981
+2040,District Cooling,Public,Space Cooling,2.088659009388801
+2040,District Cooling,Residential,Space Cooling,35.33621320025041
+2040,District Heating,Commercial,Space Heating,3132.813700330259
+2040,District Heating,Commercial,Water Heating,12.150219009745916
+2040,District Heating,Industry,Space Heating,172.1403683922556
+2040,District Heating,Industry,Water Heating,637.6223646299085
+2040,District Heating,Public,Space Heating,2957.155137317823
+2040,District Heating,Public,Water Heating,2.5840935290862643
+2040,District Heating,Residential,Space Heating,1784.0609773150898
+2040,District Heating,Residential,Water Heating,4.415729640773035
+2040,Electricity,Commercial,Auxiliary Equipment,8584.747861810185
+2040,Electricity,Commercial,Auxiliary Motors,2365.144627999765
+2040,Electricity,Commercial,Lighting,8555.776405840945
+2040,Electricity,Commercial,Space Cooling,2140.2451446777504
+2040,Electricity,Commercial,Space Heating,762.3062258312996
+2040,Electricity,Commercial,Street Lighting,483.4261891943057
+2040,Electricity,Commercial,Water Heating,5.110031106941756
+2040,Electricity,Industry,Industrial Processes,353.6658693239141
+2040,Electricity,Industry,Lighting,518.6793178561433
+2040,Electricity,Industry,Space Cooling,258.05478195302624
+2040,Electricity,Industry,Space Heating,440.86193532691897
+2040,Electricity,Industry,Water Heating,1250.441660942948
+2040,Electricity,Public,Auxiliary Equipment,2238.3347828745154
+2040,Electricity,Public,Auxiliary Motors,560.8334434213359
+2040,Electricity,Public,Lighting,546.1215811384777
+2040,Electricity,Public,Space Cooling,1965.4714846296267
+2040,Electricity,Public,Space Heating,144.05622038611992
+2040,Electricity,Public,Water Heating,1.436637635522217
+2040,Electricity,Residential,Other Appliances,4360.516201866192
+2040,Electricity,Residential,Clothe Dryer,2232.0770866257335
+2040,Electricity,Residential,Clothe Washer,102.68539128008477
+2040,Electricity,Residential,Dish Washer,152.10392632677414
+2040,Electricity,Residential,Freezer,331.1858226379773
+2040,Electricity,Residential,Lighting,760.5229352588071
+2040,Electricity,Residential,Range,476.7613805689499
+2040,Electricity,Residential,Refrigerator,1373.9399857145854
+2040,Electricity,Residential,Space Cooling,4648.425615717675
+2040,Electricity,Residential,Space Heating,7880.535056621598
+2040,Electricity,Residential,Water Heating,38.37307251708708
+2040,ETHOS,Commercial,Space Cooling,2124.8084550716085
+2040,ETHOS,Commercial,Space Heating,17635.93263035074
+2040,ETHOS,Public,Space Cooling,1.6673136921998417
+2040,ETHOS,Public,Space Heating,3858.1561006559446
+2040,ETHOS,Residential,Space Cooling,1086.863747836644
+2040,ETHOS,Residential,Space Heating,28470.22814824637
+2040,Geothermal,Commercial,Space Heating,5.320082984226117
+2040,Geothermal,Public,Space Heating,1.802655593034843
+2040,Geothermal,Residential,Space Heating,517.2906385239403
+2040,Heavy Fuel Oil,Commercial,Space Heating,2.412237150384817
+2040,Heavy Fuel Oil,Commercial,Water Heating,0.4068873924079001
+2040,Heavy Fuel Oil,Industry,Industrial Processes,0.016975947918906623
+2040,Heavy Fuel Oil,Industry,Space Heating,0.025065143287815728
+2040,Heavy Fuel Oil,Industry,Water Heating,0.025494642741429388
+2040,Heavy Fuel Oil,Public,Space Heating,0.7476429843610598
+2040,Heavy Fuel Oil,Public,Water Heating,0.11412246748761419
+2040,Hydrogen,Commercial,Space Heating,6.736010267917416
+2040,Hydrogen,Commercial,Water Heating,2.7332987703871643
+2040,Hydrogen,Industry,Industrial Processes,6.1039636211390045
+2040,Hydrogen,Industry,Space Heating,43.54646501623996
+2040,Hydrogen,Industry,Water Heating,46.42951010958621
+2040,Hydrogen,Public,Space Heating,2.4161937992641684
+2040,Hydrogen,Public,Water Heating,1.0078179899625384
+2040,Hydrogen,Residential,Range,0.5395711622613958
+2040,Hydrogen,Residential,Space Heating,2.204220892188195
+2040,Hydrogen,Residential,Water Heating,0.9940261895148991
+2040,Kerosene,Commercial,Space Heating,1.6497693161144156
+2040,Kerosene,Commercial,Water Heating,0.48110601124511987
+2040,Kerosene,Public,Space Heating,0.37817207832576477
+2040,Kerosene,Public,Water Heating,0.12089718186414959
+2040,Kerosene,Residential,Space Heating,0.6076302549773408
+2040,Kerosene,Residential,Water Heating,0.19512164187645709
+2040,Light Fuel Oil,Commercial,Space Heating,3.3005128754832023
+2040,Light Fuel Oil,Commercial,Water Heating,0.5624158864631922
+2040,Light Fuel Oil,Industry,Industrial Processes,0.017693279864647818
+2040,Light Fuel Oil,Industry,Space Heating,0.026616008486693807
+2040,Light Fuel Oil,Industry,Water Heating,0.02714102399099586
+2040,Light Fuel Oil,Public,Space Heating,1.305804148395763
+2040,Light Fuel Oil,Public,Water Heating,0.22815901263024885
+2040,Light Fuel Oil,Residential,Space Heating,1.2857574408814736
+2040,Light Fuel Oil,Residential,Water Heating,0.20785039449784984
+2040,Mix Energy,Industry,Industrial Processes,15678.839608777276
+2040,Natural Gas,Commercial,Auxiliary Equipment,20392.3762426745
+2040,Natural Gas,Commercial,Space Cooling,4.302279461972886
+2040,Natural Gas,Commercial,Space Heating,18818.547118720566
+2040,Natural Gas,Commercial,Water Heating,32.62200183130282
+2040,Natural Gas,Industry,Industrial Processes,0.03337027047025943
+2040,Natural Gas,Industry,Space Cooling,149.10643066146662
+2040,Natural Gas,Industry,Space Heating,274.9955925967684
+2040,Natural Gas,Industry,Water Heating,825.8924473713702
+2040,Natural Gas,Public,Auxiliary Equipment,376.1471439577435
+2040,Natural Gas,Public,Space Cooling,0.5877316530180579
+2040,Natural Gas,Public,Space Heating,2244.361547240674
+2040,Natural Gas,Public,Water Heating,2.2204716211222775
+2040,Natural Gas,Residential,Range,1269.9293066510484
+2040,Natural Gas,Residential,Space Heating,11448.914715021387
+2040,Natural Gas,Residential,Water Heating,2.1984356867588617
+2040,Pet Coke,Industry,Industrial Processes,0.018376808923891968
+2040,Propane,Commercial,Auxiliary Equipment,1.5236215411169425
+2040,Propane,Commercial,Space Heating,9.788165253385886
+2040,Propane,Commercial,Water Heating,0.9568027416154536
+2040,Propane,Industry,Industrial Processes,0.024821041238430222
+2040,Propane,Industry,Space Heating,0.05273427966804045
+2040,Propane,Industry,Water Heating,0.053885717839727704
+2040,Propane,Public,Auxiliary Equipment,0.6804407978588513
+2040,Propane,Public,Space Heating,2.874687637434901
+2040,Propane,Public,Water Heating,0.3312333578140429
+2040,Propane,Residential,Space Heating,4.604374506393767
+2040,Propane,Residential,Water Heating,0.3242018188114889
+2040,Retrofit,Industry,Industrial Processes,0.029950633602829676
+2040,Retrofit,Industry,Lighting,148.50693946477227
+2040,Retrofit,Industry,Space Cooling,0.022915978267628034
+2040,Retrofit,Industry,Space Heating,311.6113611777125
+2040,Retrofit,Industry,Water Heating,815.8454056655165
+2040,Synthetic Gas,Commercial,Space Heating,17.191515606270144
+2040,Synthetic Gas,Commercial,Water Heating,4.167574154744235
+2040,Synthetic Gas,Public,Space Heating,7.225640460802897
+2040,Synthetic Gas,Public,Water Heating,1.0070025157116986
+2040,Synthetic Gas,Residential,Range,1.4355478302414952
+2040,Synthetic Gas,Residential,Space Heating,4.085460652960213
+2040,Synthetic Gas,Residential,Water Heating,0.678916079773149
+2040,Solar Energy,Commercial,Water Heating,6412.00223740943
+2040,Solar Energy,Public,Water Heating,1305.0002594253667
+2040,Solar Energy,Residential,Water Heating,21052.278322106038
+2040,Waste Heat,Industry,Space Heating,356.61144153213854
+2040,Waste Heat,Industry,Water Heating,612.208573210027
+2045,Biomass,Industry,Industrial Processes,15081.345624263608
+2045,Biomass,Residential,Space Heating,277.17822462957054
+2045,Biomass,Residential,Water Heating,1.2735433403852003
+2045,Bio Methane,Commercial,Space Heating,3138.783761470104
+2045,Bio Methane,Commercial,Water Heating,4.972638027269784
+2045,Bio Methane,Industry,Industrial Processes,0.02263055991457446
+2045,Bio Methane,Industry,Space Heating,0.023363808321909044
+2045,Bio Methane,Industry,Water Heating,0.023502945809397095
+2045,Bio Methane,Public,Space Heating,535.353430913877
+2045,Bio Methane,Public,Water Heating,1.9351993133139258
+2045,Bio Methane,Residential,Range,913.4383100786611
+2045,Bio Methane,Residential,Space Heating,1640.02566076891
+2045,Bio Methane,Residential,Water Heating,1.917344882646617
+2045,Wood Pellet,Residential,Space Heating,541.9554166617795
+2045,Wood Pellet,Residential,Water Heating,0.8458336121082745
+2045,Coal,Industry,Industrial Processes,0.013693202352873812
+2045,District Cooling,Commercial,Space Cooling,999.9915537622596
+2045,District Cooling,Industry,Space Cooling,2.394078328342964
+2045,District Cooling,Public,Space Cooling,1.1936835623772386
+2045,District Cooling,Residential,Space Cooling,9.378963320340052
+2045,District Heating,Commercial,Space Heating,2801.1772704746186
+2045,District Heating,Commercial,Water Heating,1.8443503060966684
+2045,District Heating,Industry,Space Heating,201.33313917162837
+2045,District Heating,Industry,Water Heating,665.7773073394012
+2045,District Heating,Public,Space Heating,1565.2008201194062
+2045,District Heating,Public,Water Heating,1.0371388827134265
+2045,District Heating,Residential,Space Heating,859.9832576489498
+2045,District Heating,Residential,Water Heating,9.930427778539988
+2045,Electricity,Commercial,Auxiliary Equipment,9262.898665831839
+2045,Electricity,Commercial,Auxiliary Motors,2401.763265714872
+2045,Electricity,Commercial,Lighting,8487.791567522392
+2045,Electricity,Commercial,Space Cooling,2042.0317719553432
+2045,Electricity,Commercial,Space Heating,4687.612708833993
+2045,Electricity,Commercial,Street Lighting,490.7214058737443
+2045,Electricity,Commercial,Water Heating,3.8501115522732814
+2045,Electricity,Industry,Industrial Processes,669.3640704132943
+2045,Electricity,Industry,Lighting,431.5522045751736
+2045,Electricity,Industry,Space Cooling,409.01666775404357
+2045,Electricity,Industry,Space Heating,428.131658125687
+2045,Electricity,Industry,Water Heating,1065.4212499863952
+2045,Electricity,Public,Auxiliary Equipment,2054.9923345530724
+2045,Electricity,Public,Auxiliary Motors,569.7452465224176
+2045,Electricity,Public,Lighting,552.0902529476369
+2045,Electricity,Public,Space Cooling,1891.3113493787407
+2045,Electricity,Public,Space Heating,776.1245834829257
+2045,Electricity,Public,Water Heating,1.4200054749827393
+2045,Electricity,Residential,Other Appliances,4508.373242549343
+2045,Electricity,Residential,Clothe Dryer,2307.7673212243617
+2045,Electricity,Residential,Clothe Washer,106.16902335790155
+2045,Electricity,Residential,Dish Washer,157.26148919040705
+2045,Electricity,Residential,Freezer,317.77591050590115
+2045,Electricity,Residential,Lighting,785.9061938672666
+2045,Electricity,Residential,Range,122.65590014858341
+2045,Electricity,Residential,Refrigerator,1445.4122452893512
+2045,Electricity,Residential,Space Cooling,4721.45261175935
+2045,Electricity,Residential,Space Heating,8917.901893343047
+2045,Electricity,Residential,Water Heating,10.227617407437375
+2045,ETHOS,Commercial,Space Cooling,2711.7404688515962
+2045,ETHOS,Commercial,Space Heating,22918.63769821135
+2045,ETHOS,Public,Space Cooling,2.5406951091048904
+2045,ETHOS,Public,Space Heating,5347.28268109048
+2045,ETHOS,Residential,Space Cooling,1396.3034338658347
+2045,ETHOS,Residential,Space Heating,36521.57970866773
+2045,Geothermal,Commercial,Space Heating,12.111791196026394
+2045,Geothermal,Public,Space Heating,3.80535281153858
+2045,Geothermal,Residential,Space Heating,697.3912206655498
+2045,Heavy Fuel Oil,Commercial,Space Heating,2.0381851042689036
+2045,Heavy Fuel Oil,Commercial,Water Heating,0.3218327802735405
+2045,Heavy Fuel Oil,Industry,Industrial Processes,0.01481649971358513
+2045,Heavy Fuel Oil,Industry,Space Heating,0.015117130092480838
+2045,Heavy Fuel Oil,Industry,Water Heating,0.01517591666715754
+2045,Heavy Fuel Oil,Public,Space Heating,0.7539019611001876
+2045,Heavy Fuel Oil,Public,Water Heating,0.09892286350034839
+2045,Hydrogen,Commercial,Space Heating,11.286287160834334
+2045,Hydrogen,Commercial,Water Heating,3.4012445702329512
+2045,Hydrogen,Industry,Industrial Processes,10.25438139188022
+2045,Hydrogen,Industry,Space Heating,41.061140858894035
+2045,Hydrogen,Industry,Water Heating,44.24204864317964
+2045,Hydrogen,Public,Space Heating,4.043313989518562
+2045,Hydrogen,Public,Water Heating,1.3449353326994897
+2045,Hydrogen,Residential,Range,3.223835649340135
+2045,Hydrogen,Residential,Space Heating,2.62887152650584
+2045,Hydrogen,Residential,Water Heating,1.3166635677243061
+2045,Kerosene,Commercial,Space Heating,1.2450215669750935
+2045,Kerosene,Commercial,Water Heating,0.38645632361268173
+2045,Kerosene,Public,Space Heating,0.37969658045024895
+2045,Kerosene,Public,Water Heating,0.10354214101261335
+2045,Kerosene,Residential,Space Heating,0.49745466856909665
+2045,Kerosene,Residential,Water Heating,0.18201705100255092
+2045,Light Fuel Oil,Commercial,Space Heating,2.881045049113687
+2045,Light Fuel Oil,Commercial,Water Heating,0.45783771936429635
+2045,Light Fuel Oil,Industry,Industrial Processes,0.015406777078365996
+2045,Light Fuel Oil,Industry,Space Heating,0.0157327021293004
+2045,Light Fuel Oil,Industry,Water Heating,0.01579745937936142
+2045,Light Fuel Oil,Public,Space Heating,1.2760359028868242
+2045,Light Fuel Oil,Public,Water Heating,0.21289877636429466
+2045,Light Fuel Oil,Residential,Space Heating,1.030440271881783
+2045,Light Fuel Oil,Residential,Water Heating,0.19767185755182803
+2045,Mix Energy,Industry,Industrial Processes,15761.092792755873
+2045,Natural Gas,Commercial,Auxiliary Equipment,19863.67939848235
+2045,Natural Gas,Commercial,Space Cooling,0.8814838104067273
+2045,Natural Gas,Commercial,Space Heating,1692.9391216485872
+2045,Natural Gas,Commercial,Water Heating,4.9784540784316125
+2045,Natural Gas,Industry,Industrial Processes,0.027468381246845665
+2045,Natural Gas,Industry,Space Cooling,0.028515714461144665
+2045,Natural Gas,Industry,Space Heating,0.028546470736151054
+2045,Natural Gas,Industry,Water Heating,0.02872810985596225
+2045,Natural Gas,Public,Auxiliary Equipment,715.5619586132171
+2045,Natural Gas,Public,Space Cooling,0.4171639586342754
+2045,Natural Gas,Public,Space Heating,304.3359847927136
+2045,Natural Gas,Public,Water Heating,1.935082691853215
+2045,Natural Gas,Residential,Range,817.5826132170246
+2045,Natural Gas,Residential,Space Heating,783.908094079463
+2045,Natural Gas,Residential,Water Heating,1.9198423969064584
+2045,Pet Coke,Industry,Industrial Processes,0.013579614187447452
+2045,Propane,Commercial,Auxiliary Equipment,1.2870126907198307
+2045,Propane,Commercial,Space Heating,6.72406887239388
+2045,Propane,Commercial,Water Heating,0.7397994742750551
+2045,Propane,Industry,Industrial Processes,0.02112175884613214
+2045,Propane,Industry,Space Heating,0.02174616413524824
+2045,Propane,Industry,Water Heating,0.02185811175169989
+2045,Propane,Public,Auxiliary Equipment,0.5178398643433139
+2045,Propane,Public,Space Heating,2.2419973271010276
+2045,Propane,Public,Water Heating,0.29213148321354043
+2045,Propane,Residential,Space Heating,2.6380560546630205
+2045,Propane,Residential,Water Heating,0.27283154287230227
+2045,Retrofit,Industry,Industrial Processes,0.038824895037006216
+2045,Retrofit,Industry,Lighting,239.1346602695509
+2045,Retrofit,Industry,Space Cooling,0.029183518767151303
+2045,Retrofit,Industry,Space Heating,501.5408915690296
+2045,Retrofit,Industry,Water Heating,1313.5855058765155
+2045,Synthetic Gas,Commercial,Space Heating,17.775768688606252
+2045,Synthetic Gas,Commercial,Water Heating,2.174189993844742
+2045,Synthetic Gas,Public,Space Heating,6.749209364971044
+2045,Synthetic Gas,Public,Water Heating,0.898347406466853
+2045,Synthetic Gas,Residential,Range,2.474614696813898
+2045,Synthetic Gas,Residential,Space Heating,3.0276263850613376
+2045,Synthetic Gas,Residential,Water Heating,0.6870027102220914
+2045,Solar Energy,Commercial,Water Heating,6567.686321932991
+2045,Solar Energy,Public,Water Heating,1327.213638297159
+2045,Solar Energy,Residential,Water Heating,21775.218230471022
+2045,Waste Heat,Industry,Space Heating,437.47713997978946
+2045,Waste Heat,Industry,Water Heating,1122.7823371897744
+2050,Biomass,Industry,Industrial Processes,12655.425309323096
+2050,Bio Methane,Industry,Industrial Processes,0.5169950713486102
+2050,Bio Methane,Industry,Space Heating,0.3631626238689317
+2050,Bio Methane,Industry,Water Heating,0.40288507161727966
+2050,Bio Methane,Residential,Range,64.66420946903337
+2050,Coal,Industry,Industrial Processes,0.24404748879585514
+2050,District Cooling,Commercial,Space Cooling,999.9775225953672
+2050,District Cooling,Industry,Space Cooling,5.5590720417468065
+2050,District Cooling,Public,Space Cooling,5.343835991309238
+2050,District Cooling,Residential,Space Cooling,13.534316017056653
+2050,District Heating,Commercial,Space Heating,1292.3427389737296
+2050,District Heating,Commercial,Water Heating,2984.374154989732
+2050,District Heating,Public,Space Heating,214.9812726791463
+2050,District Heating,Public,Water Heating,1349.6760287869333
+2050,District Heating,Residential,Space Heating,9.249876079708892
+2050,District Heating,Residential,Water Heating,860.1660943922298
+2050,Electricity,Commercial,Auxiliary Equipment,18185.766966673982
+2050,Electricity,Commercial,Auxiliary Motors,2438.3818992216966
+2050,Electricity,Commercial,Lighting,8532.190882568335
+2050,Electricity,Commercial,Space Cooling,1803.2464515420627
+2050,Electricity,Commercial,Space Heating,5104.969679166682
+2050,Electricity,Commercial,Street Lighting,498.0166222152148
+2050,Electricity,Commercial,Water Heating,4681.974087569446
+2050,Electricity,Industry,Industrial Processes,3163.2587563070874
+2050,Electricity,Industry,Lighting,337.09373619807116
+2050,Electricity,Industry,Space Cooling,409.842042075841
+2050,Electricity,Industry,Space Heating,154.212387756974
+2050,Electricity,Industry,Water Heating,187.96662307132667
+2050,Electricity,Public,Auxiliary Equipment,1813.2259274252297
+2050,Electricity,Public,Auxiliary Motors,578.6570478020071
+2050,Electricity,Public,Lighting,560.7655150235531
+2050,Electricity,Public,Space Cooling,1887.6685068243276
+2050,Electricity,Public,Space Heating,1141.6460809996506
+2050,Electricity,Public,Water Heating,3.9277275619827434
+2050,Electricity,Residential,Other Appliances,4656.2016043237545
+2050,Electricity,Residential,Clothe Dryer,2383.458035616247
+2050,Electricity,Residential,Clothe Washer,109.65483641931992
+2050,Electricity,Residential,Dish Washer,162.41805166771397
+2050,Electricity,Residential,Freezer,315.1573483498566
+2050,Electricity,Residential,Lighting,808.9637653547738
+2050,Electricity,Residential,Range,0.44784323780140384
+2050,Electricity,Residential,Refrigerator,1505.9061245926462
+2050,Electricity,Residential,Space Cooling,4789.509419290809
+2050,Electricity,Residential,Space Heating,6464.936194722678
+2050,Electricity,Residential,Water Heating,21596.647126258376
+2050,ETHOS,Commercial,Space Cooling,3278.2181778056056
+2050,ETHOS,Commercial,Space Heating,28207.873155853948
+2050,ETHOS,Public,Space Cooling,3.4762855846190623
+2050,ETHOS,Public,Space Heating,6839.8676575516765
+2050,ETHOS,Residential,Space Cooling,1699.5925971761112
+2050,ETHOS,Residential,Space Heating,44588.644275177176
+2050,Geothermal,Commercial,Space Heating,19.761386594256535
+2050,Geothermal,Public,Space Heating,7.922680231521665
+2050,Geothermal,Residential,Space Heating,874.5193752292926
+2050,Heavy Fuel Oil,Industry,Industrial Processes,0.16050290194997924
+2050,Heavy Fuel Oil,Industry,Space Heating,0.1509150112971381
+2050,Heavy Fuel Oil,Industry,Water Heating,0.15515452347071895
+2050,Hydrogen,Industry,Industrial Processes,22.56278714042473
+2050,Hydrogen,Industry,Space Heating,33.901192568201544
+2050,Hydrogen,Industry,Water Heating,35.66864444237889
+2050,Hydrogen,Residential,Range,185.22824983523768
+2050,Light Fuel Oil,Industry,Industrial Processes,0.1699136536814396
+2050,Light Fuel Oil,Industry,Space Heating,0.15753665258514238
+2050,Light Fuel Oil,Industry,Water Heating,0.16295636784130568
+2050,Mix Energy,Industry,Industrial Processes,15843.332113326793
+2050,Natural Gas,Industry,Industrial Processes,0.4591636506293168
+2050,Natural Gas,Industry,Space Cooling,0.44365476859231484
+2050,Natural Gas,Industry,Space Heating,0.41566743244371623
+2050,Natural Gas,Industry,Water Heating,0.43118334752167137
+2050,Natural Gas,Residential,Range,1664.0493977786834
+2050,Pet Coke,Industry,Industrial Processes,0.24397293568521525
+2050,Propane,Commercial,Auxiliary Equipment,8647.09268373556
+2050,Propane,Industry,Industrial Processes,0.2906649380862293
+2050,Propane,Industry,Space Heating,0.2652675759564454
+2050,Propane,Industry,Water Heating,0.2752426741873795
+2050,Propane,Public,Auxiliary Equipment,1488.672949785111
+2050,Retrofit,Industry,Industrial Processes,0.05878518126282146
+2050,Retrofit,Industry,Lighting,337.09373610365964
+2050,Retrofit,Industry,Space Cooling,0.04919784578458472
+2050,Retrofit,Industry,Space Heating,809.0249667396765
+2050,Retrofit,Industry,Water Heating,2116.9486626712437
+2050,Synthetic Gas,Residential,Range,5.953995116381787
+2050,Waste Heat,Industry,Space Heating,619.5588369202574
+2050,Waste Heat,Industry,Water Heating,1891.885972950995
